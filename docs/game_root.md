@@ -4,7 +4,7 @@
 
 [Setting up Stock Game for Skyrim SE - by Althro](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#setting-up-stock-game-for-skyrim-se---by-althro)
 
-## Clean Skyrim Install
+## Clean Skyrim install
 
 * if already installed, in `Steam`:
   * uninstall `Skyrim Special Edition`
@@ -24,7 +24,7 @@
     * let it expand the resources
     * quit it
 
-### Creation Club Content
+### Creation Club content
 
 The content creation consists of **148** files in total:
 
@@ -43,7 +43,7 @@ The **148** files should now be located in `SteamLibrary\steamapps\common\Skyrim
 > [!WARNING]
 > You should make a backup of the *CC content* at this stage, by copying all the 148 file to a `CC Backup` folder outside the `Skyrim` or the compilation folder.
 
-## Copy Files to game_root
+## Copy files to game_root
 
 * create a new `game_root` folder in the **top folder**
 * add `game_root/` to `.gitignore`, if not already ignored
