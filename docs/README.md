@@ -11,10 +11,11 @@ References:
 
 Setup:
 
-* [configure git](setup/git_configuration.md)
-* [install mod organizer 2](setup/mo2_install.md)
-* [setup a portable mod organizer 2 configuration](setup/mo2_portable_setup.md)
+* [configure git](git_configuration.md)
+* [install mod organizer 2](mo2_install.md)
+* [setup a portable mod organizer 2 configuration](mo2_portable_setup.md)
 
 Other stuff:
 
-* [docsify](setup/docsify.md)
+* [docsify](docsify.md)
+* [webp](webp.md)
