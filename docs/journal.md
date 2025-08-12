@@ -16,8 +16,8 @@ installed=true
 removed=true
 ```
 
-[!NOTE]
-The `installed=true` marks the mod as installed.
+> [!NOTE]
+> The `installed=true` marks the mod as installed.
 
-[!NOTE]
-The `removed=true` marks the mod as *hidden*.
+> [!NOTE]
+> The `removed=true` marks the mod as *hidden*.
