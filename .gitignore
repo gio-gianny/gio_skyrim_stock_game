@@ -5,6 +5,7 @@ downloads/*.zip
 downloads/*.7z
 downloads/*.rar
 explorer++/
+game_root/
 licenses/
 logs/
 loot/
