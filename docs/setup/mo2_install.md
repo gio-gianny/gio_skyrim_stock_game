@@ -1,13 +1,12 @@
-# Journal
+# Installing Mod Organizer 2
 
-## Create basic structure
-
-* create a new folder
 * download the latest `Mod.Organizer-*.7z` from [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
 * extract it in the top folder
 * create a `downloads` folder
 * move the `Mod.Organizer-*.7z` to the `downloads`
 * create a `.meta` for it
+
+## MO2 meta example
 
 ```ini
 [General]
@@ -18,6 +17,5 @@ removed=true
 
 > [!NOTE]
 > The `installed=true` marks the mod as *installed*.
-
-> [!NOTE]
-> The `removed=true` marks the mod as *hidden*.
+>
+> The `removed=true` marks the mod as *hidden*. The mod will be shown when clicking the `Hidden Files` checkbox on the `Downloads` tab.
