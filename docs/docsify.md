@@ -39,3 +39,13 @@ docsify serve docs/web/
 * navigate to **Settings > Pages**
 * under **Branch**, select `master` and click **Save**
 * the site will available at `http://<your username>.github.io/<your_repo>/`
+
+## Configure Project About section
+
+* go to the repo on GitHub
+* click the **Gear** next to the **About**
+* in the **Website** section, check the **Use your GitHub Pages website**
+* in the **Include in the home page**, uncheck all items:
+  * [ ] Releases
+  * [ ] Packages
+  * [ ] Deployments
