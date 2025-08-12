@@ -29,13 +29,11 @@ Click `-> Steam`.
 
 ## Configure your profile settings
 
-Check the checkboxes as in the table bellow
+Check all the checkboxes
 
-| text | state |
-|---|---|
-| `Use profile-specific game INI files` | checked |
-| `Use profile-specific save games` | checked |
-| `Automatic archive invalidation` | checked |
+* [x] Use profile-specific game INI files
+* [x] Use profile-specific save games
+* [x] Automatic archive invalidation
 
 Click `Next >`.
 

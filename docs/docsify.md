@@ -44,14 +44,14 @@ docsify serve docs/web/
 └── README.md
 ```
 
-| Page | Notes |
+| File/Folder | Notes |
 |---|---|
-| `docs/` | Documentation folder |
-| `wabbajack/image.webp` | Compilation cover |
-| `_sidebar.md` | The navigation sidebar on the left |
-| `.nojekyll` | Tell `GitHub` to not treat specially files starting with `_` (like the `_sidebar.md`) |
-| `index.html` | Configures `docsify` |
-| `README.md` | The first page |
+| docs/ | Documentation folder |
+| image.webp | Wabbajack compilation cover |
+| _sidebar.md | The navigation sidebar on the left |
+| .nojekyll | Tell *GitHub* to not treat specially files starting with `_` (like the `_sidebar.md`) |
+| index.html | Contains *docsify* configuration (like what plugins to load, plugin configuration, stylesheets to use, etc) |
+| README.md | Site's homepage |
 
 ## GitHub Pages
 
@@ -59,7 +59,7 @@ docsify serve docs/web/
 > The project must be **public** in order to be able to enable web pages or you need to have a **paid** GitHub subscription.
 
 > [!WARNING]
-> `GitHub Pages` doesn't display images stored using `git lfs`, so avoid doing so if you want to use `docsify` to deploy your site.
+> *GitHub Pages* **don't display** images stored using `git lfs`, so avoid doing so if you want to use *docsify* to deploy your site.
 
 * go to the repo on GitHub
 * navigate to **Settings > Pages**
