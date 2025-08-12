@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=66329
+fileID=459388
+url=
+name=creation_organizer-1.1.0
+description=Fixed PyQt6 compatibility. This version (1.1.0) will work with newer and older versions of MO2.
+modName=Creation Organizer - Mod Organizer 2 Plugin for Creation Club
+version=1.1.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true
