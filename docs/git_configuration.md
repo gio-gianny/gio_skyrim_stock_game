@@ -25,7 +25,7 @@ git config user.email ***
 
 Create a basic `.gitignore` that will ignore downloaded stuff:
 
-```txt
+```bash
 # ignored dirs
 crashDumps/
 dlls/

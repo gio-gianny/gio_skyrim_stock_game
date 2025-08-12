@@ -7,7 +7,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Wabbajack Skyrim compilation">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" /> -->
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" /> -->
 
   <!-- Font Awesome -->
@@ -30,7 +29,14 @@
 
 <body>
   <div id="app"></div>
-  <script>
+
+  <script type="module">
+    // import themes and languages from esm.sh
+    import dark_plus from 'https://esm.sh/@shikijs/themes@1/dark-plus';
+    import dotenv from 'https://esm.sh/@shikijs/langs@1/dotenv';
+    import json from 'https://esm.sh/@shikijs/langs@1/json';
+    import shellscript from 'https://esm.sh/@shikijs/langs@1/shellscript';
+
     window.$docsify = {
       name: "Gio's Skyrim",
       repo: 'https://github.com/gio-gianny/gio_skyrim_stock_game',
@@ -56,7 +62,11 @@
             document.title += " - Gio's Skyrim";
           });
         }
-      ]
+      ],
+      shiki: {
+        theme: dark_plus,
+        langs: [dotenv, json, shellscript],
+      }
     }
   </script>
 
@@ -64,22 +74,25 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 
   <!-- Text Search: https://docsify.js.org/#/plugins?id=full-text-search -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 
   <!-- Theme: https://github.com/jhildenbiddle/docsify-themeable -->
-  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script type="module" src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
   <!-- Flexible Alerts: https://github.com/fzankl/docsify-plugin-flexible-alerts -->
-  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script type="module" src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 
   <!-- Copy Code: https://github.com/jperasmus/docsify-copy-code -->
-  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <script type="module" src="https://unpkg.com/docsify-copy-code@2"></script>
 
   <!-- FontAwesome: https://github.com/erickjx/docsify-fontawesome -->
-  <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+  <script type="module" src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
 
   <!-- Pagination: https://github.com/imyelo/docsify-pagination -->
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script type="module" src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+  <!-- Syntax highlighting with Shiki: https://github.com/simochee/docsify-shiki -->
+  <script type="module" src="//cdn.jsdelivr.net/npm/docsify-shiki@v1"></script>
 </body>
 
 </html>
