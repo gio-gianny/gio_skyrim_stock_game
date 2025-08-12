@@ -1,10 +1,13 @@
-# Create basic structure
+# Project Structure
 
-## Basic configuration
+## git lfs
 
-* create a new folder
-* initialize and configure `git`
-* create a basic `.gitignore` that will ignore downloaded stuff
+> [!WARNING]
+> `GitHub` pages don't display correctly images stored using `git lfs`. For this reason, **don't use `git lfs`**.
+
+## git basic configuration
+
+Initialize and configure `git`:
 
 ```bash
 git init .
@@ -18,14 +21,11 @@ git config user.name Gio
 git config user.email ***
 ```
 
-## git lfs
-
-> [!WARNING]
-> `GitHub` pages can't display correctly images stored using git LFS.
-
 ## .gitignore
 
-```bash
+Create a basic `.gitignore` that will ignore downloaded stuff:
+
+```txt
 # ignored dirs
 crashDumps/
 dlls/

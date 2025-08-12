@@ -10,14 +10,25 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/buble.css" /> -->
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" /> -->
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
+  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
+  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
+  <link rel="stylesheet" href="//unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
 </head>
 
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: '',
+      name: "Gio's Skyrim",
+      repo: 'https://github.com/gio-gianny/gio_skyrim_stock_game',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      // Use markdown navbar
+      copyCode: {
+        buttonText: '<i class="fa-solid fa-copy"></i>',
+      },
       // Relative path enabled
       relativePath: true,
       'flexible-alerts': {
@@ -29,6 +40,10 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- https://github.com/fzankl/docsify-plugin-flexible-alerts -->
   <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <!-- Copy to Clipboard: https://github.com/jperasmus/docsify-copy-code/blob/master/README.md -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+  <!-- https://github.com/erickjx/docsify-fontawesome -->
+  <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
 </body>
 
 </html>
