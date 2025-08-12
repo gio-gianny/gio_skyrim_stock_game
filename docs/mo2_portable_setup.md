@@ -1,4 +1,7 @@
-# Portable MO2 setup
+# Portable MO2 Instance Setup
+
+> [!WARNING]
+> These steps must be done after copying files to the `game_root` as described [here](game_root.md).
 
 > [!NOTE]
 > The `Creating a new instance` wizard will be shown the first time you are running `MO2`.
@@ -17,7 +20,7 @@ Click `-> Create a portable instance`.
 
 ## Select the game to manage
 
-Click `Skyrim Special Edition`.
+Click `-> Browse` and then select the `game_root` folder.
 
 ![Select the game to manage](images/mo2_portable_setup_03.png)
 

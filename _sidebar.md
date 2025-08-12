@@ -2,8 +2,9 @@
 * [Development](/docs/README.md)
   * [References](/docs/references.md)
   * [Project Structure](/docs/git_configuration.md)
-  * [Installing MO2](/docs/mo2_install.md)
-  * [Portable MO2 Setup](/docs/mo2_portable_setup.md)
+  * [Install MO2](/docs/mo2_install.md)
+  * [Setup game_root](/docs/game_root.md)
+  * [Setup Portable MO2](/docs/mo2_portable_setup.md)
 * Misc
   * [docsify](/docs/docsify.md)
   * [webp](/docs/webp.md)
