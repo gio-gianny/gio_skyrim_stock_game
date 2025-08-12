@@ -15,19 +15,45 @@ scoop install nodejs-lts
 npm i docsify-cli -g
 ```
 
-## Create the basic docsify setup
+## Basic docsify setup
 
 ```bash
-docsify init ./docs/web
+docsify init .
 ```
 
-## Preview the docs
+## Docs preview
 
 ```bash
 docsify serve docs/web/
 ```
 
-## Configure GitHub Pages
+## Site layout
+
+```txt
+.
+├── docs/
+│   ├── images/
+│   │   └── ...
+│   ├── README.md
+│   └── ...
+├── wabbajack
+│   └── image.webp
+├── _sidebar.md
+├── .nojekyll
+├── index.html
+└── README.md
+```
+
+| Page | Notes |
+|---|---|
+| `docs/` | Documentation folder |
+| `wabbajack/image.webp` | Compilation cover |
+| `_sidebar.md` | The navigation sidebar on the left |
+| `.nojekyll` | Tell `GitHub` to not treat specially files starting with `_` (like the `_sidebar.md`) |
+| `index.html` | Configures `docsify` |
+| `README.md` | The first page |
+
+## GitHub Pages
 
 > [!NOTE]
 > The project must be **public** in order to be able to enable web pages or you need to have a **paid** GitHub subscription.
@@ -40,7 +66,7 @@ docsify serve docs/web/
 * under **Branch**, select `master` and click **Save**
 * the site will available at `http://<your username>.github.io/<your_repo>/`
 
-## Configure Project About section
+## GitHub Project About
 
 * go to the repo on GitHub
 * click the **Gear** next to the **About**
