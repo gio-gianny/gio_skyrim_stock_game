@@ -1,5 +1,7 @@
 # Create basic structure
 
+## Basic configuration
+
 * create a new folder
 * initialize and configure `git`
 * create a basic `.gitignore` that will ignore downloaded stuff
@@ -15,6 +17,11 @@ git config user.name Gio
 ```bash
 git config user.email ***
 ```
+
+## git lfs
+
+> [!WARNING]
+> `GitHub` pages can't display correctly images stored using git LFS.
 
 ## .gitignore
 
