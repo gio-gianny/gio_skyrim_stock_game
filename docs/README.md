@@ -13,4 +13,8 @@ Setup:
 
 * [configure git](setup/git_configuration.md)
 * [install mod organizer 2](setup/mo2_install.md)
-* [setup a portable mod organizer 2 configuration](setup/mo2_portable_configuration.md)
+* [setup a portable mod organizer 2 configuration](setup/mo2_portable_setup.md)
+
+Other stuff:
+
+* [docsify](setup/docsify.md)

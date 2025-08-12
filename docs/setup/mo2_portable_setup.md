@@ -7,7 +7,7 @@
 
 Click `Next >`.
 
-![What is an instance?](images/mo2_portable_setup_01.png)
+![What is an instance?](./images/mo2_portable_setup_01.png)
 
 ## Select the type of instance to create
 
