@@ -2,14 +2,6 @@
 
 ## Install tools
 
-### Debian/Ubuntu
-
-```bash
-sudo apt install webp
-```
-
-### Windows
-
 ```bash
 scoop install libwebp
 ```
