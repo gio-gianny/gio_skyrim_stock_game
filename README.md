@@ -4,7 +4,7 @@
 
 [Developement notes](docs/README.md)
 
-![cover](wabbajack/image.webp)
+![cover](./wabbajack/image.webp)
 
 ## Credits
 
