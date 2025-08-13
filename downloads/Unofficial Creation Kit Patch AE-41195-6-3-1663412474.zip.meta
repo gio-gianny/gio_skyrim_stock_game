@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=41195
+fileID=316831
+url=
+name=Unofficial Creation Kit Patch AE
+description=Advanced Performance Tweaks\n<br />Fixed a Few Issues with INI\n<br />Fully Tested and Working \n<br /><br />Please uninstall any older versions before updating (See Description)
+modName=Unofficial Creation Kit Patch
+version=6.3.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=84
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

@@ -12,6 +12,8 @@
   * [Address Library](address_library.md)
   * [Engine Fixes](engine_fixes.md)
   * [Optional Quick Start](mods_optional_quick_start.md)
+  * [Creation Kit](creation_kit.md)
 * Misc
   * [docsify](docsify.md)
+  * [unmanaged files](unmanaged_files.md)
   * [webp](webp.md)

@@ -2,6 +2,8 @@
 -New Mods_separator
 +Optional Quick Start - SE
 -Essentials - No dependencies_separator
+-SSE Creation Kit Fonixdata Lip Sync Fix
+-Creation Kit_separator
 +SSE Engine Fixes (skse64 plugin)
 +Address Library for SKSE Plugins
 +Skyrim Script Extender (SKSE64)
