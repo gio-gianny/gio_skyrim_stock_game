@@ -18,7 +18,7 @@
 | Title | Gio Scratch (Stock Game) |
 | Selected MO2 Profile | Default |
 | Description | A simple Skyrim compilation using stock game. |
-| Image | `D:\Modlists\__PROTOTYPE_gio_skyrim_stock_game\wabbajack\image.webp` |
+| Image | `D:\Modlists\__PROTOTYPE_gio_skyrim_stock_game\docs\images\cover.webp` |
 | Downloads folder | `D:\Modlists\__PROTOTYPE_gio_skyrim_stock_game\downloads` |
 | Export destination | `D:\Modlists\Gio Scratch (Stock Game).wabbajack` |
 | Documentation | <https://gio-gianny.github.io/gio_skyrim_stock_game/> |
@@ -32,13 +32,9 @@
 | crashDumps/ | Ignore |
 | docs/ | Ignore |
 | logs/ | Ignore |
-| wabbajack/ | Ignore |
-| _sidebar.md | Ignore |
 | .gitattributes | Ignore |
 | .gitignore | Ignore |
-| .nojekyll | Ignore |
 | .vscode | Ignore |
-| index.html | Ignore |
 | README.md | Ignore |
 
 ## Compiler settings
@@ -52,7 +48,7 @@ Once the compilation finishes successfully, the above should result in something
   "Downloads": "D:\\Modlists\\__PROTOTYPE_gio_skyrim_stock_game\\downloads",
   "Game": "SkyrimSpecialEdition",
   "OutputFile": "D:\\Modlists\\Gio Scratch (Stock Game).wabbajack",
-  "ModListImage": "D:\\Modlists\\__PROTOTYPE_gio_skyrim_stock_game\\wabbajack\\image.webp",
+  "ModListImage": "D:\\Modlists\\__PROTOTYPE_gio_skyrim_stock_game\\docs\\images\\cover.webp",
   "UseGamePaths": false,
   "UseTextureRecompression": false,
   "OtherGames": [],
@@ -76,11 +72,8 @@ Once the compilation finishes successfully, the above should result in something
     "logs",
     "wabbajack",
     "crashDumps",
-    "_sidebar.md",
     ".gitattributes",
     ".gitignore",
-    ".nojekyll",
-    "index.html",
     "README.md"
   ],
   "AlwaysEnabled": [],
