@@ -11,6 +11,7 @@ Download the latest `skse` package for your *Skyrim version* from [nexus](https:
 
 ## Install scripts
 
+> [!NOTE]
 > We are installing the `Scripts` from *skse* as a module for easier update in the future.
 
 In *Mod Organizer 2*:
@@ -19,35 +20,66 @@ In *Mod Organizer 2*:
 * you will be informed that `The content of <data> does not look valid.`
 * if the tutorial pops up, feel free to read through this if this is your first time or just exit by clicking the `Exit Tutorial` box
 
-![invalid data](images/skse64_1.png)
+![invalid data](images/skse64_scripts_1.png)
 
 * expand the `skse64_x_x_x` item and right-click the `Data` folder
 * select the `Set as <data> directory` menu
 
-![set as <data> directory](images/skse64_2.png)
+![set as <data> directory](images/skse64_scripts_2.png)
 
 * after selecting the `Set as <data> directory` menu, the `Content` should look like bellow
 * the dialog should show `The content of <data> looks valid.`
 * click the `OK` button
+* enable the new mod
 
-![valid data](images/skse64_3.png)
+![valid data](images/skse64_scripts_3.png)
 
 ## Install binaries
 
-> There is only one `.exe` and one `.dll`, so it is OK to install them by hand
+> [!NOTE]
+> There is only one `.exe` and one `.dll`, so it is OK to install them by hand.
 
 * the `.exe` and the `.dll` must be copied by hand in the `game_root` folder
 * double-click the *skse* archive to open it with your *archive manager* (for example, [7-zip](https://www.7-zip.org/))
 * select the `.exe` and the `.dll`
 * drag-and-drop in the `game_root` folder
 
-![skse64 binaries](images/skse64_4.png)
+![skse64 binaries](images/skse64_binaries_1.png)
 
-![game folder with skese64 binaries](images/skse64_5.png)
+![game folder with skese64 binaries](images/skse64_binaries_2.png)
 
-## Updating
+## Game launcher
 
-If you need to update the *skse* in the future:
+> [!TIP]
+> *Mod Organizer 2* automatically creates an `SKSE` launcher when started, if such a launcher is not present and *MO2* finds the `skse64_loader.exe` in the game folder.
+>
+> However, if an `SKSE` launcher is found, it is not updated, so any changes done to it, like making it hidden, are preserved.
+
+* if the `SKSE` launcher is not present, restart *MO2*
+* rename the `SKSE` launcher however you like and move it at the top
+* add it to the tool bar by clicking the `Shortcut` button and selecting `Toolbar and Menu`
+
+![skse launcher with custom name](images/skse64_custom_launcher.png)
+
+* restart *MO2*
+* a new `SKSE` launcher will be created automatically
+* select it and check the `Hide in user interface`
+
+![hidden default skse launcher](images/skse64_hidden_default_launcher.png)
+
+![launcher menu](images/skse64_launcher_menu.png)
+
+## Verify the install
+
+* launch the game using the new launcher
+* in the console, type `getskseversion`
+* if *skse* is correctly installed, it should show your actual version
+
+![skse version](images/skse64_version.jpg)
+
+## Upgrading
+
+If you need to upgrade the *skse* in the future:
 
 * uninstall the mod with the scripts
 * install the new scripts as a mod
