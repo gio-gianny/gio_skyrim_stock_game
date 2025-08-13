@@ -32,7 +32,9 @@
     ".gitignore",
     "README.md"
   ],
-  "AlwaysEnabled": [],
+  "AlwaysEnabled": [
+    "mods\\SSE Creation Kit Fonixdata Lip Sync Fix"
+  ],
   "Version": "0.0.1",
   "Description": null
 }
