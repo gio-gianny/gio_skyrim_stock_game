@@ -13,6 +13,8 @@
   * [Engine Fixes](engine_fixes.md)
   * [Optional Quick Start](mods_optional_quick_start.md)
   * [Creation Kit](creation_kit.md)
+  * [Bethini Pie](bethini_pie.md)
+  * [xEdit](xedit.md)
 * Misc
   * [docsify](docsify.md)
   * [unmanaged files](unmanaged_files.md)

@@ -38,6 +38,9 @@
 
 ## Fonixdata Lip Sync Fix
 
+> [!ATTENTION]
+> Is this still needed?
+
 | | |
 | --- | --- |
 | Homepage | <https://www.nexusmods.com/skyrimspecialedition/mods/40971> |
@@ -54,3 +57,13 @@
     "mods\\SSE Creation Kit Fonixdata Lip Sync Fix"
   ],
 ```
+
+## Creation Kit Launcher
+
+* **Title**: `Creation Kit`
+* **Binary**: `<SOURCE_DIR>\game_root\CreationKit.exe`
+* **Start in**: `<SOURCE_DIR>\game_root`
+* **Arguments**:
+* **:far fa-square-check: Overwrite Steam AppID**: `1946180`
+* **:far fa-square: Create files in mod instead of overwrite (\*)**
+* **:far fa-square-check: Force load libraries (\*)**
