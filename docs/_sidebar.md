@@ -8,7 +8,8 @@
   * [Setup Portable MO2](/docs/mo2_portable_setup.md)
   * [Organize CC Content](/docs/creation_club.md)
   * [Compilation Setup](/docs/wabbajack_setup.md)
-  * [Setup SKSE64](/docs/skse64.md)
+  * [SKSE64](/docs/skse64.md)
+  * [Engine Fixes](/docs/engine_fixes.md)
 * Misc
   * [docsify](/docs/docsify.md)
   * [webp](/docs/webp.md)

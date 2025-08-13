@@ -40,7 +40,10 @@
     window.$docsify = {
       name: "Gio's Skyrim",
       repo: 'https://github.com/gio-gianny/gio_skyrim_stock_game',
-      loadSidebar: true,
+      loadSidebar: '/docs/_sidebar.md',
+      alias: {
+        '/.*/_sidebar.md': '/docs/_sidebar.md'
+      },
       subMaxLevel: 2,
       // Relative path enabled
       relativePath: true,
