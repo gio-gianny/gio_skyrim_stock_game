@@ -11,6 +11,7 @@
   * [SKSE64](skse64.md)
   * [Address Library](address_library.md)
   * [Engine Fixes](engine_fixes.md)
+  * [Optional Quick Start](mods_optional_quick_start.md)
 * Misc
   * [docsify](docsify.md)
   * [webp](webp.md)
