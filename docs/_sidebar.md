@@ -9,6 +9,7 @@
   * [Organize CC Content](/docs/creation_club.md)
   * [Compilation Setup](/docs/wabbajack_setup.md)
   * [SKSE64](/docs/skse64.md)
+  * [Address Library](/docs/address_library.md)
   * [Engine Fixes](/docs/engine_fixes.md)
 * Misc
   * [docsify](/docs/docsify.md)
