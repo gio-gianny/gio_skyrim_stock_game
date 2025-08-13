@@ -1,5 +1,11 @@
 # Skyrim Script Extender (SKSE64)
 
+|  | |
+| --- | --- |
+| Homepage | <https://www.nexusmods.com/skyrimspecialedition/mods/30379> |
+| About | tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game |
+| Requirements | |
+
 ## References
 
 * [Setting up Stock Game for Skyrim SE - by Althro](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/Setting%20up%20Stock%20Game%20for%20Skyrim%20SE.md#skse)
@@ -7,7 +13,7 @@
 
 ## Download
 
-Download the latest `skse` package for your *Skyrim version* from [nexus](https://www.nexusmods.com/skyrimspecialedition/mods/30379) with *MO2*.
+Download the latest `skse` package for your *Skyrim version* from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/30379) with *MO2*.
 
 ## Install scripts
 

@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=17230
+fileID=181171
+url=
+name=(Part 2) Engine Fixes - skse64 Preloader and TBB Lib
+description="Download this and extract it to your main Skyrim folder manually; it cannot be installed with a mod manager. This is required or the skse plugin won't load.\n<br /><br /><br /><br />It is safe to overwrite existing files.\n<br /><br /><br /><br />Will load meh's DLL plugins if his loader is not found."
+modName=SSE Engine Fixes (skse64 plugin)
+version=2020.3.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=95
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true
