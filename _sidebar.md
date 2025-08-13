@@ -1,6 +1,7 @@
 * [Home](/)
 * [Development](/docs/README.md)
   * [References](/docs/references.md)
+  * [Skyrim Version](/docs/skyrim_version.md)
   * [Project Structure](/docs/git_configuration.md)
   * [Install MO2](/docs/mo2_install.md)
   * [Setup game_root](/docs/game_root.md)
