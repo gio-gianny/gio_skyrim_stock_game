@@ -1,0 +1,16 @@
+site_name: "Gio's Skyrim: A Wabbajack Compilation"
+site_author: Gio
+site_url: https://gio-gianny.github.io/gio_skyrim_stock_game/
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: custom
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - awesome-nav

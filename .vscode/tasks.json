@@ -4,9 +4,14 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "docsify serve docs",
+            "label": "mkdocs serve",
             "type": "shell",
-            "command": "docsify serve docs"
-        }
+            "command": "uv run mkdocs serve"
+        },
+        {
+            "label": "mkdocs gh-deploy --site-dir .site --no-history",
+            "type": "shell",
+            "command": "uv run mkdocs gh-deploy --site-dir .site --no-history"
+        },
     ]
 }
