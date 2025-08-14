@@ -30,7 +30,11 @@
     "crashDumps",
     ".gitattributes",
     ".gitignore",
-    "README.md"
+    "README.md",
+    ".vscode",
+    "tools\\SSEEdit\\cache",
+    "mods\\[Output] SSEEdit\\SSEEdit Backups",
+    "mods\\[Output] SSEEdit\\SSEEdit Cache"
   ],
   "AlwaysEnabled": [
     "mods\\SSE Creation Kit Fonixdata Lip Sync Fix"
