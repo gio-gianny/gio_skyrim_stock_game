@@ -45,7 +45,7 @@
 * **:far fa-square-check: Create files in mod instead of overwrite (\*)**: `[Output] SSEEdit`
 * **:far fa-square-check: Force load libraries (\*)**
 
-![sseedit launcher config](images/sseedit_launcher.png)
+![sseedit launcher config](../images/sseedit_launcher.png)
 
 ## SSELODGen
 
@@ -83,4 +83,4 @@
 * **:far fa-square: Create files in mod instead of overwrite (\*)**
 * **:far fa-square-check: Force load libraries (\*)**
 
-![sselodgen launcher config](images/sselodgen_launcher.png)
+![sselodgen launcher config](../images/sselodgen_launcher.png)

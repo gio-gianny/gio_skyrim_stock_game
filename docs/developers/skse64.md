@@ -26,19 +26,19 @@ In *Mod Organizer 2*:
 * you will be informed that `The content of <data> does not look valid.`
 * if the tutorial pops up, feel free to read through this if this is your first time or just exit by clicking the `Exit Tutorial` box
 
-![invalid data](images/skse64_scripts_1.png)
+![invalid data](../images/skse64_scripts_1.png)
 
 * expand the `skse64_x_x_x` item and right-click the `Data` folder
 * select the `Set as <data> directory` menu
 
-![set as <data> directory](images/skse64_scripts_2.png)
+![set as <data> directory](../images/skse64_scripts_2.png)
 
 * after selecting the `Set as <data> directory` menu, the `Content` should look like bellow
 * the dialog should show `The content of <data> looks valid.`
 * click the `OK` button
 * enable the new mod
 
-![valid data](images/skse64_scripts_3.png)
+![valid data](../images/skse64_scripts_3.png)
 
 ## Install binaries
 
@@ -50,9 +50,9 @@ In *Mod Organizer 2*:
 * select the `.exe` and the `.dll`
 * drag-and-drop in the `game_root` folder
 
-![skse64 binaries](images/skse64_binaries_1.png)
+![skse64 binaries](../images/skse64_binaries_1.png)
 
-![game folder with skese64 binaries](images/skse64_binaries_2.png)
+![game folder with skese64 binaries](../images/skse64_binaries_2.png)
 
 ## Game launcher
 
@@ -65,15 +65,15 @@ In *Mod Organizer 2*:
 * rename the `SKSE` launcher however you like and move it at the top
 * add it to the tool bar by clicking the `Shortcut` button and selecting `Toolbar and Menu`
 
-![skse launcher with custom name](images/skse64_custom_launcher.png)
+![skse launcher with custom name](../images/skse64_custom_launcher.png)
 
 * restart *MO2*
 * a new `SKSE` launcher will be created automatically
 * select it and check the `Hide in user interface`
 
-![hidden default skse launcher](images/skse64_hidden_default_launcher.png)
+![hidden default skse launcher](../images/skse64_hidden_default_launcher.png)
 
-![launcher menu](images/skse64_launcher_menu.png)
+![launcher menu](../images/skse64_launcher_menu.png)
 
 ## Verify the install
 
@@ -81,7 +81,7 @@ In *Mod Organizer 2*:
 * in the console, type `getskseversion`
 * if *skse* is correctly installed, it should show your actual version
 
-![skse version](images/skse64_version.jpg)
+![skse version](../images/skse64_version.jpg)
 
 ## Upgrading
 

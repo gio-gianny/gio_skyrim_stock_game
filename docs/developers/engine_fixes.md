@@ -33,6 +33,6 @@
   * `tbb.dll`
   * `tbbmalloc.dll`
 
-![part 2 archive](images/engine_fixes_1.png)
+![part 2 archive](../images/engine_fixes_1.png)
 
-![game root with part 2](images/engine_fixes_2.png)
+![game root with part 2](../images/engine_fixes_2.png)
