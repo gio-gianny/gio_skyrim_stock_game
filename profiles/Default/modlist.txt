@@ -6,6 +6,9 @@
 -Essentials - No dependencies_separator
 -SSE Creation Kit Fonixdata Lip Sync Fix
 -Creation Kit_separator
++Skyrim Priority SE AE - CPU Performance FPS Optimizer
++SSE Display Tweaks Config File
++SSE Display Tweaks
 +SSE Engine Fixes (skse64 plugin)
 +Address Library for SKSE Plugins
 +Skyrim Script Extender (SKSE64)
