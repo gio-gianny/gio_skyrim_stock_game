@@ -8,5 +8,10 @@
             "type": "shell",
             "command": "uv run mkdocs serve"
         },
+        {
+            "label": "mkdocs gh-deploy --site-dir .site --no-history",
+            "type": "shell",
+            "command": "uv run mkdocs gh-deploy --site-dir .site --no-history"
+        },
     ]
 }

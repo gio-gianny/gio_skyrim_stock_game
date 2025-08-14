@@ -24,6 +24,7 @@
   "Include": [],
   "Ignore": [
     ".git",
+    ".site",
     ".venv",
     ".vscode",
     "crashDumps",

@@ -1,5 +1,6 @@
 # ignored dirs
 .build/
+.site/
 crashDumps/
 dlls/
 downloads/*.zip
