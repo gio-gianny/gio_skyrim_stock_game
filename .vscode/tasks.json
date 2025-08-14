@@ -8,10 +8,5 @@
             "type": "shell",
             "command": "uv run mkdocs serve"
         },
-        {
-            "label": "docsify serve docs",
-            "type": "shell",
-            "command": "docsify serve docs"
-        }
     ]
 }

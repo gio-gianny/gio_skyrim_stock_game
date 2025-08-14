@@ -1,7 +1,7 @@
 # Address Library
 
 | | |
-| --- | --- |
+|---|---|
 | Homepage | <https://www.nexusmods.com/skyrimspecialedition/mods/32444> |
 | About | header file and a database to make SKSE DLL plugins version independent easily |
 | Requirements | Skyrim Script Extender (SKSE64) |

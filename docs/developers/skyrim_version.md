@@ -7,4 +7,4 @@ Many mods require a specific *Skyrim* version, so you should always know what yo
 * go to the `Details` page
 * check the `Product version` value
 
-![skyrim version](images/skyrim_version.png)
+![skyrim version](../images/skyrim_version.png)

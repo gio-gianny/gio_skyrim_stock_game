@@ -1,4 +1,5 @@
 # ignored dirs
+.build/
 crashDumps/
 dlls/
 downloads/*.zip
