@@ -10,7 +10,7 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-  - http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 
 plugins:
   - awesome-nav
