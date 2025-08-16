@@ -1,0 +1,22 @@
+<div class="{{ class_name }}">
+    <table>
+        <tbody>
+            <tr><th>Homepage</th></tr>
+            <tr><td><a href="{{ data.homepage }}">{{ data.homepage }}</a></td></tr>
+            <tr><th>About</th></tr>
+            <tr><td>{{- data.about -}}</td></tr>
+            {%- if data.requirements is defined %}
+            <tr><th>Requirements</th></tr>
+            {%- for item in data.requirements %}
+            <tr><td>{{ item }}</td></tr>
+            {%- endfor %}
+            {%- endif %}
+            {%- if data.downloads is defined %}
+            <tr><th>Downloads</th></tr>
+            {%- for item in data.downloads %}
+            <tr><td>{{ item }}</td></tr>
+            {%- endfor %}
+            {%- endif %}
+        </tbody>
+    </table>
+</div>

@@ -40,8 +40,9 @@ The first time you launch `Skyrim`, it will automatically download all your CC A
 
 The **148** files should now be located in `SteamLibrary\steamapps\common\Skyrim Special Edition\Data`.
 
-> [!WARNING]
-> You should make a backup of the *CC content* at this stage, by copying all the 148 file to a `CC Backup` folder outside the `Skyrim` or the compilation folder.
+!!! warning
+    You should make a backup of the *CC content* at this stage, by copying all the 148
+    file to a `CC Backup` folder outside the `Skyrim` or the compilation folder.
 
 ## Copy files to game_root
 

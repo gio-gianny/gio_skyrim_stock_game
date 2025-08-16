@@ -35,15 +35,14 @@
     "tools\\SSEEdit\\cache",
     ".gitattributes",
     ".gitignore",
+    ".markdownlint.json",
     ".python-version",
     "mkdocs.yml",
     "pyproject.toml",
     "README.md",
     "uv.lock"
   ],
-  "AlwaysEnabled": [
-    "mods\\SSE Creation Kit Fonixdata Lip Sync Fix"
-  ],
+  "AlwaysEnabled": [],
   "Version": "0.0.1",
   "Description": null
 }

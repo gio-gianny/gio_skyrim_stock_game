@@ -1,9 +1,8 @@
 # Optional Quick Start
 
-| | |
-| --- | --- |
-| Homepage | <https://www.nexusmods.com/skyrimspecialedition/mods/63953> |
-| About | Adds an option to skip the introduction |
-| Requirements | |
+```nexus
+homepage: https://www.nexusmods.com/skyrimspecialedition/mods/63953
+about: Adds an option to skip the introduction
+```
 
 * download and install like any other mod

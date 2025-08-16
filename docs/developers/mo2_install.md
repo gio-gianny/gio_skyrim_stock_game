@@ -15,7 +15,8 @@ installed=true
 removed=true
 ```
 
-> [!NOTE]
-> The `installed=true` marks the mod as *installed*.
->
-> The `removed=true` marks the mod as *hidden*. The mod will be shown when clicking the `Hidden Files` checkbox on the `Downloads` tab.
+!!! note
+    The `installed=true` marks the mod as *installed*.
+
+    The `removed=true` marks the mod as *hidden*. The mod will be shown when clicking the
+    `Hidden Files` checkbox on the `Downloads` tab.

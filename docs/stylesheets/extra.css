@@ -1,0 +1,40 @@
+:root>* {
+  --md-default-bg-color: #261E20;
+  --md-primary-fg-color: #43634D;
+  --md-typeset-a-color: #F5ED58;
+  --md-accent-fg-color: #C7522B;
+}
+
+div.nexus div.md-typeset__table tr,
+div.mo2_mods div.md-typeset__table tr {
+  display: inline-table;
+  width: 100%;
+}
+
+div.nexus div.md-typeset__table th {
+  background-color: #43634D44;
+}
+
+div.nexus div.md-typeset__table td {
+  background-color: #43634D11;
+}
+
+div.mo2_mods div.md-typeset__table th {
+  background-color: #C7522B44;
+}
+
+div.mo2_mods div.md-typeset__table td {
+  background-color: #C7522B11
+}
+
+div.mo2_launcher div.md-typeset__table {
+  width: 100%;
+}
+
+div.mo2_launcher div.md-typeset__table tr {
+  background-color: #f5ed5811;
+}
+
+div.mo2_launcher div.md-typeset__table tr td.title {
+  font-weight: 100;
+}

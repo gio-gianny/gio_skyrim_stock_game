@@ -1,0 +1,12 @@
+<div class="{{ class_name }}">
+    <table>
+        <tbody>
+            {% for key, value in data.items() %}
+            <tr><th>{{key|e}}</th></tr>
+            {% for item in value %}
+            <tr><td>{{ item|e }}</td></tr>
+            {% endfor %}
+            {% endfor %}
+        </tbody>
+    </table>
+</div>

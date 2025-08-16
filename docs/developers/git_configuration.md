@@ -2,8 +2,9 @@
 
 ## git lfs
 
-> [!WARNING]
-> `GitHub` pages don't display correctly images stored using `git lfs`. For this reason, **don't use `git lfs`**.
+!!! warning
+    `GitHub` pages don't display correctly images stored using `git lfs`. For this reason,
+    **don't use `git lfs`**.
 
 ## git basic configuration
 
