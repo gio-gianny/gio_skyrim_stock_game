@@ -1,10 +1,10 @@
 # Portable MO2 Instance Setup
 
-> [!WARNING]
-> These steps must be done after copying files to the `game_root` as described [here](game_root.md).
+!!! warning
+    These steps must be done after copying files to the `game_root` as described [here](game_root.md).
 
-> [!NOTE]
-> The `Creating a new instance` wizard will be shown the first time you are running `MO2`.
+!!! note
+    The `Creating a new instance` wizard will be shown the first time you are running `MO2`.
 
 ## What is an instance?
 
@@ -44,12 +44,13 @@ Click `Next >`.
 
 ## Select a folder where the data should be stored
 
-> [!NOTE]
-> By default, the `Location` is set to the folder that contains the `ModOrganizer.exe` executable.
->
-> Checking `Show advanced options` allows you to tweak the locations of `downloads`, `mods`, `profiles` and `overwrite`.
->
-> Leave everything at their defaults.
+!!! note
+    By default, the `Location` is set to the folder that contains the `ModOrganizer.exe` executable.
+
+    Checking `Show advanced options` allows you to tweak the locations of `downloads`,
+    `mods`, `profiles` and `overwrite`.
+
+    Leave everything at their defaults.
 
 Click `Next >`.
 

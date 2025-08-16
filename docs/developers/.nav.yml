@@ -1,7 +1,7 @@
 nav:
+  - general_notes.md
   - Skyrim Version: skyrim_version.md
   - "*"
   - Misc:
-    - docsify.md
     - unmanaged_files.md
     - webp.md

@@ -13,10 +13,12 @@ extra_css:
   - http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css
 
 plugins:
-  - search
   - awesome-nav
+  - search
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
         - name: nexus

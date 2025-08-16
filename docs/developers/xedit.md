@@ -1,7 +1,7 @@
 # xEdit
 
-> [!NOTE]
-> [xEdit](https://github.com/TES5Edit/TES5Edit) provides both *SSEEdit* and *SSELODGen*.
+!!! note
+    [xEdit](https://github.com/TES5Edit/TES5Edit) provides both *SSEEdit* and *SSELODGen*.
 
 ## References
 
@@ -42,9 +42,9 @@ downloads:
 
 ```mo2_launcher
 title: SSEEdit
-binary: "<SOURCE_DIR>\\tools\\SSEEdit\\SSEEdit.exe"
-start_in: "<SOURCE_DIR>\\game_root\\Data"
-arguments: '-D:"<SOURCE_DIR>\\game_root\\Data" -IKnowWhatImDoing'
+binary: "&lt;SOURCE_DIR&gt;\\tools\\SSEEdit\\SSEEdit.exe"
+start_in: "&lt;SOURCE_DIR&gt;\\game_root\\Data"
+arguments: '-D:"&lt;SOURCE_DIR&gt;\\game_root\\Data" -IKnowWhatImDoing'
 overwrite_mod: "[Output] SSEEdit"
 force_load_libraries: true
 ```

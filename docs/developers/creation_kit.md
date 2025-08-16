@@ -9,16 +9,19 @@ requirements:
     - "[Microsoft Visual C++ Redistributable for Visual Studio 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)"
 ```
 
-* delete [all previous versions](unmanaged_files.md#creation-kit-platform-extended-for-skyrim) of the mod and its libraries
+* delete [all previous versions](unmanaged_files.md#creation-kit-platform-extended-for-skyrim) of
+  the mod and its libraries
 * download with *MO2*
 * right-click the download and select `Open File` context menu
-* drag-and-drop [all the files](unmanaged_files.md#creation-kit-platform-extended-for-skyrim) to your `game_root` folder
+* drag-and-drop [all the files](unmanaged_files.md#creation-kit-platform-extended-for-skyrim) to
+  your `game_root` folder
 * right-click the download and select the `Open Meta File` context menu
 * set the `installed` and `removed` to `true`
 * configure any options in `CreationKitPlatformExtended.ini`
 
-> [!ATTENTION]
-> If you have issues running *Creation Kit*, add `CreationKit.exe` as an executable and set `Overwrite Steam AppID` to `1946180`.
+!!! warning
+    If you have issues running *Creation Kit*, add `CreationKit.exe` as an executable and set
+    `Overwrite Steam AppID` to `1946180`.
 
 ## Unofficial Patch
 
@@ -30,18 +33,20 @@ requirements:
     - Creation Kit
 ```
 
-* delete [all previous versions](unmanaged_files.md#unofficial-creation-kit-patch) of the mod and its libraries
+* delete [all previous versions](unmanaged_files.md#unofficial-creation-kit-patch) of the
+  mod and its libraries
 * download with *MO2*
 * right-click the download and select `Open File` context menu
-* drag-and-drop [all the files](unmanaged_files.md#unofficial-creation-kit-patch) to your `game_root` folder
+* drag-and-drop [all the files](unmanaged_files.md#unofficial-creation-kit-patch) to your
+  `game_root` folder
 * run `UCKP-Backup.bat` to backup some creation kit files to `game_root\CK_Backup`
 * right-click the download and select the `Open Meta File` context menu
 * set the `installed` and `removed` to `true`
 
 ## Fonixdata Lip Sync Fix
 
-> [!ATTENTION]
-> Is this still needed?
+!!! question
+    Is this still needed?
 
 ```nexus
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/40971

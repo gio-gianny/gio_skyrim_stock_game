@@ -1,7 +1,8 @@
 # Unmanaged Files
 
-> [!ATTENTION]
-> This is a list of files that are copied directly to the `game_root`, without using an *MO2* mod to manage them.
+!!! warning
+    This is a list of files that are copied directly to the `game_root`, without using an
+    *MO2* mod to manage them.
 
 ## SKSE64
 

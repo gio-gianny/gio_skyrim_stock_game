@@ -11,9 +11,8 @@ downloads:
 - (Part 2) Engine Fixes - skse64 Preloader and TBB Lib **(manual download)**
 ```
 
-> [!TIP]
->
-> Includes fix for **Steam achievements** when running *Skyrim* from *MO2*.
+!!! tip
+    Includes fix for **Steam achievements** when running *Skyrim* from *MO2*.
 
 ## Part 1
 
@@ -22,11 +21,12 @@ downloads:
 
 ## Part 2
 
-> [!NOTE]
-> Like with the *skse* binaries, *Part 2* contains only three files, so it is easy to track them manually.
+!!! note
+    Like with the *skse* binaries, *Part 2* contains only three files, so it is easy to track them manually.
 
 * select the download in the *Downloads* tab from *MO2*
-* right-click it and select the `Query Info` context menu to automatically fetch the info and create a `.meta` file for the download
+* right-click it and select the `Query Info` context menu to automatically fetch the info and create
+  a `.meta` file for the download
 * right-click it again and select the `Open File` context menu to open the file in your *archive manager*
 * select all the files and drag-and-drop in the `game_root` folder
   * `d3dx9_42.dll`
