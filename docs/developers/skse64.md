@@ -1,6 +1,6 @@
 # Skyrim Script Extender (SKSE64)
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/30379
 about: tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game
 ```

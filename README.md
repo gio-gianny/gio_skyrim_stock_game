@@ -5,7 +5,3 @@ Simple [Wabbajack](https://www.wabbajack.org/) compilation using [stock game](ht
 [Project documentation](https://gio-gianny.github.io/gio_skyrim_stock_game/#/) ([documentation source](https://github.com/gio-gianny/gio_skyrim_stock_game/tree/master/docs)).
 
 ![cover](docs/images/cover.webp)
-
-## Credits
-
-The [project cover](https://pixabay.com/illustrations/robin-hood-mythology-archer-warrior-9185548/) was made by [MythologyArt](https://pixabay.com/users/mythologyart-34077399/). Used under [Pixabay Content License](https://pixabay.com/service/license-summary/).

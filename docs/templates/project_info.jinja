@@ -2,7 +2,13 @@
     <table>
         <tbody>
             <tr><th>Homepage</th></tr>
+            {% if data.homepage is string %}
             <tr><td><a href="{{ data.homepage }}">{{ data.homepage }}</a></td></tr>
+            {% elif data.homepage is sequence %}
+            {%- for item in data.homepage %}
+            <tr><td><a href="{{ item }}">{{ item }}</a></td></tr>
+            {%- endfor %}
+            {% endif %}
             <tr><th>About</th></tr>
             <tr><td>{{- data.about -}}</td></tr>
             {%- if data.requirements is defined %}

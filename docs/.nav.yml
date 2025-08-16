@@ -1,4 +1,5 @@
 nav:
-  - Getting started: README.md
+  - Home: README.md
+  - Users: users.md
   - Developers: developers/
-  - references.md
+  - Credits: credits.md

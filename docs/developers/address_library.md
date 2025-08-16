@@ -1,6 +1,6 @@
 # Address Library
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/32444
 about: header file and a database to make SKSE DLL plugins version independent easily
 requirements:

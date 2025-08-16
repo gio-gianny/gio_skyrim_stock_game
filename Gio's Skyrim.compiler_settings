@@ -1,10 +1,10 @@
 {
   "ModlistIsNSFW": false,
-  "Source": "D:\\Modlists\\__PROTOTYPE_gio_skyrim_stock_game",
-  "Downloads": "D:\\Modlists\\__PROTOTYPE_gio_skyrim_stock_game\\downloads",
+  "Source": "D:\\GioSkyrim\\mo2",
+  "Downloads": "D:\\GioSkyrim\\mo2\\downloads",
   "Game": "SkyrimSpecialEdition",
   "OutputFile": "D:\\Modlists\\Gio Scratch (Stock Game).wabbajack",
-  "ModListImage": "D:\\Modlists\\__PROTOTYPE_gio_skyrim_stock_game\\docs\\images\\cover.webp",
+  "ModListImage": "D:\\GioSkyrim\\mo2\\docs\\images\\cover.webp",
   "UseGamePaths": false,
   "UseTextureRecompression": false,
   "OtherGames": [],

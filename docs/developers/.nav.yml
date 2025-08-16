@@ -1,7 +1,5 @@
 nav:
   - general_notes.md
-  - Skyrim Version: skyrim_version.md
+  - Mod Organizer 2: mo2/
   - "*"
-  - Misc:
-    - unmanaged_files.md
-    - webp.md
+  - unmanaged_files.md

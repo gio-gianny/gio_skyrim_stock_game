@@ -5,17 +5,17 @@
   --md-accent-fg-color: #C7522B;
 }
 
-div.nexus div.md-typeset__table tr,
+div.project_info div.md-typeset__table tr,
 div.mo2_mods div.md-typeset__table tr {
   display: inline-table;
   width: 100%;
 }
 
-div.nexus div.md-typeset__table th {
+div.project_info div.md-typeset__table th {
   background-color: #43634D44;
 }
 
-div.nexus div.md-typeset__table td {
+div.project_info div.md-typeset__table td {
   background-color: #43634D11;
 }
 

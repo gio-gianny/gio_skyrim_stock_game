@@ -2,7 +2,7 @@
 
 ## Platform Extended
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/71371
 about: Continuation of the popular mod "SSE Creation Kit Fixes" for the new version Creation Kit 1.6.XXXX
 requirements:
@@ -25,7 +25,7 @@ requirements:
 
 ## Unofficial Patch
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/41195
 about: Unofficial Patch For the new Creation Kit 2.0 Anniversary Edition
 requirements:
@@ -48,7 +48,7 @@ requirements:
 !!! question
     Is this still needed?
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/40971
 about: fonixdata file that is missing in the Creation Kit for Skyrim SSE
 requirements:

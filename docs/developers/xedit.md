@@ -11,7 +11,7 @@
 
 ## SSEEdit
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/164
 about: "Skyrim: Special Edition version of xEdit"
 requirements:
@@ -53,7 +53,7 @@ force_load_libraries: true
 
 ## SSELODGen
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/6642
 about: An almost one-click LOD generator for Skyrim Special Edition
 downloads:

@@ -4,14 +4,24 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "mkdocs serve",
+            "label": "make cover",
             "type": "shell",
-            "command": "uv run mkdocs serve"
+            "command": "make cover"
         },
         {
-            "label": "mkdocs gh-deploy --site-dir .site --no-history",
+            "label": "make docs_serve",
             "type": "shell",
-            "command": "uv run mkdocs gh-deploy --site-dir .site --no-history"
+            "command": "make docs_serve"
+        },
+        {
+            "label": "make docs_deploy",
+            "type": "shell",
+            "command": "make docs_deploy"
+        },
+        {
+            "label": "make favicon",
+            "type": "shell",
+            "command": "make favicon"
         },
     ]
 }

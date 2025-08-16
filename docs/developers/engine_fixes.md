@@ -1,6 +1,6 @@
 # Engine Fixes
 
-```nexus
+```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/17230
 about: skse64 plugin to fix various issues with the Skyrim Special Edition engine
 requirements:
