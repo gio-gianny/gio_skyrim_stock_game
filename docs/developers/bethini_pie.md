@@ -1,10 +1,9 @@
 # Bethini Pie
 
-| | |
-| --- | --- |
-| Homepage | <https://www.nexusmods.com/site/mods/631> |
-| About | Universal tool to make editing INI configuration files simple via a graphical user interface |
-| Requirements | |
+```nexus
+homepage: https://www.nexusmods.com/site/mods/631
+about: Universal tool to make editing INI configuration files simple via a graphical user interface
+```
 
 ## Setup
 

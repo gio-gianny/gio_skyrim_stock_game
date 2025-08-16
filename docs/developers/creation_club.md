@@ -16,14 +16,18 @@
 * launch `MO2`
 * run the `Creation Organizer` tool from `MO2 Menu > Tools > Tool Plugins > Creation Organizer`
 * create mod separators and move the new mods under them:
-  * `Creation Club - Free`
-    * `[NoDelete] Fishing`
-    * `[NoDelete] Rare Curios`
-    * `[NoDelete] Saints and Seducers`
-    * `[NoDelete] Survival Mode`
-  * `Creation Club - Anniversary Edition`
-    * `[NoDelete] Adventurer's Backpack`
-    * ...
+
+  ```mo2_mods
+  Creation Club - Free:
+  - "[NoDelete] Fishing"
+  - "[NoDelete] Rare Curios"
+  - "[NoDelete] Saints and Seducers"
+  - "[NoDelete] Survival Mode"
+  Creation Club - Anniversary Edition:
+  - "[NoDelete] Adventurer's Backpack"
+  - ...
+  ```
+
 * if the *CC mods* are left in the `game_root\Data`, remove them
 
 ### Compiling with Wabbajack

@@ -11,25 +11,27 @@
 
 ## SSEEdit
 
-| | |
-| --- | --- |
-| Homepage | <https://www.nexusmods.com/skyrimspecialedition/mods/164> |
-| About | Skyrim: Special Edition version of xEdit |
-| Requirements | [7-Zip](https://www.7-zip.org/) |
+```nexus
+homepage: https://www.nexusmods.com/skyrimspecialedition/mods/164
+about: "Skyrim: Special Edition version of xEdit"
+requirements:
+- "[7-Zip](https://www.7-zip.org/)"
+downloads:
+- SSEEdit 4.1.5f **(manual download)**
+```
 
-* download `SSEEdit 4.1.5f` manually
 * right-click and select `Open Meta File`
 
-  Use the download URL to determine the `modID` and `fileID`.
+    Use the download URL to determine the `modID` and `fileID`.
 
-  ```ini
-  [General]
-  installed=true
-  gameName=SkyrimSE
-  modID=164
-  fileID=495506
-  removed=true
-  ```
+    ```ini
+    [General]
+    installed=true
+    gameName=SkyrimSE
+    modID=164
+    fileID=495506
+    removed=true
+    ```
 
 * right-click and select `Open File`
 * copy the content to the `tools` folder
@@ -38,36 +40,38 @@
 
 ### SSEEdit launcher
 
-* **Title**: `SSEEdit`
-* **Binary**: `<SOURCE_DIR>\tools\SSEEdit\SSEEdit.exe`
-* **Start in**: `<SOURCE_DIR>\game_root\Data`
-* **Arguments**: `-D:"<SOURCE_DIR>\game_root\Data" -IKnowWhatImDoing`
-* **:far fa-square-check: Create files in mod instead of overwrite (\*)**: `[Output] SSEEdit`
-* **:far fa-square-check: Force load libraries (\*)**
+```mo2_launcher
+title: SSEEdit
+binary: "<SOURCE_DIR>\\tools\\SSEEdit\\SSEEdit.exe"
+start_in: "<SOURCE_DIR>\\game_root\\Data"
+arguments: '-D:"<SOURCE_DIR>\\game_root\\Data" -IKnowWhatImDoing'
+overwrite_mod: "[Output] SSEEdit"
+force_load_libraries: true
+```
 
 ![sseedit launcher config](../images/sseedit_launcher.png)
 
 ## SSELODGen
 
-| | |
-| --- | --- |
-| Homepage | <https://www.nexusmods.com/skyrimspecialedition/mods/6642> |
-| About | An almost one-click LOD generator for Skyrim Special Edition |
-| Requirements | |
+```nexus
+homepage: https://www.nexusmods.com/skyrimspecialedition/mods/6642
+about: An almost one-click LOD generator for Skyrim Special Edition
+downloads:
+- SSELODGen 3.2.1 **(manual download)**
+```
 
-* download `SSELODGen 3.2.1` manually
 * right-click and select `Open Meta File`
 
-  Use the download URL to determine the `modID` and `fileID`.
+    Use the download URL to determine the `modID` and `fileID`.
 
-  ```ini
-  [General]
-  installed=true
-  gameName=SkyrimSE
-  modID=6642
-  fileID=51884
-  removed=true
-  ```
+    ```ini
+    [General]
+    installed=true
+    gameName=SkyrimSE
+    modID=6642
+    fileID=51884
+    removed=true
+    ```
 
 * make `tools\SSELODGen` folder
 * right-click and select `Open File`
@@ -76,11 +80,11 @@
 
 ### SSELODGen launcher
 
-* **Title**: `SSELODGen`
-* **Binary**: `<SOURCE_DIR>\tools\SSELODGen\SSELODGen.exe`
-* **Start in**:
-* **Arguments**: `-sse -O:"<SOURCE_DIR>\tools\SSELODGen\Output" -D:"<SOURCE_DIR>\game_root\Data"`
-* **:far fa-square: Create files in mod instead of overwrite (\*)**
-* **:far fa-square-check: Force load libraries (\*)**
+```mo2_launcher
+title: SSELODGen
+binary: "&lt;SOURCE_DIR&gt;\\tools\\SSELODGen\\SSELODGen.exe"
+arguments: '-sse -O:"&lt;SOURCE_DIR&gt;\\tools\\SSELODGen\Output" -D:"<SOURCE_DIR>\\game_root\\Data"'
+force_load_libraries: true
+```
 
 ![sselodgen launcher config](../images/sselodgen_launcher.png)

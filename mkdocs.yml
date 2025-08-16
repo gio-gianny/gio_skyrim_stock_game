@@ -10,7 +10,24 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+  - http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css
 
 plugins:
   - search
   - awesome-nav
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: nexus
+          class: nexus
+          template: templates/nexus.jinja
+          format: !!python/name:mkdocs_custom_yaml_fences.formatter
+        - name: mo2_mods
+          class: mo2_mods
+          template: templates/mo2_mods.jinja
+          format: !!python/name:mkdocs_custom_yaml_fences.formatter
+        - name: mo2_launcher
+          class: mo2_launcher
+          template: templates/mo2_launcher.jinja
+          format: !!python/name:mkdocs_custom_yaml_fences.formatter

@@ -1,0 +1,37 @@
+{% macro group1(data, key, title, top_border=True) -%}
+    <tr>
+    {% if key in data %}
+    <td class="title" {% if not top_border %}style="border-top: none;"{% endif %}>{{ title }}</span></td>
+    <td colspan="2" {% if not top_border %}style="border-top: none;"{% endif %}>{{ data[key] }}</td>
+    {% endif %}
+    </tr>
+{%- endmacro %}
+
+{% macro group2(data, key, title, colspan, show_unchecked=True) -%}
+    <tr>
+    {% if key in data or show_unchecked %}
+    <td class="title" colspan="{{ colspan }}">
+        <i class="fa {% if key in data %}fa-check-square{% else %}fa-square{% endif %}"></i>
+        &nbsp; {{ title }}</span>
+    </td>
+    {% if 3 - colspan %}
+    <td colspan="{{ 3 - colspan }}">{{ data[key] }}</td>
+    {% endif %}
+    {% endif %}
+    </tr>
+{%- endmacro %}
+
+<div class="{{ class_name }}">
+    <table>
+        <colgroup><col width=100><col width=400><col width=600></colgroup>
+        {{ group1(data, "title", "Title", False) }}
+        {{ group1(data, "binary", "Binary") }}
+        {{ group1(data, "start_in", "Start in") }}
+        {{ group1(data, "arguments", "Arguments") }}
+        {{ group2(data, "overwrite_app_id", "Overwrite Steap AppID:", 2)}}
+        {{ group2(data, "overwrite_mod", "Create files in mod instead of overwrite (*)", 2)}}
+        {{ group2(data, "force_load_libraries", "Force load libraries (*)", 3) }}
+        {{ group2(data, "app_icon", "Use application's icon for desktop shortcuts", 3) }}
+        {{ group2(data, "hidden", "Hide in user interface", 3) }}
+    </table>
+</div>
