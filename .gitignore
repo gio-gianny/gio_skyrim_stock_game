@@ -6,3 +6,6 @@ __pycache__/
 
 # ignored files
 *.pyc
+/*.md5
+/*.sfv
+/*.sha1

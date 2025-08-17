@@ -10,8 +10,9 @@ We assume a couple of tools already exists on your system:
 * `cwebp` (for making the `cover.webp`)
 * `python`
 * `uv` (for managing `Python` projects)
+* `cfv` (for making checksum files)
 
-I use [chocolatey](https://community.chocolatey.org/) and [scoop](https://scoop.sh/) to install and
+I use [chocolatey](https://community.chocolatey.org/), [scoop](https://scoop.sh/) and `pipx` to install and
 manage these applications:
 
 ```bash
@@ -19,7 +20,11 @@ choco install git imagemagick make
 ```
 
 ```bash
-scoop install libwebp python uv
+scoop install libwebp python pipx uv
+```
+
+```bash
+pipx install cfv
 ```
 
 ## Cloning this project
@@ -39,6 +44,20 @@ the *MO2* and your compilation:
 ```bash
 git clone https://github.com/gio-gianny/gio_skyrim_stock_game GioSkyrim
 ```
+
+???+ tip "(Optional) Configure some local git credentials"
+
+    ```bash
+    cd GioSkyrim
+    ```
+
+    ```bash
+    git config user.name ***
+    ```
+
+    ```bash
+    git config user.email ***@***
+    ```
 
 ## Makefile jobs
 
@@ -98,6 +117,25 @@ uv sync
 ```bash
 make docs_serve
 ```
+
+## Mod Organizer 2 tree snapshots
+
+The `mo2_tree_snapshot` job uses `cfv` to generate a *checksum file* with all the files
+under the `mo2` folder. These files can be used to check if and what changes when running
+some tool or application.
+
+```bash
+make mo2_tree_snapshot
+```
+
+In *VSCode*, the job can be run from the *Task Runner*.
+
+Process:
+
+* create a snapshot before running the application or command
+* run the application
+* after quitting the application, create a new snapshot
+* select both snapshots and compare them with *VSCode* or another diff tool
 
 ## Skyrim location
 

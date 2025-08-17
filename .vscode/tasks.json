@@ -23,5 +23,10 @@
             "type": "shell",
             "command": "make favicon"
         },
+        {
+            "label": "make mo2_tree_snapshot",
+            "type": "shell",
+            "command": "make mo2_tree_snapshot"
+        },
     ]
 }
