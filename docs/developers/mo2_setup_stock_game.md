@@ -11,20 +11,20 @@ game folder. This has the side-effect of keeping the game folder completely clea
 
 ## Clean Skyrim install
 
-* if already installed, in `Steam`:
-    * uninstall `Skyrim Special Edition`
-    * uninstall `Creation Kit`
-* from `$HOME\Documents\My Games` remove:
-    * `Skyrim Special Edition`
-    * `Skyrim.INI`
-* from `SteamLibrary\steamapps\common\` remove:
-    * `Skyrim Special Edition`
 * in `Steam`:
-    * install `Skyrim Special Edition`
+    * uninstall `Skyrim Special Edition`, if installed
+    * uninstall `Creation Kit`, if installed
+* from `D:\SteamLibrary\steamapps\common\` remove:
+    * `Skyrim Special Edition/`
+* from `%userprofile%\Documents\My Games` remove:
+    * `Skyrim Special Edition/`
+    * `Skyrim.INI/`
+* in `Steam`:
+    * install `Skyrim Special Edition` on `D:\`
+    * install `Creation Kit` on `D:\`
     * launch `Skyrim Special Edition`
         * let it download the `Creation Club` content
         * when done, click `OK` and `Quit`
-    * install `Creation Kit`
     * launch `Creation Kit`
         * let it expand the resources
         * quit it
@@ -53,6 +53,12 @@ game folder. This has the side-effect of keeping the game folder completely clea
 ## Copy files to stock_game
 
 * create a new `stock_game` folder in the `mo2` folder
-* add `stock_game/` to `mo2/.gitignore`, if not already ignored
+* add `/stock_game/` to `mo2/.gitignore`, if not already ignored
 * copy the content of `SteamLibrary\steamapps\common\Skyrim Special Edition` to `stock_game`
     * ignore `gpu.txt` if present
+
+!!! tip "Tree snapshots"
+
+    It is a good idea to make a [tree snapshot](general_notes.md#tree-snapshots)
+    **before** and **after** copying the files to the `stock_game` so that you have some
+    references of the files you are starting your collection with.
