@@ -28,7 +28,7 @@ downloads:
 * right-click it and select the `Query Info` context menu to automatically fetch the info and create
   a `.meta` file for the download
 * right-click it again and select the `Open File` context menu to open the file in your *archive manager*
-* select all the files and drag-and-drop in the `game_root` folder
+* select all the files and drag-and-drop in the `stock_game` folder
   * `d3dx9_42.dll`
   * `tbb.dll`
   * `tbbmalloc.dll`

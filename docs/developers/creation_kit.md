@@ -14,7 +14,7 @@ requirements:
 * download with *MO2*
 * right-click the download and select `Open File` context menu
 * drag-and-drop [all the files](unmanaged_files.md#creation-kit-platform-extended-for-skyrim) to
-  your `game_root` folder
+  your `stock_game` folder
 * right-click the download and select the `Open Meta File` context menu
 * set the `installed` and `removed` to `true`
 * configure any options in `CreationKitPlatformExtended.ini`
@@ -38,8 +38,8 @@ requirements:
 * download with *MO2*
 * right-click the download and select `Open File` context menu
 * drag-and-drop [all the files](unmanaged_files.md#unofficial-creation-kit-patch) to your
-  `game_root` folder
-* run `UCKP-Backup.bat` to backup some creation kit files to `game_root\CK_Backup`
+  `stock_game` folder
+* run `UCKP-Backup.bat` to backup some creation kit files to `stock_game\CK_Backup`
 * right-click the download and select the `Open Meta File` context menu
 * set the `installed` and `removed` to `true`
 
@@ -71,8 +71,8 @@ downloads:
 
 ```mo2_launcher
 title: Creation Kit
-binary: "&lt;SOURCE_DIR&gt;\\game_root\\CreationKit.exe"
-start_in: "&lt;SOURCE_DIR&gt;\\game_root"
+binary: "&lt;SOURCE_DIR&gt;\\stock_game\\CreationKit.exe"
+start_in: "&lt;SOURCE_DIR&gt;\\stock_game"
 overwrite_app_id: 1946180
 force_load_libraries: true
 ```

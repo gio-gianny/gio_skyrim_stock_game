@@ -43,8 +43,8 @@ downloads:
 ```mo2_launcher
 title: SSEEdit
 binary: "&lt;SOURCE_DIR&gt;\\tools\\SSEEdit\\SSEEdit.exe"
-start_in: "&lt;SOURCE_DIR&gt;\\game_root\\Data"
-arguments: '-D:"&lt;SOURCE_DIR&gt;\\game_root\\Data" -IKnowWhatImDoing'
+start_in: "&lt;SOURCE_DIR&gt;\\stock_game\\Data"
+arguments: '-D:"&lt;SOURCE_DIR&gt;\\stock_game\\Data" -IKnowWhatImDoing'
 overwrite_mod: "[Output] SSEEdit"
 force_load_libraries: true
 ```
@@ -83,7 +83,7 @@ downloads:
 ```mo2_launcher
 title: SSELODGen
 binary: "&lt;SOURCE_DIR&gt;\\tools\\SSELODGen\\SSELODGen.exe"
-arguments: '-sse -O:"&lt;SOURCE_DIR&gt;\\tools\\SSELODGen\Output" -D:"<SOURCE_DIR>\\game_root\\Data"'
+arguments: '-sse -O:"&lt;SOURCE_DIR&gt;\\tools\\SSELODGen\Output" -D:"<SOURCE_DIR>\\stock_game\\Data"'
 force_load_libraries: true
 ```
 

@@ -1,5 +1,8 @@
 nav:
   - general_notes.md
-  - Mod Organizer 2: mo2/
+  - skyrim.md
+  - mo2_install.md
+  - mo2_setup_stock_game.md
+  - mo2_setup_portable.md
   - "*"
   - unmanaged_files.md

@@ -1,13 +1,14 @@
 # Unmanaged Files
 
 !!! warning
-    This is a list of files that are copied directly to the `game_root`, without using an
+
+    This is a list of files that are copied directly to the `stock_game`, without using an
     *MO2* mod to manage them.
 
 ## SKSE64
 
 ```txt
-game_root
+stock_game
 ├── skse64_1_6_1170.dll
 └── skse64_loader.exe
 ```
@@ -15,7 +16,7 @@ game_root
 ## Engine Fixes
 
 ```txt
-game_root
+stock_game
 ├── d3dx9_42.dll
 ├── tbb.dll
 └── tbbmalloc.dll
@@ -24,7 +25,7 @@ game_root
 ## Creation Kit Platform Extended for Skyrim
 
 ```txt
-game_root
+stock_game
 ├── ckpe_loader.exe
 ├── CreationKitPlatformExtended.ini
 ├── CreationKitPlatformExtendedMessagesBlacklist.txt
@@ -43,7 +44,7 @@ game_root
 ## Unofficial Creation Kit Patch
 
 ```txt
-game_root
+stock_game
 ├── CK_Backup
 │   ├── CreationKit.exe
 │   ├── CreationKit.ini

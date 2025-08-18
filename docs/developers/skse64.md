@@ -44,12 +44,13 @@ In *Mod Organizer 2*:
 ## Install binaries
 
 !!! note
+
     There is only one `.exe` and one `.dll`, so it is OK to install them by hand.
 
-* the `.exe` and the `.dll` must be copied by hand in the `game_root` folder
+* the `.exe` and the `.dll` must be copied by hand in the `stock_game` folder
 * double-click the *skse* archive to open it with your *archive manager* (for example, [7-zip](https://www.7-zip.org/))
 * select the `.exe` and the `.dll`
-* drag-and-drop in the `game_root` folder
+* drag-and-drop in the `stock_game` folder
 
 ![skse64 binaries](../images/skse64_binaries_1.png)
 
@@ -58,6 +59,7 @@ In *Mod Organizer 2*:
 ## Game launcher
 
 !!! tip
+
     *Mod Organizer 2* automatically creates an `SKSE` launcher when started, if such a
     launcher is not present and *MO2* finds the `skse64_loader.exe` in the game folder.
 

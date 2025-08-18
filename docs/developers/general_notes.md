@@ -12,8 +12,8 @@ We assume a couple of tools already exists on your system:
 * `uv` (for managing `Python` projects)
 * `cfv` (for making checksum files)
 
-I use [chocolatey](https://community.chocolatey.org/), [scoop](https://scoop.sh/) and `pipx` to install and
-manage these applications:
+You can use [chocolatey](https://community.chocolatey.org/), [scoop](https://scoop.sh/) and `pipx` to
+install and manage these applications:
 
 ```bash
 choco install git imagemagick make
@@ -27,7 +27,7 @@ scoop install libwebp python pipx uv
 pipx install cfv
 ```
 
-## Cloning this project
+## Cloning the project
 
 This project is meant to be used as a placeholder for the actual Wabbajack compilation,
 though most of the files that go into the compilation are ignored, and not store in the git
@@ -36,6 +36,7 @@ repository. Only these files are stored:
 * the documentation files (mostly in the `docs/` folder)
 * the meta files for the downloads (in the `mo2/downloads` folder)
 * the *MO2* profiles (in the `mo2/profiles` folder)
+* some *MO2* text config files
 * the compile settings (in the `Gio's Skyrim.compiler_settings` file)
 
 If you want to reuse the project, clone it and follow the steps in this docs for populating
@@ -44,20 +45,6 @@ the *MO2* and your compilation:
 ```bash
 git clone https://github.com/gio-gianny/gio_skyrim_stock_game GioSkyrim
 ```
-
-???+ tip "(Optional) Configure some local git credentials"
-
-    ```bash
-    cd GioSkyrim
-    ```
-
-    ```bash
-    git config user.name ***
-    ```
-
-    ```bash
-    git config user.email ***@***
-    ```
 
 ## Makefile jobs
 
@@ -71,37 +58,47 @@ If you are using *VSCode*, some of the `make` helper hobs can be run via the *Ta
 
 ### cover.webp
 
-Wabbajack compilations require the image in `.webp` format. We use `cwebp` to convert a source
-`.png` to `.webp`.
+Wabbajack compilations require the image in `.webp` format, but our cover image source is
+in `.png` format. We use `cwebp` to convert from `.png` to `.webp`.
+
+You can regenerate or changed the cover by overwriting the `docs/images/cover.png` image
+with another `.png` image and then running `make cover`:
 
 ```bash
-cwebp -q 80 docs/images/cover.png -o docs/images/cover.webp
+make cover
 ```
 
-??? tip "Changing or regenerating the cover"
-    You can regenerate or changed the cover by:
+??? info "Under the hood"
 
-    * overwriting the `docs/images/cover.png` image with another `.png` image
-    * call directly `cwebp` or use `make`:
+    Running `make cover` is equivalent to running:
 
-        ```bash
-        make cover
-        ```
+    ```bash
+    cwebp -q 80 docs/images/cover.png -o docs/images/cover.webp
+    ```
 
 ### favicon.ico
 
-The docs `favicon.ico` is located in `docs/images/favicon.ico` and is generated with `imagemagick` from
-the `docs/images/favicon.svg`. Use `make` to regenerate or change the favicon:
+The docs site `favicon.ico` is located in `docs/images/favicon.ico` and is generated with
+`imagemagick` from the `docs/images/favicon.svg`.
 
-??? tip "Changing or regenerating the favicon"
-    You can regenerate or changed the cover by:
+You can regenerate or changed the cover by overwriting the `docs/images/favicon.svg` image
+with another `.svg` image and the running `make favicon`:
 
-    * overwriting the `docs/images/favicon.svg` image with another `.svg` image
-    * use `make`:
+```bash
+make favicon
+```
 
-        ```bash
-        make favicon
-        ```
+??? info "Under the hood"
+
+    Running `make cover` is equivalent to running:
+
+    ```bash
+    magick \
+        -density 300 \
+        -define icon:auto-resize=256,128,96,64,48,32,16 \
+        -background transparent \
+        docs/images/favicon.svg docs/images/favicon.ico
+    ```
 
 ## Viewing the docs locally
 
@@ -130,36 +127,9 @@ make mo2_tree_snapshot
 
 In *VSCode*, the job can be run from the *Task Runner*.
 
-Process:
+!!! tip "Checking what changes when running an application"
 
-* create a snapshot before running the application or command
-* run the application
-* after quitting the application, create a new snapshot
-* select both snapshots and compare them with *VSCode* or another diff tool
-
-## Skyrim location
-
-The documentation assume we're moding *Skyrim Special Edition* from *Steam*, on *Windows*, installed
-on disk `D:\` in:
-
-```cmd
-D:\SteamLibrary\steamapps\common\Skyrim Special Edition
-```
-
-## Finding your Skyrim version
-
-Many mods require a specific *Skyrim* version, so you should always know what your version is.
-
-* find the `Skyrim.exe` you are using
-
-    ```cmd
-    D:\SteamLibrary\steamapps\common\Skyrim Special Edition
-    ```
-
-* right-click it and select `Properties`
-* go to the `Details` page
-* check the `Product version` value
-
-For example, the `Skyrim.exe` version in the image bellow is `1.6.1170.0`.
-
-![skyrim version](../images/skyrim_version.png)
+    * create a snapshot before running the application
+    * run the application
+    * after quitting the application, create a new snapshot
+    * select both snapshots in *VSCode* and compare them
