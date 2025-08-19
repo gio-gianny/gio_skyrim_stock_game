@@ -100,21 +100,6 @@ make favicon
         docs/images/favicon.svg docs/images/favicon.ico
     ```
 
-## Viewing the docs locally
-
-Documentation is created with [mkdocs](https://www.mkdocs.org/) and [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).
-
-You can view the documentation locally, on <http://127.0.0.1:8000> by installing the required packages
-and then run `mkdocs serve`:
-
-```bash
-uv sync
-```
-
-```bash
-make docs_serve
-```
-
 ## Tree snapshots
 
 The `mo2_tree_snapshot` job uses `cfv` to generate a *checksum file* with all the files
