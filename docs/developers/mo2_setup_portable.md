@@ -2,8 +2,7 @@
 
 !!! warning
 
-    These steps must be done after copying files to the `stock_game` as described
-    [here](mo2_setup_stock_game.md).
+    These steps must be done after [copying game files](mo2_setup_stock_game.md) to the `stock_game`.
 
 !!! note
 

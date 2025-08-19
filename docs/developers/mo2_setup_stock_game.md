@@ -24,9 +24,9 @@ game folder. This has the side-effect of keeping the game folder completely clea
     * install `Creation Kit` on `D:\`
     * launch `Skyrim Special Edition`
         * let it download the `Creation Club` content
-        * when done, click `OK` and `Quit`
+        * when done, click `OK` and the click `Quit`
     * launch `Creation Kit`
-        * let it expand the resources
+        * let it expand the `Scripts.zip`
         * quit it
 
 ??? info "Creation Club content"
@@ -53,9 +53,10 @@ game folder. This has the side-effect of keeping the game folder completely clea
 ## Copy files to stock_game
 
 * create a new `stock_game` folder in the `mo2` folder
-* add `/stock_game/` to `mo2/.gitignore`, if not already ignored
+* add `/stock_game/` to `mo2/.gitignore`, if not already there
 * copy the content of `SteamLibrary\steamapps\common\Skyrim Special Edition` to `stock_game`
-    * ignore `gpu.txt` if present
+    * ignore `gpu.txt`, if present
+    * this will copy around 18G of files to your `stock_game` folder
 
 !!! tip "Tree snapshots"
 
