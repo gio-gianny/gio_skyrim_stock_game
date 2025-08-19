@@ -33,5 +33,6 @@ mo2_tree_snapshot:
 		-f "$$SUM_FILE" \
 	&& echo "Removing empty lines from $$SUM_FILE" \
 	&& sed -i '/^$$/d' "$$SUM_FILE" \
+	&& sed -i '/\.pyc$$/d' "$$SUM_FILE" \
 	&& echo "Processed `wc -l < \"$$SUM_FILE\"` files." \
 	&& echo "Done."
