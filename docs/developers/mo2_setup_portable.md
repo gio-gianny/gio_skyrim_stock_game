@@ -1,4 +1,4 @@
-# Portable MO2 instance setup
+# Setup MO2 portable instance
 
 !!! warning
 

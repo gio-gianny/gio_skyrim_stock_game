@@ -1,4 +1,4 @@
-# Installing Mod Organizer 2
+# Install MO2
 
 ```project_info
 homepage:
