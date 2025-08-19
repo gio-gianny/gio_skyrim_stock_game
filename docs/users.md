@@ -10,7 +10,7 @@
 * click the `Install` button
 * when done, click the `Open in File Explorer`
 
-## First Run
+## First run
 
 ### Bethini Pie
 

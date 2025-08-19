@@ -1,6 +1,6 @@
-# General Notes
+# General notes
 
-## Basic Tools
+## Basic tools
 
 We assume a couple of tools already exists on your system:
 

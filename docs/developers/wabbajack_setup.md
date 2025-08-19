@@ -1,4 +1,4 @@
-# Wabbajack Compilation Setup
+# Wabbajack compilation setup
 
 ## Compile a new list
 

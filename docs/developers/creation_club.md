@@ -1,4 +1,4 @@
-# Organize Creation Club Content
+# Organize Creation Club content
 
 ## References
 
