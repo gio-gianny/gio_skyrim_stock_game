@@ -2,4 +2,8 @@ nav:
   - Home: README.md
   - Users: users.md
   - Developers: developers/
+  - MO2: mo2/
+  - MO2 Plugins: mo2_plugins/
+  - Tools: tools/
+  - Mods: mods/
   - Credits: credits.md
