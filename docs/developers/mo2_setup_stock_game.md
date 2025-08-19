@@ -59,6 +59,6 @@ game folder. This has the side-effect of keeping the game folder completely clea
 
 !!! tip "Tree snapshots"
 
-    It is a good idea to make a [tree snapshot](general_notes.md#tree-snapshots)
+    It is a good idea to make a [tree snapshot](tree_snapshots.md)
     **before** and **after** copying the files to the `stock_game` so that you have some
     references of the files you are starting your collection with.
