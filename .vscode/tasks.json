@@ -3,11 +3,11 @@
     // for the documentation about the tasks.json format
     "version": "2.0.0",
     "tasks": [
-        {
-            "label": "make cover",
-            "type": "shell",
-            "command": "make cover"
-        },
+        // {
+        //     "label": "make cover",
+        //     "type": "shell",
+        //     "command": "make cover"
+        // },
         {
             "label": "make docs_serve",
             "type": "shell",
@@ -18,11 +18,11 @@
             "type": "shell",
             "command": "make docs_deploy"
         },
-        {
-            "label": "make favicon",
-            "type": "shell",
-            "command": "make favicon"
-        },
+        // {
+        //     "label": "make favicon",
+        //     "type": "shell",
+        //     "command": "make favicon"
+        // },
         {
             "label": "make mo2_tree_snapshot",
             "type": "shell",
