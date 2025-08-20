@@ -26,17 +26,25 @@ requirements:
 * move the `BatchPluginCleaner.py` to `mo2/plugins/`
 * restart *MO2*
 
+## Clean plugins
+
+* start the plugin by selecting `MO2 Menu > Tools > Tool Plugins > Clean Plugins`
+* check the plugins you want to clean
+* click `Clean`
+
+![clean plugins dialog](../images/mo2_plugin_batch_plugin_cleaner_clean_plugins_dialog.png)
+
+### Interrupt cleaning
+
+Unlock MO2 while cleaning is in progress *stops cleaning*.
+
 ## Plugin list sorting
 
 Sorting is controlled by the `sort_by_priority` value in the *plugin settings*.
 
 | sorting | sort_by_priority |
 |---|---|
-| priority | true |
+| priority | true (default) |
 | alphabetically | false |
 
 ![plugin settings](../images/mo2_plugin_batch_plugin_cleaner_settings.png)
-
-## Interrupt cleaning in progress
-
-Unlock MO2 while cleaning is in progress *stops cleaning*.
