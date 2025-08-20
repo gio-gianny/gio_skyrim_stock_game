@@ -5,7 +5,7 @@ Dawnguard.esm
 HearthFires.esm
 Dragonborn.esm
 ccasvsse001-almsivi.esm
-ccbgssse001-fish.esm
+ccBGSSSE001-Fish.esm
 ccbgssse002-exoticarrows.esl
 ccbgssse003-zombies.esl
 ccbgssse004-ruinsedge.esl
@@ -66,7 +66,7 @@ ccbgssse066-staves.esl
 ccbgssse067-daedinv.esm
 ccbgssse068-bloodfall.esl
 ccbgssse069-contest.esl
-ccvsvsse003-necroarts.esl
+ccVSVSSE003-NecroArts.esl
 ccvsvsse004-beafarmer.esl
 ccbgssse025-advdsgs.esm
 ccffbsse002-crossbowpack.esl

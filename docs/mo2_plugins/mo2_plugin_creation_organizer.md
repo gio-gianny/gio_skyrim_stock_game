@@ -41,6 +41,9 @@ downloads:
     ```
 
 * if the *CC mods* are left in the `mo2\stock_game\Data`, remove them
+    * exit *MO2*
+    * make sure you have **74** mods that start with with `[No Delete]` in `mo2\mods`
+    * remove the **148** *CC mods* from `mo2\stock_game\Data` (the files like `cc***.bsa` and `cc***.esm`)
 
 !!! tip "Compiling with Wabbajack"
 
