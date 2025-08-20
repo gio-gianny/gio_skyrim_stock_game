@@ -32,7 +32,7 @@ requirements:
 * check the plugins you want to clean
 * click `Clean`
 
-![clean plugins dialog](../images/mo2_plugin_batch_plugin_cleaner_clean_plugins_dialog.png)
+![clean plugins dialog](../images/batch_plugin_cleaner_clean_plugins_dialog.png)
 
 ### Interrupt cleaning
 
@@ -47,4 +47,4 @@ Sorting is controlled by the `sort_by_priority` value in the *plugin settings*.
 | priority | true (default) |
 | alphabetically | false |
 
-![plugin settings](../images/mo2_plugin_batch_plugin_cleaner_settings.png)
+![plugin settings](../images/batch_plugin_cleaner_settings.png)

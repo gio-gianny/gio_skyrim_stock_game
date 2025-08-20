@@ -19,3 +19,19 @@ about: Allows you to manage files in the base game folder through Mod Organizer,
 requirements:
     - Mod Organizer 2
 ```
+
+!!! tip "Check what changes during activation"
+
+    Use the [tree snampshots](../general_notes/tree_snapshots.md) to check
+    what files are copied during the mod activation.
+
+## Installation
+
+* extract the `rootbuilder` folder to `mo2\plugins` folder
+* remove the contents of the existing folder before updating to a newer version
+
+## Automatic activation
+
+This is the default mode.
+
+## Manual activation

@@ -30,12 +30,12 @@ requirements:
 * select a mod to see its problems
 * click on the `Fix` button to fix a particular mod
 
-![notifications dialog](../images/mo2_plugin_loot_warning_checker_warnings.png)
+![notifications dialog](../images/loot_warning_checker_warnings.png)
 
 ## Disable warnings
 
-![disable warnings](../images/mo2_plugin_loot_warning_checker_disable_warnings.png)
+![disable warnings](../images/loot_warning_checker_disable_warnings.png)
 
 ## Enable warnings
 
-![enable warnings](../images/mo2_plugin_loot_warning_checker_enable_warnings.png)
+![enable warnings](../images/loot_warning_checker_enable_warnings.png)
