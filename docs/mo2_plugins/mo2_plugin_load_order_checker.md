@@ -1,3 +1,9 @@
+---
+tags:
+    - mo2
+    - mo2 plugin
+---
+
 # Load Order Checker
 
 ```project_info

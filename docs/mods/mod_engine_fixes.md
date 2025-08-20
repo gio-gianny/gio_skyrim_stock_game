@@ -1,3 +1,10 @@
+---
+tags:
+    - skyrim mod
+    - skse64
+    - fixes & patches
+---
+
 # Engine Fixes
 
 ```project_info

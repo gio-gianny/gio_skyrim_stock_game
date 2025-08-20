@@ -1,3 +1,8 @@
+---
+tags:
+    - mo2
+---
+
 # Install MO2
 
 ```project_info

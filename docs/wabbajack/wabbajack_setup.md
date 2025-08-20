@@ -1,3 +1,9 @@
+---
+tags:
+    - tools
+    - wabbajack
+---
+
 # Wabbajack compilation setup
 
 ## Compile a new list

@@ -1,3 +1,9 @@
+---
+tags:
+    - tools
+    - skse64
+---
+
 # Skyrim Script Extender (SKSE64)
 
 ```project_info

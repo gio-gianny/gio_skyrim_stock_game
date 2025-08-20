@@ -1,3 +1,10 @@
+---
+tags:
+  - make
+  - tree snapshots
+  - cfv
+---
+
 # Tree snapshots
 
 The `mo2_tree_snapshot` job uses `cfv` to generate a *checksum file* with all the files

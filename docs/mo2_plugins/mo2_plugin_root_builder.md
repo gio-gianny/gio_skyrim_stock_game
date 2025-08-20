@@ -1,3 +1,10 @@
+---
+tags:
+    - mo2
+    - mo2 plugin
+    - root builder
+---
+
 # Root Builder
 
 *Kezyma's Root Builder*

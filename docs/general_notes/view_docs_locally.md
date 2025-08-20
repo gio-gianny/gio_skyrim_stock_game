@@ -1,3 +1,8 @@
+---
+tags:
+    - mkdocs
+---
+
 # View docs locally
 
 Documentation is created with [mkdocs](https://www.mkdocs.org/) and [mkdocs-material](https://squidfunk.github.io/mkdocs-material/).

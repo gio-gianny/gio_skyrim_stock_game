@@ -1,3 +1,8 @@
+---
+tags:
+    - mo2
+---
+
 # Setup MO2 portable instance
 
 !!! warning
@@ -96,7 +101,7 @@ The *MO2* portable setup is now ready.
 
 !!! tip "Tree snapshot"
 
-    Make a [tree snapshot](tree_snapshots.md) and check what has changed.
+    Make a [tree snapshot](../general_notes/tree_snapshots.md) and check what has changed.
 
 ??? tip "Inspect what changed"
 

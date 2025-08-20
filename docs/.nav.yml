@@ -1,9 +1,11 @@
+append_unmatched: true
 nav:
   - Home: README.md
   - Users: users.md
-  - Developers: developers/
+  - General notes: general_notes/
   - MO2: mo2/
-  - MO2 Plugins: mo2_plugins/
+  - MO2 plugins: mo2_plugins/
   - Tools: tools/
   - Mods: mods/
+  - Wabbajack: wabbajack/
   - Credits: credits.md

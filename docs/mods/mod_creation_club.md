@@ -1,3 +1,9 @@
+---
+tags:
+    - skyrim mod
+    - creation club
+---
+
 # Organize Creation Club content
 
 ## References

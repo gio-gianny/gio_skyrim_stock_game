@@ -1,3 +1,9 @@
+---
+tags:
+    - skyrim mod
+    - creation kit
+---
+
 # Creation Kit
 
 ## Platform Extended
@@ -9,11 +15,11 @@ requirements:
     - "[Microsoft Visual C++ Redistributable for Visual Studio 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)"
 ```
 
-* delete [all previous versions](unmanaged_files.md#creation-kit-platform-extended-for-skyrim) of
+* delete [all previous versions](../general_notes/unmanaged_files.md#creation-kit-platform-extended-for-skyrim) of
   the mod and its libraries
 * download with *MO2*
 * right-click the download and select `Open File` context menu
-* drag-and-drop [all the files](unmanaged_files.md#creation-kit-platform-extended-for-skyrim) to
+* drag-and-drop [all the files](../general_notes/unmanaged_files.md#creation-kit-platform-extended-for-skyrim) to
   your `stock_game` folder
 * right-click the download and select the `Open Meta File` context menu
 * set the `installed` and `removed` to `true`
@@ -33,12 +39,12 @@ requirements:
     - Creation Kit
 ```
 
-* delete [all previous versions](unmanaged_files.md#unofficial-creation-kit-patch) of the
-  mod and its libraries
+* delete [all previous versions](../general_notes/unmanaged_files.md#unofficial-creation-kit-patch)
+  of the mod and its libraries
 * download with *MO2*
 * right-click the download and select `Open File` context menu
-* drag-and-drop [all the files](unmanaged_files.md#unofficial-creation-kit-patch) to your
-  `stock_game` folder
+* drag-and-drop [all the files](../general_notes/unmanaged_files.md#unofficial-creation-kit-patch)
+  to your `stock_game` folder
 * run `UCKP-Backup.bat` to backup some creation kit files to `stock_game\CK_Backup`
 * right-click the download and select the `Open Meta File` context menu
 * set the `installed` and `removed` to `true`

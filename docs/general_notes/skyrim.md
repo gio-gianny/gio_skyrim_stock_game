@@ -1,3 +1,8 @@
+---
+tags:
+    - skyrim
+---
+
 # Skyrim
 
 ## Skyrim edition and location

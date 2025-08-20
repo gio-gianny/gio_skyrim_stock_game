@@ -1,3 +1,10 @@
+---
+tags:
+    - mo2
+    - mo2 plugin
+    - xedit
+---
+
 # LOOT Warning Checker
 
 ```project_info

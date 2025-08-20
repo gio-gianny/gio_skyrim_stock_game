@@ -1,3 +1,9 @@
+---
+tags:
+    - mo2
+    - mo2 plugin
+---
+
 # REMO - Rule Engine
 
 ```project_info

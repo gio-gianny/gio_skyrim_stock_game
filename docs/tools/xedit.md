@@ -1,3 +1,9 @@
+---
+tags:
+    - tools
+    - xedit
+---
+
 # xEdit
 
 !!! note

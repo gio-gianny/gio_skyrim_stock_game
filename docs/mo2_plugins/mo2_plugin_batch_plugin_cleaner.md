@@ -1,3 +1,10 @@
+---
+tags:
+    - mo2
+    - mo2 plugin
+    - xedit
+---
+
 # Batch Plugin Cleaner
 
 ```project_info

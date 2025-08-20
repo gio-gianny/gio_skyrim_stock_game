@@ -1,3 +1,9 @@
+---
+tags:
+    - skyrim mod
+    - gameplay
+---
+
 # Optional Quick Start
 
 ```project_info

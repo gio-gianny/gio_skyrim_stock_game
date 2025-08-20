@@ -1,3 +1,9 @@
+---
+tags:
+    - skyrim mod
+    - skse64
+---
+
 # Address Library
 
 ```project_info

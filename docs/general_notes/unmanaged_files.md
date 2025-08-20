@@ -1,3 +1,8 @@
+---
+tags:
+    - unmanaged files
+---
+
 # Unmanaged files
 
 !!! warning
