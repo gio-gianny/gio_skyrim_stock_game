@@ -14,3 +14,28 @@ requirements:
     - Mod Organizer 2
     - xEdit / SSEEdit
 ```
+
+!!! warning
+
+    The plugin will work only after installing and configuring [xEdit](../tools/xedit.md).
+
+## Installation
+
+* extract the `LOOT-Warning-Checker` folder to `mo2\plugins` folder
+* remove the contents of the existing folder before updating to a newer version
+
+## Usage
+
+* open the *Warnings* dialog
+* select a mod to see its problems
+* click on the `Fix` button to fix a particular mod
+
+![notifications dialog](../images/mo2_plugin_loot_warning_checker_warnings.png)
+
+## Disable warnings
+
+![disable warnings](../images/mo2_plugin_loot_warning_checker_disable_warnings.png)
+
+## Enable warnings
+
+![enable warnings](../images/mo2_plugin_loot_warning_checker_enable_warnings.png)
