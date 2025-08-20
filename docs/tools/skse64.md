@@ -24,6 +24,7 @@ Download the latest `skse` package for your *Skyrim version* from
 ## Install scripts
 
 !!! note
+
     We are installing the `Scripts` from *skse* as a module for easier update in the future.
 
 In *Mod Organizer 2*:
@@ -31,36 +32,98 @@ In *Mod Organizer 2*:
 * double-click the *skse* archive in the *Downloads* tab to install
 * you will be informed that `The content of <data> does not look valid.`
 * if the tutorial pops up, feel free to read through this if this is your first time or
-  just exit by clicking the `Exit Tutorial` box
+    just exit by clicking the `Exit Tutorial` box
 
-![invalid data](../images/skse64_scripts_1.png)
+    ![invalid data](../images/skse64_scripts_1.png)
 
 * expand the `skse64_x_x_x` item and right-click the `Data` folder
 * select the `Set as <data> directory` menu
 
-![set as &lt;data&gt; directory](../images/skse64_scripts_2.png)
+    ![set as &lt;data&gt; directory](../images/skse64_scripts_2.png)
 
 * after selecting the `Set as <data> directory` menu, the `Content` should look like bellow
 * the dialog should show `The content of <data> looks valid.`
 * click the `OK` button
 * enable the new mod
 
-![valid data](../images/skse64_scripts_3.png)
+    ![valid data](../images/skse64_scripts_3.png)
 
 ## Install binaries
+
+!!! warning
+
+    Only choose one method to install the binaries.
+
+### With root builder
+
+!!! tip
+
+    This is the recommended method to install the binaries as it simplifies upgrades.
+
+* double-click the *skse* archive in the *Downloads* tab to install
+* you will be informed that `The content of <data> does not look valid.`
+* set a different name than the one used for installing the `Scripts`
+
+    !!! tip
+
+        In order to find easier the mods installing files in the game folder, we prefix
+        such mods with `[Root]`:
+
+        ```
+        [Root] Skyrim Script Extender (SKSE64)
+        ```
+
+        Also, if the mod installs files both in `Data` and in `root`, install the mod twice:
+
+        * once with only the `Data` files selected
+        * once with only the `root` files selected (prefix the name for this instance with
+            `[Root]`)
+
+* if the tutorial pops up, feel free to read through this if this is your first time or
+    just exit by clicking the `Exit Tutorial` box
+* expand the `skse64_x_x_x` item
+
+    ![](../images/skse64_root_01.png)
+
+* right-click the top `<data>` item and select `Create directory`
+
+    ![](../images/skse64_root_02.png)
+
+* enter `root` in the dialog shown and press `OK`
+
+    ![](../images/skse64_root_03.png)
+
+    ![](../images/skse64_root_04.png)
+
+* move the `.exe` and `.dll` under the `root` item and deselect the `skse64_x_x_x` one
+
+    ![](../images/skse64_root_05.png)
+
+* click the `OK` button even though `The content of <data> does not look valid.` is still
+    shown
+* click `Ignore` when asked if you want to continue
+
+    ![](../images/skse64_root_06.png)
+
+* enable the new mod
+
+### Manually
 
 !!! note
 
     There is only one `.exe` and one `.dll`, so it is OK to install them by hand.
 
+    However, it is probably better to use the [root builder method](#with-root-builder).
+
 * the `.exe` and the `.dll` must be copied by hand in the `stock_game` folder
 * double-click the *skse* archive to open it with your *archive manager* (for example, [7-zip](https://www.7-zip.org/))
 * select the `.exe` and the `.dll`
-* drag-and-drop in the `stock_game` folder
 
-![skse64 binaries](../images/skse64_binaries_1.png)
+    ![skse64 binaries](../images/skse64_binaries_1.png)
 
-![game folder with skese64 binaries](../images/skse64_binaries_2.png)
+* drag-and-drop the files in the `stock_game` folder
+
+    ![game folder with skese64 binaries](../images/skse64_binaries_2.png)
 
 ## Game launcher
 
@@ -76,15 +139,21 @@ In *Mod Organizer 2*:
 * rename the `SKSE` launcher however you like and move it at the top
 * add it to the tool bar by clicking the `Shortcut` button and selecting `Toolbar and Menu`
 
-![skse launcher with custom name](../images/skse64_custom_launcher.png)
+    ![skse launcher with custom name](../images/skse64_custom_launcher.png)
+
+### Hide automatic SKSE launcher
+
+!!! tip
+
+    This is shown only if installing the binaries [manually](#manually).
 
 * restart *MO2*
 * a new `SKSE` launcher will be created automatically
 * select it and check the `Hide in user interface`
 
-![hidden default skse launcher](../images/skse64_hidden_default_launcher.png)
+    ![hidden default skse launcher](../images/skse64_hidden_default_launcher.png)
 
-![launcher menu](../images/skse64_launcher_menu.png)
+    ![launcher menu](../images/skse64_launcher_menu.png)
 
 ## Verify the install
 
@@ -92,7 +161,7 @@ In *Mod Organizer 2*:
 * in the console, type `getskseversion`
 * if *skse* is correctly installed, it should show your actual version
 
-![skse version](../images/skse64_version.jpg)
+    ![skse version](../images/skse64_version.jpg)
 
 ## Upgrading
 
