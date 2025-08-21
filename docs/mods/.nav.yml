@@ -1,2 +1,16 @@
 nav:
-    - "*"
+    - Address Library: essential/address_library.md
+    - essential/engine_fixes.md
+    - essential/powerofthree_tweaks.md
+    - essential/powerofthree_papyrus_extender.md
+    - essential/*
+    - racemenu/racemenu.md
+    - Racemenu ECE Sliders: racemenu/racemenu_ece_sliders.md
+    - Racemenu Player Rotation: racemenu/racemenu_player_rotation.md
+    - racemenu/racemenu_undress.md
+    - Racemenu Overlay Fix: racemenu/racemenu_overlay_fix.md
+    - racemenu/*
+    - Overlays Freckles: overlays/freckles_scars_birthmarks_more.md
+    - Overlays Sunstarved: overlays/sunstarved_tanlines.md
+    - overlays/*
+    - gameplay/*

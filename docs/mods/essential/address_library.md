@@ -1,7 +1,7 @@
 ---
 tags:
-    - skyrim mod
-    - skse64
+    - mods
+    - essential
 ---
 
 # Address Library

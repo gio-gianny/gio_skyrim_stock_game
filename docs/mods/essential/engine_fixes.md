@@ -1,7 +1,7 @@
 ---
 tags:
-    - skyrim mod
-    - skse64
+    - mods
+    - essential
     - fixes & patches
 ---
 
@@ -12,7 +12,7 @@ homepage: https://www.nexusmods.com/skyrimspecialedition/mods/17230
 about: skse64 plugin to fix various issues with the Skyrim Special Edition engine
 requirements:
 - Skyrim Script Extender (SKSE64)
-- Address Library for SKSE Plugins
+- Address Library
 downloads:
 - (Part 1) SSE Engine Fixes for 1.6.1170 and newer
 - (Part 2) Engine Fixes - skse64 Preloader and TBB Lib **(manual download)**

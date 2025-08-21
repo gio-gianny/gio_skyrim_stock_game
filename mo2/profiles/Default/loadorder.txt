@@ -79,4 +79,10 @@ cckrtsse001_altar.esl
 cccbhsse001-gaunt.esl
 ccafdsse001-dwesanctuary.esm
 _ResourcePack.esl
+ECE Sliders for Racemenu.esl
 Quick Start - SE.esp
+RaceMenu.esp
+RaceMenuPlugin.esp
+RaceMenu Undress.esp
+Sunstarved_Tanlines.esp
+SFO_SkinFeatureOverlays.esp

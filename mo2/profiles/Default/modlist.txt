@@ -3,15 +3,27 @@
 +[Output] Skyrim Special Edition (SKSE64)
 +[Output] SSEEdit
 -[Output]_separator
++[Root] (Part 2) Engine Fixes - skse64 Preloader and TBB Lib
++[Root] Skyrim Script Extender (SKSE64)
+-Root Mods_separator
++[Overlays] SkFO SE - Skin Feature Overlays- 2K
++[Overlays][CBBE] Sunstarved Tanlines
+-Skin Overlays_separator
++RaceMenu OverlayFix and Various Mod Fixes
++ECE Sliders Addon for Racemenu
++RaceMenu Undress
++Player Rotation in ShowRaceMenu
++RaceMenu
+-RaceMenu_separator
 +Optional Quick Start - SE
 -Gameplay_separator
++powerofthree's Papyrus Extender
++powerofthree's Tweaks
+-Essential_separator
 +(Part 1) SSE Engine Fixes for 1.6.1170 (v6.2)
 +All in one Address Library (Anniversary Edition)
 +Skyrim Script Extender (SKSE64) - Data
 -SKSE64_separator
-+[Root] (Part 2) Engine Fixes - skse64 Preloader and TBB Lib
-+[Root] Skyrim Script Extender (SKSE64)
--Root Mods_separator
 +[NoDelete] Wild Horses
 +[NoDelete] Vigil Enforcer Armor Set
 +[NoDelete] Umbra
