@@ -30,8 +30,30 @@ requirements:
 * extract the `rootbuilder` folder to `mo2\plugins` folder
 * remove the contents of the existing folder before updating to a newer version
 
-## Automatic activation
+## Manual build and clear
 
-This is the default mode.
+By default, the `root_builder` uses `Autobild` that copies any file in `root` folder of a
+mod to the `\\mo2\\stock_game` folder when launching an application through *MO2*. The
+files are deleted when the application exits.
 
-## Manual activation
+To avoid all this copy & delete, you can:
+
+* uncheck the `Autobuild`
+* click the `Build` button to copy the files to the stock game folder
+
+    ![manual build](../images/rootbuild_action_build.png)
+
+* click the `Clear` when you need to remove them
+
+    ![manual clear](../images/rootbuild_action_clear.png)
+
+!!! tip
+
+    You are entirely responsible for building and clearing the root files, if you disable
+    the `Autobild`.
+
+    Some simple rules of thumb:
+
+    * *clear* before installing new root mod
+    * *build* after that or just before launching an app
+    * you don't need to *clear* and *build* as long as you don't install new *root* mods
