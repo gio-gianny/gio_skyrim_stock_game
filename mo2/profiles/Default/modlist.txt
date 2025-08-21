@@ -3,6 +3,8 @@
 +[Output] Skyrim Special Edition (SKSE64)
 +[Output] SSEEdit
 -[Output]_separator
++Optional Quick Start - SE
+-Gameplay_separator
 +(Part 1) SSE Engine Fixes for 1.6.1170 (v6.2)
 +All in one Address Library (Anniversary Edition)
 +Skyrim Script Extender (SKSE64) - Data

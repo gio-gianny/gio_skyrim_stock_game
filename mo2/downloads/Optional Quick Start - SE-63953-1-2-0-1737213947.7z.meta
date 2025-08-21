@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=63953
+fileID=584778
+url=
+name=Optional Quick Start - SE
+description=
+modName=Optional Quick Start - SE
+version=1.2.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=24
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true

@@ -90,3 +90,4 @@ cceejsse001-hstead.bsa
 ccbgssse016-umbra.bsa
 ccmtysse002-ve.bsa
 ccbgssse034-mntuni.bsa
+Quick Start - SE.bsa
