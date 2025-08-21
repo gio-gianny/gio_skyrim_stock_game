@@ -17,7 +17,7 @@ requirements:
 
 !!! warning
 
-    The plugin will work only after installing and configuring [xEdit](../tools/xedit.md).
+    The plugin will work only after installing and configuring [SSEEdit](../tools/sseedit.md).
 
 ## Install
 
