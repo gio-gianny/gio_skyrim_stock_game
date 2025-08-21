@@ -24,6 +24,15 @@ requirements:
 * extract the `LOOT-Warning-Checker` folder to `mo2\plugins` folder
 * remove the contents of the existing folder before updating to a newer version
 
+## Setup
+
+* activate the `MO2 Menu > Tools > Settings...` menu
+* go to the `Plugins` tab
+* select the `LOOT Warning Checker`
+* verify that `xedit-data-path` and `xedit-directory` are correctly set
+
+![setup](../images/loot_warning_checker_config.png)
+
 ## Usage
 
 * open the *Warnings* dialog
