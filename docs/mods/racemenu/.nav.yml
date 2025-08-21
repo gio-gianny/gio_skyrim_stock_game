@@ -1,0 +1,7 @@
+nav:
+    - RaceMenu: racemenu.md
+    - ECE Sliders: racemenu_ece_sliders.md
+    - Player Rotation: racemenu_player_rotation.md
+    - Undress: racemenu_undress.md
+    - Overlay Fix: racemenu_overlay_fix.md
+    # - "*"

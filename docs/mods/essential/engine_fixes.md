@@ -5,14 +5,14 @@ tags:
     - fixes & patches
 ---
 
-# Engine Fixes
+# SSE Engine Fixes (skse64 plugin)
 
 ```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/17230
 about: skse64 plugin to fix various issues with the Skyrim Special Edition engine
 requirements:
-- Skyrim Script Extender (SKSE64)
 - Address Library
+- Skyrim Script Extender (SKSE64)
 downloads:
 - (Part 1) SSE Engine Fixes for 1.6.1170 and newer
 - (Part 2) Engine Fixes - skse64 Preloader and TBB Lib **(manual download)**
@@ -39,13 +39,13 @@ downloads:
 * double-click it in *Downloads* tab from *MO2* to `Install Mods` dialog
 * set the name of the mod to `[Root] (Part 2) Engine Fixes - skse64 Preloader and TBB Lib`
 
-    ![install mods dialog](../images/engine_fixes_root_build_1.png)
+    ![install mods dialog](../../images/engine_fixes_root_build_1.png)
 
 * right-click the `<data>` folder, select `Create directory...`
 * name the directory as `root`
 * move the three `.dll` files under it
 
-    ![root folder](../images/engine_fixes_root_build_1.png)
+    ![root folder](../../images/engine_fixes_root_build_1.png)
 
 * click the `OK` button even though `The content of <data> does not look valid.` is still shown
 * click `Ignore` when asked if you want to continue
@@ -65,6 +65,6 @@ downloads:
     * `tbb.dll`
     * `tbbmalloc.dll`
 
-![part 2 archive](../images/engine_fixes_manual_1.png)
+![part 2 archive](../../images/engine_fixes_manual_1.png)
 
-![game root with part 2](../images/engine_fixes_manual_2.png)
+![game root with part 2](../../images/engine_fixes_manual_2.png)

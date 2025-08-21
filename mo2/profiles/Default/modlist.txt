@@ -15,6 +15,7 @@
 +Player Rotation in ShowRaceMenu
 +RaceMenu
 -RaceMenu_separator
++Survival Mode Prompt Removed
 +Optional Quick Start - SE
 -Gameplay_separator
 +powerofthree's Papyrus Extender

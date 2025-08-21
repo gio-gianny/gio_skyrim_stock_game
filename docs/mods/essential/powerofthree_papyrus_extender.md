@@ -10,8 +10,7 @@ tags:
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/22854
 about: Plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.
 requirements:
-    - Address Library
-    - powerofthree's Tweaks
+    - SSE Engine Fixes
 downloads:
     - Papyrus Extender
 ```

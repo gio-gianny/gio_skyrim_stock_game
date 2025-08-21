@@ -11,12 +11,12 @@ theme:
   features:
     # - navigation.tabs  # show navigation tabs on top
     # - navigation.tabs.sticky  # lock the navigation tabs on top, so they are always visible
-    - navigation.expand  # exapand all left sidebar sections by default
-    - toc.integrate  # show toc in the left sidebar
+    # - navigation.expand  # exapand all left sidebar sections by default
+    # - toc.integrate  # show toc in the left sidebar
     - navigation.top  # show a back-to-top button when starting to scroll up
     - navigation.footer  # include links to the previous and next page
     - content.code.copy  # add copy-to-clipboard to code blocks
-    - navigation.sections  # rendered top-level sections as groups in the sidebar, for viewports above 1220px
+    # - navigation.sections  # rendered top-level sections as groups in the sidebar, for viewports above 1220px
   palette:
     scheme: slate
     primary: custom

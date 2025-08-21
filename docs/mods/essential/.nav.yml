@@ -1,0 +1,7 @@
+nav:
+    - Address Library: address_library.md
+    - SSE Engine Fixes: engine_fixes.md
+    - SSE Engine Fixes Config: engine_fixes_complete_config.md
+    - po3's Tweaks: powerofthree_tweaks.md
+    - po3's Papyrus Extender: powerofthree_papyrus_extender.md
+    # - "*"
