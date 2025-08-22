@@ -3,9 +3,8 @@
 +[Output] Skyrim Special Edition (SKSE64)
 +[Output] SSEEdit
 -Output_separator
--Creation Kit_separator
--[Root] Unofficial Creation Kit Patch
--[Root] Creation Kit Platform Extended for Skyrim
++[Root] Unofficial Creation Kit Patch
++[Root] Creation Kit Platform Extended for Skyrim
 +[Root] (Part 2) Engine Fixes - skse64 Preloader and TBB Lib
 +[Root] Skyrim Script Extender (SKSE64)
 -Root Mods_separator
