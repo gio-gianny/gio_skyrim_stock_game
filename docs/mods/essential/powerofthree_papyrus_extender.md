@@ -4,7 +4,7 @@ tags:
     - nexus
 ---
 
-# powerofthree's Papyrus Extender
+# Powerofthree's Papyrus Extender
 
 ```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/22854

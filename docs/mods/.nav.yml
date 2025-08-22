@@ -1,7 +1,8 @@
 nav:
     - Essential: essential/
     - Fixes: fixes/
-    - Display: display/
+    - Utilities: utilities/
     - RaceMenu: racemenu/
     - Overlays: overlays/
+    - NPCs: npcs/
     - Gameplay: gameplay/

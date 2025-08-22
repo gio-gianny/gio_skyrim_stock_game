@@ -4,7 +4,7 @@ tags:
     - nexus
 ---
 
-# powerofthree's Tweaks
+# Powerofthree's Tweaks
 
 ```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/51073
