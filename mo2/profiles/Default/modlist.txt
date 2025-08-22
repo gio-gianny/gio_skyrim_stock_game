@@ -21,6 +21,7 @@
 +[NPCs] NPC AI Process Position Fix - NG
 +[NPCs] AI Overhaul SSE
 -NPCs_separator
+-Display_separator
 +[Fixes & Patches] Sprint Sneak Movement Speed Fix
 +[Fixes & Patches] SkyPatcher
 +[Fixes & Patches] PapyrusUtil SE

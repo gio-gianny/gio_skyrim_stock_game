@@ -4,7 +4,7 @@ tags:
     - wabbajack
 ---
 
-# Wabbajack compilation setup
+# Compilation setup
 
 ## Compile a new list
 
