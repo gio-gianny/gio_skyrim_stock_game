@@ -17,7 +17,7 @@ downloads:
     - NPC AI Process Position Fix - NG
 ```
 
-## FOMOD Settings
+## FOMOD settings
 
 ```fomod_settings
 pages:

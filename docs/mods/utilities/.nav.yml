@@ -2,4 +2,4 @@ nav:
   - skyrim_priority.md
   - sse_display_tweaks.md
   - sse_display_tweaks_config_file.md
-  - "*"
+  # - "*"

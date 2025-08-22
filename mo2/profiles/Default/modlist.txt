@@ -8,6 +8,9 @@
 +[Root] (Part 2) Engine Fixes - skse64 Preloader and TBB Lib
 +[Root] Skyrim Script Extender (SKSE64)
 -Root Mods_separator
++[NPCs] NPC AI Process Position Fix - NG
++[NPCs] AI Overhaul SSE
+-NPCs_separator
 +[Overlays] Skin Feature Overlays - Freckles Scars Birthmarks (2K)
 +[Overlays] Sunstarved Tanlines (CBBE)
 -Skin Overlays_separator
@@ -17,16 +20,27 @@
 +[RaceMenu] Player Rotation
 +[RaceMenu] RaceMenu
 -RaceMenu_separator
-+Survival Mode Prompt Removed
-+Optional Quick Start - SE
++[Gameplay] Survival Mode Prompt Removed
++[Gameplay] Skyshards
++[Gameplay] Optional Quick Start - SE
++[Gameplay] Dragon Souls to Perk Points
++[Gameplay] Auto Read Notes
 -Gameplay_separator
-+[NPCs] NPC AI Process Position Fix - NG
-+[NPCs] AI Overhaul SSE
--NPCs_separator
++[Utilities] Simple Mod Item Spawner
 +[Utilities] Skyrim Priority SE AE - CPU Performance FPS Optimizer
 +[Utilities] SSE Display Tweaks Config File
 +[Utilities] SSE Display Tweaks
 -Utilities_separator
++[UI] Difficulty Persistence Fix (For 219 Ultrawide Support)
++[UI] Complete Widescreen Fix 219 for Vanilla and SkyUI
++[UI] Widescreen Scale Removed for 1-6-1130 and higher
++[UI] TrueHUD - HUD Additions
+-[UI] Quest Journal Fixes
+-[UI] Constructible Object Custom Keyword System - 21x9 Patch
++[UI] Constructible Object Custom Keyword System
++[UI] MCM Helper
++[UI] SkyUI
+-UI_separator
 +[Fixes & Patches] Sprint Sneak Movement Speed Fix
 +[Fixes & Patches] SkyPatcher
 +[Fixes & Patches] PapyrusUtil SE

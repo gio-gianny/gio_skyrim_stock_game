@@ -12,8 +12,10 @@ div.project_info div.md-typeset__table tr {
   width: 100%;
 }
 
-div.fomod_settings div.md-typeset__table {
-  /* width: 100%; */
+div.fomod_settings div.md-typeset__table th.section,
+div.mo2_mods div.md-typeset__table td,
+div.project_info div.md-typeset__table td {
+  padding-left: 40px;
 }
 
 div.project_info div.md-typeset__table th {
@@ -52,11 +54,11 @@ div.fomod_settings div.md-typeset__table th.section {
 
 div.fomod_settings div.md-typeset__table td {
   background-color: #f559f211;
-  width: 400px;
+  width: 40%;
 }
 
 div.fomod_settings div.md-typeset__table td.spacer {
-  width: 200px;
+  width: 20%;
 }
 
 div.fomod_settings div.md-typeset__table td.default {
@@ -65,4 +67,9 @@ div.fomod_settings div.md-typeset__table td.default {
 
 div.fomod_settings div.md-typeset__table td.selected {
   font-weight: 800;
+}
+
+div.fomod_settings div.md-typeset__table td.default.selected {
+  font-weight: 800;
+  width: 80%;
 }

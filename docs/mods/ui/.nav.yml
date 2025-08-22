@@ -1,0 +1,10 @@
+nav:
+  - skyui.md
+  - mcm_helper.md
+  - constructible_object_custom_keyword_system.md
+  - quest_journal_fix_for_skyui.md
+  - truehud_hud_additions.md
+  - widescreen_scale_removed.md
+  - complete_widescreen_fix_for_vanilla_and_skyui.md
+  - difficulty_persistence_fix_for_219_ultrawide_support.md
+  # - "*"

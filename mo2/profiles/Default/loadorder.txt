@@ -81,11 +81,18 @@ ccafdsse001-dwesanctuary.esm
 _ResourcePack.esl
 unofficial skyrim special edition patch.esp
 unofficial skyrim creation club content patch.esl
+TrueHUD.esl
 ECE Sliders for Racemenu.esl
+SkyUI_SE.esp
+RaceMenu.esp
 AI Overhaul.esp
 Quick Start - SE.esp
-RaceMenu.esp
 RaceMenuPlugin.esp
 RaceMenu Undress.esp
 Sunstarved_Tanlines.esp
 SFO_SkinFeatureOverlays.esp
+AutoShowNote.esp
+MBW Dragon Souls to Perk Points - v3-2.esp
+Skyshards.esp
+SimpleItemSpawner.esp
+MCMHelper.esp

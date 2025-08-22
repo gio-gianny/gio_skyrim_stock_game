@@ -93,7 +93,10 @@ ccbgssse034-mntuni.bsa
 unofficial skyrim special edition patch.bsa
 unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim creation club content patch.bsa
+SkyUI_SE.bsa
+MCMHelper.bsa
 Quick Start - SE.bsa
+Skyshards.bsa
 RaceMenu.bsa
 RaceMenu Undress.bsa
 ECE Sliders for Racemenu.bsa

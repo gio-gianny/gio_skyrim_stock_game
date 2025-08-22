@@ -17,7 +17,7 @@ downloads:
     - AI Overhaul AE 1.8.7
 ```
 
-## FOMOD Settings
+## FOMOD settings
 
 ```fomod_settings
 pages:

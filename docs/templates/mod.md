@@ -1,6 +1,5 @@
 ---
 tags:
-    - fixes & patches
     - nexus
 ---
 
@@ -8,7 +7,6 @@ tags:
 
 ```project_info
 homepage:
-urls:
 about:
 requirements:
 downloads:

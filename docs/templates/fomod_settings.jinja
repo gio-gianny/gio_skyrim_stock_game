@@ -7,10 +7,10 @@
                 <tr>
                     <td class="spacer"></td>
                     {% if section.selected %}
-                    <td class="default">{{ section.default }}</td>
                     <td class="selected">{{ section.selected }}</td>
+                    <td class="default">{{ section.default }}</td>
                     {% else %}
-                    {td class="selected default" colspan="2"}{{ section.default }}</td>
+                    <td class="selected default" colspan="2">{{ section.default }}</td>
                     {% endif %}
                 </tr>
             {% endfor %}

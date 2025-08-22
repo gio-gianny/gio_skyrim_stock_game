@@ -6,13 +6,16 @@
     {% endif %}
 {%- endmacro %}
 
-{% macro add_one_or_many(value) -%}
+{% macro add_one_or_many(title, value) -%}
     {% if value is string %}
+        <tr><th>{{ title }}</th></tr>
         {{ add_one(value) }}
     {% elif value is sequence %}
+        <tr><th>{{ title }}</th></tr>
         {%- for item in value %}
             {{ add_one(item) }}
         {%- endfor %}
+    {% else %}
     {% endif %}
 {%- endmacro %}
 
@@ -20,21 +23,17 @@
 <div class="{{ class_name }}">
     <table>
         <tbody>
-            <tr><th>Homepage</th></tr>
-            {{ add_one_or_many(data.homepage) }}
+            {{ add_one_or_many("Homepage", data.homepage) }}
             {% if data.urls is defined %}
-                <tr><th>Other links</th></tr>
-                {{ add_one_or_many(data.urls) }}
+                {{ add_one_or_many("Other links", data.urls) }}
             {% endif %}
             <tr><th>About</th></tr>
             <tr><td>{{- data.about -}}</td></tr>
             {%- if data.requirements is defined %}
-                <tr><th>Requirements</th></tr>
-                {{ add_one_or_many(data.requirements) }}
+                {{ add_one_or_many("Requirements", data.requirements) }}
             {%- endif %}
             {%- if data.downloads is defined %}
-                <tr><th>Downloads</th></tr>
-                {{ add_one_or_many(data.downloads) }}
+                {{ add_one_or_many("Downloads", data.downloads) }}
             {%- endif %}
         </tbody>
     </table>
