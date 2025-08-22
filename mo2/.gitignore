@@ -21,6 +21,7 @@
 /translations/
 /tutorials/
 /webcache/
+saves/
 
 # ignored files
 dump_running_process.bat

@@ -1,8 +1,8 @@
 ---
 tags:
-    - mods
     - essential
     - fixes & patches
+    - nexus
 ---
 
 # SSE Engine Fixes (skse64 plugin)

@@ -1,6 +1,5 @@
 ---
 tags:
-    - git
 ---
 
 # Cloning the project

@@ -1,6 +1,7 @@
 ---
 tags:
-    - mods
+    - fixes & patches
+    - nexus
     - racemenu
 ---
 

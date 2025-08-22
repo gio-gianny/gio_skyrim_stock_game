@@ -90,6 +90,9 @@ cceejsse001-hstead.bsa
 ccbgssse016-umbra.bsa
 ccmtysse002-ve.bsa
 ccbgssse034-mntuni.bsa
+unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
+unofficial skyrim creation club content patch.bsa
 Quick Start - SE.bsa
 RaceMenu.bsa
 RaceMenu Undress.bsa

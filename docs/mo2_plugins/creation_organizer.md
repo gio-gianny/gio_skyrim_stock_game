@@ -1,8 +1,8 @@
 ---
 tags:
-    - mo2
-    - mo2 plugin
     - creation club
+    - mo2 plugin
+    - nexus
 ---
 
 # Creation Organizer

@@ -1,11 +1,5 @@
 ---
 tags:
-    - git
-    - make
-    - cwebp
-    - imagemagick
-    - uv
-    - cfv
 ---
 
 # Basic tools

@@ -1,7 +1,7 @@
 ---
 tags:
-    - mods
     - config
+    - nexus
 ---
 
 # SSE Engine Fixes - Complete Config

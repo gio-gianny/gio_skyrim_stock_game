@@ -1,7 +1,7 @@
 ---
 tags:
-    - mods
     - gameplay
+    - nexus
     - survival
 ---
 

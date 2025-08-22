@@ -40,9 +40,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
-        - name: project_info
-          class: project_info
-          template: templates/project_info.jinja
+        - name: fomod_settings
+          class: fomod_settings
+          template: templates/fomod_settings.jinja
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
         - name: mo2_mods
           class: mo2_mods
@@ -51,6 +51,10 @@ markdown_extensions:
         - name: mo2_launcher
           class: mo2_launcher
           template: templates/mo2_launcher.jinja
+          format: !!python/name:mkdocs_custom_yaml_fences.formatter
+        - name: project_info
+          class: project_info
+          template: templates/project_info.jinja
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
   - pymdownx.tasklist:
       custom_checkbox: true

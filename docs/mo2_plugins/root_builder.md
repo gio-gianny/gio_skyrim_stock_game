@@ -1,7 +1,7 @@
 ---
 tags:
-    - mo2
     - mo2 plugin
+    - nexus
     - root builder
 ---
 

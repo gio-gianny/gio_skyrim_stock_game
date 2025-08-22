@@ -1,0 +1,19 @@
+<div class="{{ class_name }}">
+    <table>
+        {% for page in data.pages %}
+            <tr><th class="page" colspan="3">{{ page.name }}</th></tr>
+            {% for section in page.sections %}
+                <tr><th class="section" colspan="3">{{ section.name }}</th></tr>
+                <tr>
+                    <td class="spacer"></td>
+                    {% if section.selected %}
+                    <td class="default">{{ section.default }}</td>
+                    <td class="selected">{{ section.selected }}</td>
+                    {% else %}
+                    {td class="selected default" colspan="2"}{{ section.default }}</td>
+                    {% endif %}
+                </tr>
+            {% endfor %}
+        {% endfor %}
+    </table>
+</div>

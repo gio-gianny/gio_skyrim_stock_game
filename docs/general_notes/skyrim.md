@@ -1,6 +1,5 @@
 ---
 tags:
-    - skyrim
     - screen
 ---
 

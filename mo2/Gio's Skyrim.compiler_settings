@@ -28,7 +28,8 @@
     "mods\\[Output] SSEEdit\\SSEEdit Backups",
     "mods\\[Output] SSEEdit\\SSEEdit Cache",
     "tools\\SSEEdit\\cache",
-    ".gitignore"
+    ".gitignore",
+    "profiles\\Default\\saves"
   ],
   "AlwaysEnabled": [],
   "Version": "0.0.1",

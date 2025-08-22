@@ -1,8 +1,5 @@
 ---
 tags:
-    - make
-    - cwebp
-    - imagemagick
 ---
 
 # Project images

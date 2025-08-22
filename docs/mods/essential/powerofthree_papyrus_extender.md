@@ -1,7 +1,7 @@
 ---
 tags:
-    - mods
     - essential
+    - nexus
 ---
 
 # powerofthree's Papyrus Extender

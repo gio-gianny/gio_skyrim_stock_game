@@ -1,5 +1,6 @@
 ---
 tags:
+    - direct download
     - mo2
 ---
 

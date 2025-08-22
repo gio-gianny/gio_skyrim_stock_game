@@ -1,10 +1,10 @@
 ---
 tags:
-    - mods
     - essential
+    - nexus
 ---
 
-# Address Library
+# Address Library for SKSE Plugins
 
 ```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/32444

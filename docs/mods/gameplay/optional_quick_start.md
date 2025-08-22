@@ -1,8 +1,8 @@
 ---
 tags:
-    - mods
-    - gameplay
     - alternate start
+    - gameplay
+    - nexus
 ---
 
 # Optional Quick Start

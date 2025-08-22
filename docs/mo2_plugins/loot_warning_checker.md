@@ -1,8 +1,8 @@
 ---
 tags:
-    - mo2
     - mo2 plugin
-    - xedit
+    - nexus
+    - sseedit
 ---
 
 # LOOT Warning Checker

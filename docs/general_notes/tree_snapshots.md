@@ -1,8 +1,6 @@
 ---
 tags:
-  - make
   - tree snapshots
-  - cfv
 ---
 
 # Tree snapshots

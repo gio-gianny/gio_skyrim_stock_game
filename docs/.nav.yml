@@ -6,6 +6,6 @@ nav:
   - MO2: mo2/
   - MO2 plugins: mo2_plugins/
   - Tools: tools/
-  - Mods: mods/
+  - nexus: mods/
   - Wabbajack: wabbajack/
   - Credits: credits.md

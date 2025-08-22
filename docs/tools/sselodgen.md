@@ -1,7 +1,8 @@
 ---
 tags:
+    - nexus
     - tools
-    - sselodgen
+    - sseedit
 ---
 
 # SSELODGen
