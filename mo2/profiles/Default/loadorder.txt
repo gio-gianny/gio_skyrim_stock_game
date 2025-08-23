@@ -84,6 +84,7 @@ unofficial skyrim creation club content patch.esl
 TrueHUD.esl
 Experience.esl
 SmoothCam.esl
+Backshields.esl
 ECE Sliders for Racemenu.esl
 SkyUI_SE.esp
 RaceMenu.esp
@@ -115,3 +116,4 @@ TDM Diagonal Sprinting Fix.esp
 SlipOffSlopes.esp
 SlipOffSlopesMCM.esp
 XPMSE.esp
+BSSE_EnneadShieldsPatch.esp

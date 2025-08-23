@@ -19,6 +19,9 @@
 +[Immersion] Point The Way
 +[Immersion] Improved Camera Patch Collection
 +[Immersion] Improved Camera SE
++[Immersion] Auto Unequip Shield to Back - clipping patch for Cloaks of Skyrim
++[Immersion] Auto Unequip Shield to Back for Skyrim SE - Update Patch 2.2.1
++[Immersion] Auto Unequip Shield to Back for Skyrim SE - Backshields SE
 -Immersion_separator
 +[NPCs] NPC AI Process Position Fix - NG
 +[NPCs] AI Overhaul SSE
