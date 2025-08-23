@@ -20,11 +20,24 @@
 +[RaceMenu] Player Rotation
 +[RaceMenu] RaceMenu
 -RaceMenu_separator
++[Leveling] Static Skill Leveling Rewritten
++[Leveling] Skyrim Skill Uncapper for SE and AE - Config
++[Leveling] Skyrim Skill Uncapper for SE and AE
++[Leveling] Leveling Freedom - Configure your XP Curve - Settings Loader
++[Leveling] Leveling Freedom - Configure your XP Curve
++[Leveling] Geometric Stat Growth - Settings Loader
++[Leveling] Geometric Stat Growth
++[Leveling] Experience - Misc Quest to Side Quest
++[Leveling] Experience - Creation Club Main Quest Patchs
++[Leveling] Experience Quests Tweak
++[Leveling] Experience - MCM
++[Leveling] Experience
+-Leveling_separator
 +[Gameplay] Survival Mode Prompt Removed
 +[Gameplay] Skyshards
-+[Gameplay] Optional Quick Start - SE
 +[Gameplay] Dragon Souls to Perk Points
 +[Gameplay] Auto Read Notes
++[Gameplay] Optional Quick Start - SE
 -Gameplay_separator
 +[Utilities] Simple Mod Item Spawner
 +[Utilities] Skyrim Priority SE AE - CPU Performance FPS Optimizer

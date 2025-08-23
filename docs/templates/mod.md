@@ -1,5 +1,7 @@
 ---
 tags:
+    - gameplay
+    - leveling
     - nexus
 ---
 

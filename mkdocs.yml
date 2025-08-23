@@ -30,6 +30,9 @@ extra_css:
 
 plugins:
   - awesome-nav
+  # Markdown includer plugin
+  # https://github.com/mondeja/mkdocs-include-markdown-plugin
+  - include-markdown
   - search
   - tags
 
@@ -42,19 +45,19 @@ markdown_extensions:
       custom_fences:
         - name: fomod_settings
           class: fomod_settings
-          template: templates/fomod_settings.jinja
+          template: templates/fomod_settings.j2
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
         - name: mo2_mods
           class: mo2_mods
-          template: templates/mo2_mods.jinja
+          template: templates/mo2_mods.j2
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
         - name: mo2_launcher
           class: mo2_launcher
-          template: templates/mo2_launcher.jinja
+          template: templates/mo2_launcher.j2
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
         - name: project_info
           class: project_info
-          template: templates/project_info.jinja
+          template: templates/project_info.j2
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
   - pymdownx.tasklist:
       custom_checkbox: true

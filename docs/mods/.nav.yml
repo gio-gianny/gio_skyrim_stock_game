@@ -3,6 +3,7 @@ nav:
     - Fixes: fixes/
     - UI: ui/
     - Utilities: utilities/
+    - Leveling: leveling/
     - Gameplay: gameplay/
     - RaceMenu: racemenu/
     - Overlays: overlays/

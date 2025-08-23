@@ -1,7 +1,7 @@
 ---
 tags:
-    - display
     - config
+    - display
     - nexus
     - utilities
 ---

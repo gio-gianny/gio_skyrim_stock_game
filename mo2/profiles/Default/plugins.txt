@@ -2,6 +2,7 @@
 *unofficial skyrim special edition patch.esp
 *unofficial skyrim creation club content patch.esl
 *TrueHUD.esl
+*Experience.esl
 *ECE Sliders for Racemenu.esl
 *SkyUI_SE.esp
 *RaceMenu.esp
@@ -16,3 +17,9 @@
 *Skyshards.esp
 *SimpleItemSpawner.esp
 *MCMHelper.esp
+*Experience Quests Tweak.esp
+*Leveling Freedom.esp
+*CCQuest - Experience Patch.esp
+*Experience Quests.esp
+*geometric_stat_growth.esp
+*StaticSkillLeveling.esp

@@ -27,8 +27,10 @@
             {% if data.urls is defined %}
                 {{ add_one_or_many("Other links", data.urls) }}
             {% endif %}
+            {% if data.about %}
             <tr><th>About</th></tr>
             <tr><td>{{- data.about -}}</td></tr>
+            {% endif %}
             {%- if data.requirements is defined %}
                 {{ add_one_or_many("Requirements", data.requirements) }}
             {%- endif %}

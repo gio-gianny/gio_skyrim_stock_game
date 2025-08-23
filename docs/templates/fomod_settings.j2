@@ -1,0 +1,40 @@
+{% import "macros.j2" as mc %}
+
+{% macro show_option(option) -%}
+    {% set name = option.name %}
+    {% set selected = option.selected %}
+    {% set default = option.default %}
+
+    {% if selected is defined %}
+        <td class="selected">{{ mc.checkbox(selected) }} &nbsp; {{ name }}</td>
+        <td class="default">{{ mc.checkbox(default) }} &nbsp; {{ name }}</td>
+    {% elif default is defined %}
+        <td class="selected default" colspan="2">{{ mc.checkbox(default) }} &nbsp; {{ name }}</td>
+    {% endif %}
+{%- endmacro %}
+
+<div class="{{ class_name }}">
+    <table>
+        {% for page in data.pages %}
+            <tr><th class="page" colspan="3">{{ page.name }}</th></tr>
+            {% for section in page.sections %}
+                <tr><th class="section" colspan="3">{{ section.name }}</th></tr>
+                {% if section.selected or section.default or section.options %}
+                <tr>
+                    <td class="spacer"></td>
+                    {% if section.selected is defined %}
+                    <td class="selected">{{ section.selected }}</td>
+                    <td class="default">{{ section.default }}</td>
+                    {% elif section.default is defined %}
+                    <td class="selected default" colspan="2">{{ section.default }}</td>
+                    {% elif section.options is defined %}
+                        {% for option in section.options %}
+                            {{ show_option(option) }}
+                        {% endfor %}
+                    {% endif %}
+                </tr>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </table>
+</div>

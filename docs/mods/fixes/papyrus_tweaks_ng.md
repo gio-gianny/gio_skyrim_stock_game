@@ -1,5 +1,6 @@
 ---
 tags:
+    - config
     - fixes & patches
     - nexus
     - papyrus

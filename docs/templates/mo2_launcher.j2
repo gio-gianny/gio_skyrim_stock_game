@@ -1,3 +1,5 @@
+{% import "macros.j2" as mc %}
+
 {% macro group1(data, key, title, top_border=True) -%}
     <tr>
     {% if key in data %}
@@ -11,8 +13,7 @@
     <tr>
     {% if key in data or show_unchecked %}
     <td class="title" colspan="{{ colspan }}">
-        <i class="fa {% if key in data %}fa-check-square{% else %}fa-square{% endif %}"></i>
-        &nbsp; {{ title }}</span>
+        {{ mc.checkbox(key in data) }} &nbsp; {{ title }}</span>
     </td>
     {% if 3 - colspan %}
     <td colspan="{{ 3 - colspan }}">{{ data[key] }}</td>
