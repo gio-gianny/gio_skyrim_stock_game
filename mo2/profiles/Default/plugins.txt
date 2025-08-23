@@ -3,10 +3,12 @@
 *unofficial skyrim creation club content patch.esl
 *TrueHUD.esl
 *Experience.esl
+*SmoothCam.esl
 *ECE Sliders for Racemenu.esl
 *SkyUI_SE.esp
 *RaceMenu.esp
 *AI Overhaul.esp
+*point the way.esp
 *Quick Start - SE.esp
 *RaceMenuPlugin.esp
 *RaceMenu Undress.esp
@@ -25,3 +27,11 @@
 *StaticSkillLeveling.esp
 *FNIS.esp
 *FNISspells.esp
+*JaxonzMCMKicker.esp
+*BarenziahQuestMarkers.esp
+*Dragon Claws Auto-Unlock.esp
+*TrueDirectionalMovement.esp
+*TDM Diagonal Sprinting Fix.esp
+*SlipOffSlopes.esp
+*SlipOffSlopesMCM.esp
+*XPMSE.esp

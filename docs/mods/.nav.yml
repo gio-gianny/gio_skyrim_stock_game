@@ -9,3 +9,5 @@ nav:
     - RaceMenu: racemenu/
     - Overlays: overlays/
     - NPCs: npcs/
+    - Environment: environment/
+    - Immersion: immersion/

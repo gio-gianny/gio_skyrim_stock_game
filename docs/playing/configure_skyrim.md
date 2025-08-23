@@ -1,3 +1,8 @@
+---
+tags:
+    - playing
+---
+
 # Configure Skyrim
 
 ## Bethini Pie

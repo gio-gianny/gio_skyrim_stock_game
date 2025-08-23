@@ -19,20 +19,24 @@
             <tr><th class="page" colspan="3">{{ page.name }}</th></tr>
             {% for section in page.sections %}
                 <tr><th class="section" colspan="3">{{ section.name }}</th></tr>
-                {% if section.selected or section.default or section.options %}
-                <tr>
-                    <td class="spacer"></td>
-                    {% if section.selected is defined %}
-                    <td class="selected">{{ section.selected }}</td>
-                    <td class="default">{{ section.default }}</td>
-                    {% elif section.default is defined %}
-                    <td class="selected default" colspan="2">{{ section.default }}</td>
-                    {% elif section.options is defined %}
-                        {% for option in section.options %}
+                {% if section.selected is defined %}
+                    <tr>
+                        <td class="spacer"></td>
+                        <td class="selected">{{ section.selected }}</td>
+                        <td class="default">{{ section.default }}</td>
+                    </tr>
+                {% elif section.default is defined %}
+                    <tr>
+                        <td class="spacer"></td>
+                        <td class="selected default" colspan="2">{{ section.default }}</td>
+                    </tr>
+                {% elif section.options is defined %}
+                    {% for option in section.options %}
+                        <tr>
+                            <td class="spacer"></td>
                             {{ show_option(option) }}
-                        {% endfor %}
-                    {% endif %}
-                </tr>
+                        </tr>
+                    {% endfor %}
                 {% endif %}
             {% endfor %}
         {% endfor %}

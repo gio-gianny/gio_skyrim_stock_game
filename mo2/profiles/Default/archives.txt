@@ -95,6 +95,7 @@ unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim creation club content patch.bsa
 SkyUI_SE.bsa
 MCMHelper.bsa
+JaxonzMCMKicker.bsa
 Quick Start - SE.bsa
 Skyshards.bsa
 RaceMenu.bsa
@@ -102,3 +103,5 @@ RaceMenu Undress.bsa
 ECE Sliders for Racemenu.bsa
 Sunstarved_Tanlines.bsa
 SFO_SkinFeatureOverlays.bsa
+point the way - textures.bsa
+point the way.bsa

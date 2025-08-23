@@ -1,3 +1,8 @@
+---
+tags:
+    - playing
+---
+
 # Install the compilation
 
 * start *Wabbajack*

@@ -1,6 +1,7 @@
 ---
 tags:
     - animations
+    - keyboard
     - nexus
 ---
 
@@ -17,6 +18,8 @@ downloads:
     - Open Animation Replacer
 ```
 
-## In-game editor
+## Keyboard shortcuts
 
-Shortcut: **Shift + O**
+| Shortcut | Effect |
+|---|---|
+| Shift + O | Open in-game UI |
