@@ -45,6 +45,15 @@ Leveling is controlled by the mods (and their extensions) listed bellow:
     start="MCM settings"
 %}
 
+## INI settings
+
+### Skyrim Skill Uncapper
+
+{%
+    include-markdown "mods/leveling/skyrim_skill_uncapper.md"
+    start="INI settings"
+%}
+
 [Experience]: ../mods/leveling/experience.md
 [Geometric Stat Growth]: ../mods/leveling/geometric_stat_growth.md
 [Leveling Freedom]: ../mods/leveling/leveling_freedom.md

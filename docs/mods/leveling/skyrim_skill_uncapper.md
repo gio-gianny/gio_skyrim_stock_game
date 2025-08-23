@@ -21,7 +21,7 @@ downloads:
 
 !!! tip
 
-    Create a separate mod for the config.
+    These settings are stored in `[Leveling] Skyrim Skill Uncapper for SE and AE - Config` mod.
 
 | Name | Value | Default | Notes |
 |---|---|---|---|
