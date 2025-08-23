@@ -103,3 +103,5 @@ CCQuest - Experience Patch.esp
 Experience Quests.esp
 geometric_stat_growth.esp
 StaticSkillLeveling.esp
+FNIS.esp
+FNISspells.esp

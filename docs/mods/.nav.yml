@@ -1,6 +1,7 @@
 nav:
     - Essential: essential/
     - Fixes: fixes/
+    - Animations: animations/
     - UI: ui/
     - Utilities: utilities/
     - Leveling: leveling/

@@ -1,7 +1,6 @@
 ---
 tags:
-    - gameplay
-    - leveling
+    - animations
     - nexus
 ---
 
