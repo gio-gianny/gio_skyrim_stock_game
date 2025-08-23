@@ -1,0 +1,9 @@
+nav:
+  - skyrim.md
+  - basic_tools.md
+  - cloning_project.md
+  - makefile_jobs.md
+  - view_docs_locally.md
+  - tree_snapshots.md
+  - images.md
+  - unmanaged_files.md

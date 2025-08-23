@@ -1,7 +1,8 @@
 # ignored dirs
 .build/
-.site/
+.recycle_bin*/
 .mypy_cache/
+.site/
 __pycache__/
 
 # ignored files

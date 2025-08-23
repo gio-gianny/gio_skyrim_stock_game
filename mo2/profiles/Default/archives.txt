@@ -1,0 +1,104 @@
+Skyrim - Misc.bsa
+Skyrim - Shaders.bsa
+Skyrim - Interface.bsa
+Skyrim - Animations.bsa
+Skyrim - Meshes0.bsa
+Skyrim - Meshes1.bsa
+Skyrim - Sounds.bsa
+Skyrim - Voices_en0.bsa
+Skyrim - Textures0.bsa
+Skyrim - Textures1.bsa
+Skyrim - Textures2.bsa
+Skyrim - Textures3.bsa
+Skyrim - Textures4.bsa
+Skyrim - Textures5.bsa
+Skyrim - Textures6.bsa
+Skyrim - Textures7.bsa
+Skyrim - Textures8.bsa
+_ResourcePack.bsa
+ccbgssse037-curios.bsa
+ccBGSSSE001-Fish.bsa
+ccbgssse025-advdsgs.bsa
+ccqdrsse001-survivalmode.bsa
+ccfsvsse001-backpacks.bsa
+ccbgssse051-ba_daedricmail.bsa
+ccbgssse050-ba_daedric.bsa
+ccbgssse059-ba_dragonplate.bsa
+ccbgssse060-ba_dragonscale.bsa
+ccbgssse062-ba_dwarvenmail.bsa
+ccbgssse061-ba_dwarven.bsa
+ccbgssse063-ba_ebony.bsa
+ccbgssse064-ba_elven.bsa
+ccbgssse052-ba_iron.bsa
+ccbgssse053-ba_leather.bsa
+ccbgssse054-ba_orcish.bsa
+ccbgssse055-ba_orcishscaled.bsa
+ccbgssse056-ba_silver.bsa
+ccbgssse057-ba_stalhrim.bsa
+ccbgssse058-ba_steel.bsa
+ccbgssse014-spellpack01.bsa
+ccbgssse002-exoticarrows.bsa
+ccpewsse002-armsofchaos.bsa
+cckrtsse001_altar.bsa
+cceejsse005-cave.bsa
+ccbgssse036-petbwolf.bsa
+ccbgssse038-bowofshadows.bsa
+ccqdrsse002-firewood.bsa
+ccbgssse007-chrysamere.bsa
+ccffbsse001-imperialdragon.bsa
+ccbgssse013-dawnfang.bsa
+ccbgssse031-advcyrus.bsa
+ccmtysse001-knightsofthenine.bsa
+ccbgssse010-petdwarvenarmoredmudcrab.bsa
+ccbgssse043-crosselv.bsa
+ccffbsse002-crossbowpack.bsa
+ccvsvsse004-beafarmer.bsa
+cccbhsse001-gaunt.bsa
+cctwbsse001-puzzledungeon.bsa
+ccrmssse001-necrohouse.bsa
+ccasvsse001-almsivi.bsa
+ccbgssse040-advobgobs.bsa
+ccbgssse005-goldbrand.bsa
+ccbgssse068-bloodfall.bsa
+cceejsse004-hall.bsa
+ccbgssse011-hrsarmrelvn.bsa
+ccbgssse012-hrsarmrstl.bsa
+ccbgssse021-lordsmail.bsa
+cceejsse002-tower.bsa
+ccafdsse001-dwesanctuary.bsa
+ccVSVSSE003-NecroArts.bsa
+ccbgssse041-netchleather.bsa
+ccbgssse035-petnhound.bsa
+ccedhsse001-norjewel.bsa
+ccvsvsse002-pets.bsa
+ccbgssse003-zombies.bsa
+ccedhsse003-redguard.bsa
+ccbgssse004-ruinsedge.bsa
+ccvsvsse001-winter.bsa
+cceejsse003-hollow.bsa
+ccbgssse018-shadowrend.bsa
+ccedhsse002-splkntset.bsa
+ccbgssse045-hasedoki.bsa
+ccbgssse019-staffofsheogorath.bsa
+ccbgssse066-staves.bsa
+ccbgssse006-stendarshammer.bsa
+ccbgssse008-wraithguard.bsa
+ccbgssse067-daedinv.bsa
+ccbgssse069-contest.bsa
+ccbgssse020-graycowl.bsa
+cceejsse001-hstead.bsa
+ccbgssse016-umbra.bsa
+ccmtysse002-ve.bsa
+ccbgssse034-mntuni.bsa
+unofficial skyrim special edition patch.bsa
+unofficial skyrim special edition patch - textures.bsa
+unofficial skyrim creation club content patch.bsa
+SkyUI_SE.bsa
+MCMHelper.bsa
+Quick Start - SE.bsa
+Skyshards.bsa
+RaceMenu.bsa
+RaceMenu Undress.bsa
+ECE Sliders for Racemenu.bsa
+Sunstarved_Tanlines.bsa
+SFO_SkinFeatureOverlays.bsa

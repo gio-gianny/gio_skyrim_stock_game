@@ -1,6 +1,19 @@
 [General]
-installed=true
 gameName=SkyrimSE
 modID=164
 fileID=495506
+url=
+name=SSEEdit 4.1.5f
+description=
+modName=SSEEdit
+version=4.1.5.0f
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
 removed=true

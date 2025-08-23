@@ -1,27 +1,39 @@
+{% macro add_one(value) -%}
+    {% if value.startswith("http") %}
+        <tr><td><a href="{{ value }}">{{ value }}</a></td></tr>
+    {% else %}
+        <tr><td>{{ value }}</td></tr>
+    {% endif %}
+{%- endmacro %}
+
+{% macro add_one_or_many(title, value) -%}
+    {% if value is string %}
+        <tr><th>{{ title }}</th></tr>
+        {{ add_one(value) }}
+    {% elif value is sequence %}
+        <tr><th>{{ title }}</th></tr>
+        {%- for item in value %}
+            {{ add_one(item) }}
+        {%- endfor %}
+    {% else %}
+    {% endif %}
+{%- endmacro %}
+
+
 <div class="{{ class_name }}">
     <table>
         <tbody>
-            <tr><th>Homepage</th></tr>
-            {% if data.homepage is string %}
-            <tr><td><a href="{{ data.homepage }}">{{ data.homepage }}</a></td></tr>
-            {% elif data.homepage is sequence %}
-            {%- for item in data.homepage %}
-            <tr><td><a href="{{ item }}">{{ item }}</a></td></tr>
-            {%- endfor %}
+            {{ add_one_or_many("Homepage", data.homepage) }}
+            {% if data.urls is defined %}
+                {{ add_one_or_many("Other links", data.urls) }}
             {% endif %}
             <tr><th>About</th></tr>
             <tr><td>{{- data.about -}}</td></tr>
             {%- if data.requirements is defined %}
-            <tr><th>Requirements</th></tr>
-            {%- for item in data.requirements %}
-            <tr><td>{{ item }}</td></tr>
-            {%- endfor %}
+                {{ add_one_or_many("Requirements", data.requirements) }}
             {%- endif %}
             {%- if data.downloads is defined %}
-            <tr><th>Downloads</th></tr>
-            {%- for item in data.downloads %}
-            <tr><td>{{ item }}</td></tr>
-            {%- endfor %}
+                {{ add_one_or_many("Downloads", data.downloads) }}
             {%- endif %}
         </tbody>
     </table>

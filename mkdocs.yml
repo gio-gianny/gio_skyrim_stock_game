@@ -9,13 +9,14 @@ theme:
   favicon: images/favicon.ico
   name: material
   features:
-    - navigation.tabs  # show navigation tabs on top
-    - navigation.tabs.sticky  # lock the navigation tabs on top, so they are always visible
-    - navigation.expand  # exapand all left sidebar sections by default
-    - toc.integrate  # show toc in the left sidebar
+    # - navigation.tabs  # show navigation tabs on top
+    # - navigation.tabs.sticky  # lock the navigation tabs on top, so they are always visible
+    # - navigation.expand  # exapand all left sidebar sections by default
+    # - toc.integrate  # show toc in the left sidebar
     - navigation.top  # show a back-to-top button when starting to scroll up
     - navigation.footer  # include links to the previous and next page
     - content.code.copy  # add copy-to-clipboard to code blocks
+    # - navigation.sections  # rendered top-level sections as groups in the sidebar, for viewports above 1220px
   palette:
     scheme: slate
     primary: custom
@@ -30,15 +31,18 @@ extra_css:
 plugins:
   - awesome-nav
   - search
+  - tags
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - def_list
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
-        - name: project_info
-          class: project_info
-          template: templates/project_info.jinja
+        - name: fomod_settings
+          class: fomod_settings
+          template: templates/fomod_settings.jinja
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
         - name: mo2_mods
           class: mo2_mods
@@ -48,3 +52,9 @@ markdown_extensions:
           class: mo2_launcher
           template: templates/mo2_launcher.jinja
           format: !!python/name:mkdocs_custom_yaml_fences.formatter
+        - name: project_info
+          class: project_info
+          template: templates/project_info.jinja
+          format: !!python/name:mkdocs_custom_yaml_fences.formatter
+  - pymdownx.tasklist:
+      custom_checkbox: true
