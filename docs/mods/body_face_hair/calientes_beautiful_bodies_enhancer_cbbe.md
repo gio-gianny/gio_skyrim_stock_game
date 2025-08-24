@@ -19,6 +19,7 @@ downloads:
     - Caliente's Beautiful Bodies Enhancer CBBE - v2.0.3
     - CBBE AE-CC Outfits
     - RoughSpun Tunic and Prisoner Bloody Fix
+    - CBBE Outfits - No Rim Lighting
 ```
 
 ## FOMOD settings

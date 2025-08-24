@@ -44,7 +44,14 @@
 <div class="{{ class_name }}">
     <table>
         {% for page in data.pages %}
-            <tr><th class="page" colspan="3">{{ page.name }}</th></tr>
+            <tr>
+                <th class="page" colspan="3">
+                    {{ page.name }}
+                    {% if page.notes is defined %}
+                        <br/> <span class="notes">{{ page.notes }}</span>
+                    {% endif %}
+                </th>
+            </tr>
             {% for section in page.sections %}
                 <tr><th class="section" colspan="3">{{ section.name }}</th></tr>
                 {% if section.selected is defined %}

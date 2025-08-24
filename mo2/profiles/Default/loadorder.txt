@@ -130,3 +130,5 @@ HIMBO.esp
 RaceMenuMorphsHIMBO.esp
 BnP - Skinfix.esp
 Underwear.esp
+3BBB.esp
+SOSPhysicsManager.esp

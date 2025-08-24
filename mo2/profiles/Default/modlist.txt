@@ -29,6 +29,7 @@
 +[Immersion] Auto Unequip Shield to Back for Skyrim SE - Update Patch 2.2.1
 +[Immersion] Auto Unequip Shield to Back for Skyrim SE - Backshields SE
 -Immersion_separator
++[Outfits] CBBE Outfits - No Rim Lighting
 +[Outfits] CBBE RoughSpun Tunic and Prisoner Bloody Fix
 +[Outfits] CBBE AE-CC Outfits
 -Outfits_separator
@@ -39,6 +40,9 @@
 +[Body, Face, Hair] 02b) HIMBO V5 - CC Refits
 +[Body, Face, Hair] 02a) HIMBO V5 - BG-DG-DB Refits
 +[Body, Face, Hair] 01) HIMBO V5 - Core
++[Body, Face, Hair] 3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3.1
++[Body, Face, Hair] 3BA RFBBBT
++[Body, Face, Hair] CBBE 3BA
 +[Body, Face, Hair] Caliente's Beautiful Bodies Enhancer -CBBE-
 +[Body, Face, Hair] Vanilla hair remake - patches
 +[Body, Face, Hair] Vanilla hair remake unlocked addon - SMP (physics)
@@ -83,6 +87,15 @@
 +[Gameplay] True Directional Movement
 +[Gameplay] Survival Mode Prompt Removed
 +[Gameplay] Stones of Barenziah Quest Markers
++[Gameplay] SmoothCam - Zeus Next Gen preset (Preset 1)
++[Gameplay] SmoothCam - Vanilla Enhanced 2 (Preset 5)
+-[Gameplay] SmoothCam - Vanilla Enhanced Preset (Preset 3)
++[Gameplay] SmoothCam - Soft Preset - Combat Evolved (Preset 4)
+-[Gameplay] SmoothCam - Octavian's Preset (Preset 4-5)
++[Gameplay] SmoothCam - Modern Camera Preset (Preset 3)
+-[Gameplay] SmoothCam - EasyEase Preset (Preset 1)
+-[Gameplay] SmoothCam - Classic Enhanced - Vanilla Plus Preset (Preset 4)
++[Gameplay] Smoothcam - Toggleable H.O.R.N.I Presets (Preset 0-5)
 +[Gameplay] SmoothCam
 +[Gameplay] Skyshards
 +[Gameplay] Dragon Souls to Perk Points
