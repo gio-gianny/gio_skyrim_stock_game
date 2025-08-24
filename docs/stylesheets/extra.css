@@ -73,3 +73,8 @@ div.fomod_settings div.md-typeset__table td.default.selected {
   font-weight: 800;
   width: 80%;
 }
+
+div.fomod_settings div.md-typeset__table span.notes {
+  font-size: x-small;
+  font-weight: 100;
+}

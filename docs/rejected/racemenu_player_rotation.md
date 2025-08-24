@@ -1,8 +1,13 @@
 ---
 tags:
-    - nexus
-    - racemenu
+    # - nexus
+    # - racemenu
+    - rejected
 ---
+
+!!! warning
+
+    Not working in 1.6.x.
 
 # Player Rotation in ShowRaceMenu
 

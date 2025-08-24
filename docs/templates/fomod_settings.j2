@@ -1,17 +1,45 @@
 {% import "macros.j2" as mc %}
 
+
+{% macro show_simple_ex(td_class, name, colspan=1) %}
+    {% if name is mapping and name.notes %}
+        <td class="{{ td_class }}" colspan="{{ colspan }}">
+            {{ name.value }} <br/>
+            <span class="notes">{{ name.notes }}</span>
+        </td>
+    {% else %}
+        <td class="{{ td_class }}" colspan="{{ colspan }}">{{ name }}</td>
+    {% endif %}
+{% endmacro %}
+
+
+{% macro show_option_ex(td_class, name, value, colspan=1) %}
+    {% if value is mapping %}
+        <td class="{{ td_class }}" colspan="{{ colspan }}">
+            {{ mc.checkbox(value.value) }} &nbsp; {{ name }} <br/>
+            <span class="notes">{{ value.notes }}</span>
+        </td>
+    {% else %}
+        <td class="{{ td_class }}" colspan="{{ colspan }}">
+            {{ mc.checkbox(value) }} &nbsp; {{ name }}
+        </td>
+    {% endif %}
+{% endmacro %}
+
+
 {% macro show_option(option) -%}
     {% set name = option.name %}
     {% set selected = option.selected %}
     {% set default = option.default %}
 
     {% if selected is defined %}
-        <td class="selected">{{ mc.checkbox(selected) }} &nbsp; {{ name }}</td>
-        <td class="default">{{ mc.checkbox(default) }} &nbsp; {{ name }}</td>
+        {{ show_option_ex("selected", name, selected) }}
+        {{ show_option_ex("default", name, default) }}
     {% elif default is defined %}
-        <td class="selected default" colspan="2">{{ mc.checkbox(default) }} &nbsp; {{ name }}</td>
+        {{ show_option_ex("default selected", name, default, 2) }}
     {% endif %}
 {%- endmacro %}
+
 
 <div class="{{ class_name }}">
     <table>
@@ -22,13 +50,13 @@
                 {% if section.selected is defined %}
                     <tr>
                         <td class="spacer"></td>
-                        <td class="selected">{{ section.selected }}</td>
-                        <td class="default">{{ section.default }}</td>
+                        {{ show_simple_ex("selected", section.selected) }}
+                        {{ show_simple_ex("default", section.default) }}
                     </tr>
                 {% elif section.default is defined %}
                     <tr>
                         <td class="spacer"></td>
-                        <td class="selected default" colspan="2">{{ section.default }}</td>
+                        {{ show_simple_ex("selected default", section.default, 2) }}
                     </tr>
                 {% elif section.options is defined %}
                     {% for option in section.options %}

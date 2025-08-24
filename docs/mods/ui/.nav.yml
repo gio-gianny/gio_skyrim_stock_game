@@ -7,4 +7,4 @@ nav:
   - widescreen_scale_removed.md
   - complete_widescreen_fix_for_vanilla_and_skyui.md
   - difficulty_persistence_fix_for_219_ultrawide_support.md
-  # - "*"
+  - "*"

@@ -5,6 +5,7 @@
 *Experience.esl
 *SmoothCam.esl
 *Backshields.esl
+*Expressive Facegen Morphs.esl
 *ECE Sliders for Racemenu.esl
 *SkyUI_SE.esp
 *RaceMenu.esp
@@ -37,3 +38,15 @@
 *SlipOffSlopesMCM.esp
 *XPMSE.esp
 *BSSE_EnneadShieldsPatch.esp
+*FSMPM - The FSMP MCM.esp
+*SMP Wind MCM.esp
+*KS Hairdo's.esp
+*Vanilla hair remake SMP NPCs.esp
+*Vanilla hair remake_Unlocked.esp
+*CBBE.esp
+*RaceMenuMorphsCBBE.esp
+*KSHairdosSMP.esp
+*HIMBO.esp
+*RaceMenuMorphsHIMBO.esp
+*BnP - Skinfix.esp
+*Underwear.esp

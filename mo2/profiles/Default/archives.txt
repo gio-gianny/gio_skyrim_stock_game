@@ -103,7 +103,9 @@ RaceMenu Undress.bsa
 ECE Sliders for Racemenu.bsa
 Sunstarved_Tanlines.bsa
 SFO_SkinFeatureOverlays.bsa
+Vanilla hair remake SMP NPCs.bsa
+Vanilla hair remake_Unlocked.bsa
 Backshields - Textures.bsa
 Backshields.bsa
-point the way - textures.bsa
 point the way.bsa
+point the way - textures.bsa
