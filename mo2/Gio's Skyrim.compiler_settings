@@ -31,7 +31,18 @@
     ".gitignore",
     "profiles\\Default\\saves"
   ],
-  "AlwaysEnabled": [],
+  "AlwaysEnabled": [
+    "mods\\[Gameplay] SmoothCam",
+    "mods\\[Gameplay] SmoothCam - Classic Enhanced - Vanilla Plus Preset (Preset 4)",
+    "mods\\[Gameplay] SmoothCam - EasyEase Preset (Preset 1)",
+    "mods\\[Gameplay] SmoothCam - Modern Camera Preset (Preset 3)",
+    "mods\\[Gameplay] SmoothCam - Octavian\u0027s Preset (Preset 4-5)",
+    "mods\\[Gameplay] SmoothCam - Soft Preset - Combat Evolved (Preset 4)",
+    "mods\\[Gameplay] Smoothcam - Toggleable H.O.R.N.I Presets (Preset 0-5)",
+    "mods\\[Gameplay] SmoothCam - Vanilla Enhanced 2 (Preset 5)",
+    "mods\\[Gameplay] SmoothCam - Vanilla Enhanced Preset (Preset 3)",
+    "mods\\[Gameplay] SmoothCam - Zeus Next Gen preset (Preset 1)"
+  ],
   "Version": "0.0.1",
   "Description": null
 }
