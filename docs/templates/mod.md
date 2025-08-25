@@ -1,6 +1,5 @@
 ---
 tags:
-    - animations
     - nexus
 ---
 
@@ -12,3 +11,28 @@ about:
 requirements:
 downloads:
 ```
+
+## FOMOD settings
+
+```fomod_settings
+pages:
+    - name:
+      sections:
+        - name:
+          default:
+          selected:
+        - name:
+          options:
+            - name:
+              default:
+            - name:
+              default:
+                value:
+                notes:
+```
+
+## RaceMenu Female Presets
+
+| Preset | Face | Notes |
+|---|---|---|
+| ```` | ```` | |

@@ -5,6 +5,8 @@ tags:
     - hair
     - physics
     - nexus
+    - racemenu
+    - racemenu presets
 ---
 
 # KS Hairdos - HDT SMP (Physics)

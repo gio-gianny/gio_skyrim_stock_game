@@ -57,3 +57,16 @@
 *SOSPhysicsManager.esp
 *ars metallica.esp
 *waccf_armor and clothing extension_spid.esp
+*TheEyesOfBeauty.esp
+*KaliliesBrows.esp
+*FMS_FemaleMakeupSuite.esp
+*NB-Scars.esp
+*EvenMoreMakeup.esp
+*Koralina's Makeup Tweaks.esp
+*Brows.esp
+*Brows for High Poly Head.esp
+*Realistic Natural Skin Tones.esp
+*GMsHair aXing.esp
+*Koralina's Eyebrows.esp
+*koralinas_freckles_moles.esp
+*slordars_body_freckles.esp

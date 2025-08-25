@@ -4,6 +4,8 @@ tags:
     - hair
     - physics
     - nexus
+    - racemenu
+    - racemenu presets
 ---
 
 # Vanilla hair remake

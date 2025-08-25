@@ -43,30 +43,55 @@
 +[Outfits] Armor and Clothing Extension - SPID Patch
 +[Outfits] Armor and Clothing Extension
 -Outfits_separator
-+[Body, Face, Hair] Seamless Males SE
-+[Body, Face, Hair] BnP female skin (Replacer+Player version)
-+[Body, Face, Hair] BnP male skin (Replacer+Player version)
-+[Body, Face, Hair] HIMBO - Dragon Aspect Hotfix
-+[Body, Face, Hair] 02b) HIMBO V5 - CC Refits
-+[Body, Face, Hair] 02a) HIMBO V5 - BG-DG-DB Refits
-+[Body, Face, Hair] 01) HIMBO V5 - Core
-+[Body, Face, Hair] 3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3.1
-+[Body, Face, Hair] 3BA RFBBBT
-+[Body, Face, Hair] CBBE 3BA
-+[Body, Face, Hair] Caliente's Beautiful Bodies Enhancer -CBBE-
-+[Body, Face, Hair] Vanilla hair remake - patches
-+[Body, Face, Hair] Vanilla hair remake unlocked addon - SMP (physics)
-+[Body, Face, Hair] Vanilla hair - Salt and Wind
-+[Body, Face, Hair] Vanilla hair remake SMP - NPCs
-+[Body, Face, Hair] Vanilla hair remake
-+[Body, Face, Hair] KS Hairdos - HDT SMP (Physics)
-+[Body, Face, Hair] KS Hairdos SSE
-+[Body, Face, Hair] Face Discoloration Fix
-+[Body, Face, Hair] High Poly Head SE
-+[Body, Face, Hair] Expressive Facegen Morphs SE
++[Body, Skin] Seamless Males SE
++[Body, Skin] BnP female skin (Replacer+Player version)
++[Body, Skin] BnP male skin (Replacer+Player version)
++[Body] HIMBO - Dragon Aspect Hotfix
++[Body] 02b) HIMBO V5 - CC Refits
++[Body] 02a) HIMBO V5 - BG-DG-DB Refits
++[Body] 01) HIMBO V5 - Core
++[Body] 3BA RFBBBT v3.0 - AutoGibbon Settings - Update 3.1
++[Body] 3BA RFBBBT
++[Body] CBBE 3BA
++[Body] Caliente's Beautiful Bodies Enhancer -CBBE-
 -Body, Face, Hair_separator
-+[Overlays] Skin Feature Overlays - Freckles Scars Birthmarks (2K)
++[RaceMenu Character Presets] Breton Male - Theo
++[RaceMenu Character Presets] Nord Female - R246 - Nord 05 Version 4
++[RaceMenu Character Presets] Nord Female - R246
++[RaceMenu Character Presets] Breton Female - Wendy
++[RaceMenu Character Presets] Breton Female - Zoelin (Vanilla Version)
++[RaceMenu Character Presets] Breton Female - Zoelin (Hairdos Version)
++[RaceMenu Character Presets] Breton Female - Maribel
++[RaceMenu Character Presets] Breton Female - Jeanne
++[RaceMenu Character Presets] Breton Female - Dovahrel
++[RaceMenu Character Presets] Breton Female - Chloe
++[Hair] Vanilla hair remake - patches
++[Hair] Vanilla hair remake unlocked addon - SMP (Physics)
++[Hair] Vanilla hair - Salt and Wind
++[Hair] Vanilla hair remake SMP - NPCs (Physics)
++[Hair] Vanilla hair remake
++[Hair] KS Hairdos - HDT SMP (Physics)
++[Hair] KS Hairdos SSE
++[Hair] Great modders' SMP Hair pack and Xing
+-[Face, Eyebrows] Darker Eyebrow Replacers (Optional)
++[Face, Eyebrows] Koralina's Eyebrows for High Poly Head
++[Face, Eyes] The Eyes of Beauty Ai - Standalone Textures (1k)
++[Face, Brows] Kalilies Brows
++[Face] Expressive Facegen Morphs SE - Face Discoloration Fix
++[Face] Expressive Facegen Morphs SE
++[Face] High Poly Head SE
++[Scars] Northborn Scars
++[Body, Skin] Realistic Natural Skin Tones
+-RaceMenu Presets_separator
 +[Overlays] Sunstarved Tanlines (CBBE)
++[Overlays] Skin Feature Overlays - Freckles Scars Birthmarks (2K)
++[Overlays] Koralina's Makeup Tweaks 2k ESL
++[Overlays] Koralina's Freckles and Moles - Slordar's Body Freckles (2k)
++[Overlays] Koralina's Freckles and Moles (2k)
++[Overlays] Hvergelmir's Aesthetics - Brows
++[Overlays] Female Makeup Suite - Face - Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
++[Overlays] Even More Makeup by Koralina - ESL
++[Overlays] Brows for High Poly Head
 -Skin Overlays_separator
 +[RaceMenu] OverlayFix and Various Mod Fixes
 +[RaceMenu] ECE Sliders Addon

@@ -3,6 +3,8 @@ tags:
     - body, face, hair
     - face
     - nexus
+    - racemenu
+    - racemenu presets
 ---
 
 # Expressive Facegen Morphs SE

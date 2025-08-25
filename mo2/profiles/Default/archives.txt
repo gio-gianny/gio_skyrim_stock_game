@@ -103,8 +103,9 @@ Skyshards.bsa
 RaceMenu.bsa
 RaceMenu Undress.bsa
 ECE Sliders for Racemenu.bsa
-Sunstarved_Tanlines.bsa
+FMS_FemaleMakeupSuite.bsa
 SFO_SkinFeatureOverlays.bsa
+Sunstarved_Tanlines.bsa
 High Poly Head.bsa
 Vanilla hair remake SMP NPCs.bsa
 Vanilla hair remake_Unlocked.bsa

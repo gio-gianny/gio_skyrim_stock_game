@@ -5,6 +5,8 @@ tags:
     - hair
     - physics
     - nexus
+    - racemenu
+    - racemenu presets
 ---
 
 # Vanilla Hair Remake Unlocked - Extended character options - High Poly Head - Expressive Facegen Morphs - patches

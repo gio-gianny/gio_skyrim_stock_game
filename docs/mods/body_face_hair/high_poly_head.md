@@ -4,6 +4,9 @@ tags:
     - direct download
     - face
     - fomod
+    - high poly head
+    - racemenu
+    - racemenu presets
 ---
 
 # High Poly Head 1.4

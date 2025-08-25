@@ -1,8 +1,14 @@
 ---
 tags:
+    - 3ba
+    - body, face, hair
+    - body
+    - cbbe
     - nexus
     - overlays
     - racemenu
+    - racemenu presets
+    - tanlines
 ---
 
 # Sunstarved - Tanlines for UUNP and CBBE - Racemenu Overlays - Special Edition

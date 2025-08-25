@@ -3,6 +3,8 @@ tags:
     - body, face, hair
     - hair
     - nexus
+    - racemenu
+    - racemenu presets
 ---
 
 # KS Hairdos SSE

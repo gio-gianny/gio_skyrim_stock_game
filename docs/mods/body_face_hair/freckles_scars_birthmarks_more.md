@@ -1,8 +1,15 @@
 ---
 tags:
+    - body, face, hair
+    - body
+    - face
+    - freckles
+    - moles
     - nexus
     - overlays
     - racemenu
+    - racemenu presets
+    - scars
 ---
 
 # Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays
