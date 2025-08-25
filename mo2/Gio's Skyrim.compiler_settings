@@ -29,7 +29,8 @@
     "mods\\[Output] SSEEdit\\SSEEdit Cache",
     "tools\\SSEEdit\\cache",
     ".gitignore",
-    "profiles\\Default\\saves"
+    "profiles\\Default\\saves",
+    "mods\\[Output] My Character Presets"
   ],
   "AlwaysEnabled": [
     "mods\\[Gameplay] SmoothCam",
