@@ -29,8 +29,8 @@ downloads:
     - Dovahrel Breton Female preset
 ```
 
-## RaceMenu Female Presets
+## RaceMenu Presets
 
-| Preset | Face | Notes |
+| Preset | Sculpt | Notes |
 |---|---|---|
-| ``Dovahrel00`` | ``Dovahrel00.jslot `` | |
+| ``Dovahrel00.jslot`` | ``Dovahrel00.nif`` | |

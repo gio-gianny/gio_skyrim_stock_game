@@ -31,8 +31,8 @@ pages:
                 notes:
 ```
 
-## RaceMenu Female Presets
+## RaceMenu Presets
 
-| Preset | Face | Notes |
+| Preset | Sculpt | Notes |
 |---|---|---|
-| ```` | ```` | |
+| ``.json`` | ``.nif`` | |

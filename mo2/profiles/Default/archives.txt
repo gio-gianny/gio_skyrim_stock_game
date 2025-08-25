@@ -104,8 +104,15 @@ RaceMenu.bsa
 RaceMenu Undress.bsa
 ECE Sliders for Racemenu.bsa
 FMS_FemaleMakeupSuite.bsa
+BarbarianPaints.bsa
+CommunityOverlays1_0T30.bsa
+CommunityOverlays2_31T50.bsa
+CommunityOverlays3.bsa
+Natureborn Body Paints.bsa
 SFO_SkinFeatureOverlays.bsa
 Sunstarved_Tanlines.bsa
+Lupine_ZiovendianBodypaints.bsa
+Lupine_YyvengarBodypaints.bsa
 High Poly Head.bsa
 Vanilla hair remake SMP NPCs.bsa
 Vanilla hair remake_Unlocked.bsa
@@ -113,6 +120,6 @@ waccf_armor and clothing extension - textures.bsa
 waccf_armor and clothing extension.bsa
 Backshields.bsa
 Backshields - Textures.bsa
-point the way - textures.bsa
 point the way.bsa
+point the way - textures.bsa
 ars metallica.bsa

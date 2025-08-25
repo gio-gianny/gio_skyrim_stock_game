@@ -24,13 +24,14 @@ requirements:
     - Koralina's Eyebrows for High Poly Head
     - Koralina's Freckles and Moles - 4k 2k
     - Koralina's Makeup Tweaks - 4k 2k
+    - Pubes Forever SSE
     - The Eyes of Beauty - Ai Remastered
 downloads:
     - Chloe Preset
 ```
 
-## RaceMenu Female Presets
+## RaceMenu Presets
 
-| Preset | Face | Notes |
+| Preset | Sculpt | Notes |
 |---|---|---|
-| ``chloe25`` | ``Chloe.jslot `` | |
+| ``Chloe.jslot`` | ``chloe25.nif`` | |

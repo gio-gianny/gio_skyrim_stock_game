@@ -5,7 +5,6 @@ tags:
     - nexus
     - skin
     - racemenu
-    - racemenu female presets
     - racemenu presets
 ---
 
@@ -41,13 +40,4 @@ pages:
           options:
             - name: Racemenu Preset
               default: No
-              selected:
-                value: Yes
-                notes: Install Racemenu presets with all the skin tones that you can use as reference.
 ```
-
-## RaceMenu Female Presets
-
-| Preset | Face | Notes |
-|---|---|---|
-| | ``Realistic Skin Tones\*`` | |

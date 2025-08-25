@@ -43,9 +43,9 @@
 +[Outfits] Armor and Clothing Extension - SPID Patch
 +[Outfits] Armor and Clothing Extension
 -Outfits_separator
-+[Body, Skin] Seamless Males SE
-+[Body, Skin] BnP female skin (Replacer+Player version)
-+[Body, Skin] BnP male skin (Replacer+Player version)
++[Skin] Seamless Males SE
++[Skin] BnP female skin (Replacer+Player version)
++[Skin] BnP male skin (Replacer+Player version)
 +[Body] HIMBO - Dragon Aspect Hotfix
 +[Body] 02b) HIMBO V5 - CC Refits
 +[Body] 02a) HIMBO V5 - BG-DG-DB Refits
@@ -58,13 +58,8 @@
 +[RaceMenu Character Presets] Breton Male - Theo
 +[RaceMenu Character Presets] Nord Female - R246 - Nord 05 Version 4
 +[RaceMenu Character Presets] Nord Female - R246
-+[RaceMenu Character Presets] Breton Female - Wendy
-+[RaceMenu Character Presets] Breton Female - Zoelin (Vanilla Version)
-+[RaceMenu Character Presets] Breton Female - Zoelin (Hairdos Version)
-+[RaceMenu Character Presets] Breton Female - Maribel
 +[RaceMenu Character Presets] Breton Female - Jeanne
 +[RaceMenu Character Presets] Breton Female - Dovahrel
-+[RaceMenu Character Presets] Breton Female - Chloe
 +[Hair] Vanilla hair remake - patches
 +[Hair] Vanilla hair remake unlocked addon - SMP (Physics)
 +[Hair] Vanilla hair - Salt and Wind
@@ -73,26 +68,35 @@
 +[Hair] KS Hairdos - HDT SMP (Physics)
 +[Hair] KS Hairdos SSE
 +[Hair] Great modders' SMP Hair pack and Xing
--[Face, Eyebrows] Darker Eyebrow Replacers (Optional)
-+[Face, Eyebrows] Koralina's Eyebrows for High Poly Head
-+[Face, Eyes] The Eyes of Beauty Ai - Standalone Textures (1k)
-+[Face, Brows] Kalilies Brows
 +[Face] Expressive Facegen Morphs SE - Face Discoloration Fix
 +[Face] Expressive Facegen Morphs SE
 +[Face] High Poly Head SE
++[Skin Tones] Realistic Natural Skin Tones
++[Scars] Wounds Overlays for RaceMenu
 +[Scars] Northborn Scars
-+[Body, Skin] Realistic Natural Skin Tones
--RaceMenu Presets_separator
++[Overlays] Yyvengar Bodypaints - Female and Male (CBBE)
++[Overlays] Ziovendian Bodypaints - Female and Male (CBBE)
 +[Overlays] Sunstarved Tanlines (CBBE)
 +[Overlays] Skin Feature Overlays - Freckles Scars Birthmarks (2K)
-+[Overlays] Koralina's Makeup Tweaks 2k ESL
++[Overlays] Pubes Forever SSE
++[Overlays] Natureborn Overlays and Spells SE (2k)
 +[Overlays] Koralina's Freckles and Moles - Slordar's Body Freckles (2k)
 +[Overlays] Koralina's Freckles and Moles (2k)
-+[Overlays] Hvergelmir's Aesthetics - Brows
-+[Overlays] Female Makeup Suite - Face - Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
-+[Overlays] Even More Makeup by Koralina - ESL
-+[Overlays] Brows for High Poly Head
--Skin Overlays_separator
++[Overlays] Community Overlays 3 - Main - CBBE and Male
++[Overlays] Community Overlays 2 - Main - CBBE and Male
++[Overlays] Community Overlays 1 - Bugfix Patch
++[Overlays] Community Overlays 1 - Main - CBBE (2k)
++[Overlays] Barbarian Bodypaints - CBBE
++[Makeup] Koralina's Makeup Tweaks ESL (2k)
++[Makeup] Female Makeup Suite - Face - Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
++[Makeup] Even More Makeup by Koralina - ESL
++[Brows] Hvergelmir's Aesthetics - Brows
++[Brows] Kalilies Brows
++[Brows] Brows for High Poly Head
+-[Eyebrows] Darker Eyebrow Replacers (Optional)
++[Eyebrows] Koralina's Eyebrows for High Poly Head
++[Eyes] The Eyes of Beauty Ai - Standalone Textures (1k)
+-RaceMenu Presets_separator
 +[RaceMenu] OverlayFix and Various Mod Fixes
 +[RaceMenu] ECE Sliders Addon
 +[RaceMenu] Undress

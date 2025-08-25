@@ -29,8 +29,8 @@ downloads:
     - Breton_Theo
 ```
 
-## RaceMenu Female Presets
+## RaceMenu Presets
 
-| Preset | Face | Notes |
+| Preset | Sculpt | Notes |
 |---|---|---|
-| ``Breton_Theo`` | ``Breton_Theo.jslot`` | |
+| ``Breton_Theo.jslot`` | ``Breton_Theo.nif`` | |

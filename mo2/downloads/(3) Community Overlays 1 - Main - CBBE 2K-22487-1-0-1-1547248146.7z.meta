@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=22487
+fileID=77988
+url="https://files.nexus-cdn.com/1704/22487/(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z?md5=m6kMAlIT-A6helofoodesQ&expires=1756138508&user_id=9328703"
+name=(3) Community Overlays 1 - Main - CBBE 2K
+description="Main File - <font style=\"color: #00FFFF;\"> 2048 x 2048</font> Textures for the CBBE Family of Bodies. Main release of the mod, this allows you to use the overlays in RaceMenu as well as adding the necessary files! (Fixed a small bug with an overlay not working properly)"
+modName=Community Overlays 1 (0-30) Bodypaints Warpaints Tattoos and more made for the Community (Special Edition)
+version=1.0.1.0
+newestVersion=
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=26
+repository=Nexus
+userData="@Variant(\0\0\0\b\0\0\0\x1\0\0\0\x16\0\x64\0o\0w\0n\0l\0o\0\x61\0\x64\0M\0\x61\0p\0\0\0\t\0\0\0\x1\0\0\0\b\0\0\0\x3\0\0\0\x6\0U\0R\0I\0\0\0\n\0\0\x1P\0h\0t\0t\0p\0s\0:\0/\0/\0\x66\0i\0l\0\x65\0s\0.\0n\0\x65\0x\0u\0s\0-\0\x63\0\x64\0n\0.\0\x63\0o\0m\0/\0\x31\0\x37\0\x30\0\x34\0/\0\x32\0\x32\0\x34\0\x38\0\x37\0/\0(\0\x33\0)\0 \0\x43\0o\0m\0m\0u\0n\0i\0t\0y\0 \0O\0v\0\x65\0r\0l\0\x61\0y\0s\0 \0\x31\0 \0-\0 \0M\0\x61\0i\0n\0 \0-\0 \0\x43\0\x42\0\x42\0\x45\0 \0\x32\0K\0-\0\x32\0\x32\0\x34\0\x38\0\x37\0-\0\x31\0-\0\x30\0-\0\x31\0-\0\x31\0\x35\0\x34\0\x37\0\x32\0\x34\0\x38\0\x31\0\x34\0\x36\0.\0\x37\0z\0?\0m\0\x64\0\x35\0=\0m\0\x36\0k\0M\0\x41\0l\0I\0T\0-\0\x41\0\x36\0h\0\x65\0l\0o\0\x66\0o\0o\0\x64\0\x65\0s\0Q\0&\0\x65\0x\0p\0i\0r\0\x65\0s\0=\0\x31\0\x37\0\x35\0\x36\0\x31\0\x33\0\x38\0\x35\0\x30\0\x38\0&\0u\0s\0\x65\0r\0_\0i\0\x64\0=\0\x39\0\x33\0\x32\0\x38\0\x37\0\x30\0\x33\0\0\0\b\0n\0\x61\0m\0\x65\0\0\0\n\0\0\0J\0N\0\x65\0x\0u\0s\0 \0G\0l\0o\0\x62\0\x61\0l\0 \0\x43\0o\0n\0t\0\x65\0n\0t\0 \0\x44\0\x65\0l\0i\0v\0\x65\0r\0y\0 \0N\0\x65\0t\0w\0o\0r\0k\0\0\0\x14\0s\0h\0o\0r\0t\0_\0n\0\x61\0m\0\x65\0\0\0\n\0\0\0\x12\0N\0\x65\0x\0u\0s\0 \0\x43\0\x44\0N)"
+installed=true
+uninstalled=false
+paused=false
+removed=false

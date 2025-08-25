@@ -28,8 +28,8 @@ downloads:
     - Jeanne - High Poly Character Preset
 ```
 
-## RaceMenu Female Presets
+## RaceMenu Presets
 
-| Preset | Face | Notes |
+| Preset | Sculpt | Notes |
 |---|---|---|
-| ``Jeanne`` | ``Jeanne.jslot `` | |
+| ``Jeanne.jslot`` | ``Jeanne.nif`` | |
