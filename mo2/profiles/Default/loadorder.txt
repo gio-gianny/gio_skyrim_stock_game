@@ -100,6 +100,7 @@ RaceMenu Undress.esp
 Sunstarved_Tanlines.esp
 SFO_SkinFeatureOverlays.esp
 AutoShowNote.esp
+Natureborn Body Paints.esp
 MBW Dragon Souls to Perk Points - v3-2.esp
 Skyshards.esp
 SimpleItemSpawner.esp
@@ -154,8 +155,13 @@ AK_RM_PubicStyles_All_In_One.esp
 CommunityOverlays1_0T30.esp
 CommunityOverlays2_31T50.esp
 CommunityOverlays3.esp
-Natureborn Body Paints.esp
 Lupine_ZiovendianBodypaints.esp
 BarbarianPaints.esp
 WoundsOverlay.esp
 Lupine_YyvengarBodypaints.esp
+BodyBlushOverlays.esp
+TRE_Freckles.esp
+dwPalmAndSoleOverlays-SE.esp
+Fantasy Creature Overlay.esp
+YokudaTattoos.esp
+[Daymarr] Yokuda.esp

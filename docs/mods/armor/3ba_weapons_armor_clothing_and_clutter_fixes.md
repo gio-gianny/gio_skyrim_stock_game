@@ -1,6 +1,7 @@
 ---
 tags:
     - 3ba
+    - armor
     - fixes & patches
     - models
     - nexus
@@ -8,7 +9,8 @@ tags:
     - textures
     - weapons
 ---
-#
+
+# 3BA Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
 
 ```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/88823

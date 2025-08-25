@@ -108,6 +108,8 @@ BarbarianPaints.bsa
 CommunityOverlays1_0T30.bsa
 CommunityOverlays2_31T50.bsa
 CommunityOverlays3.bsa
+Fantasy Creature Overlay.bsa
+Fantasy Creature Overlay - Textures.bsa
 Natureborn Body Paints.bsa
 SFO_SkinFeatureOverlays.bsa
 Sunstarved_Tanlines.bsa

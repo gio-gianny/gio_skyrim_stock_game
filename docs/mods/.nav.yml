@@ -1,17 +1,3 @@
 nav:
-    - Essential: essential/
-    - Fixes: fixes/
-    - Animations: animations/
-    - UI: ui/
-    - Utilities: utilities/
-    - Leveling: leveling/
-    - Gameplay: gameplay/
-    - RaceMenu: racemenu/
-    - Body, Face & Hair: body_face_hair/
-    - NPCs: npcs/
-    - Audio: audio/
-    - Clothing & Accessories: clothing_accessories/
-    - Crafting: crafting/
-    - Models & Textures: models_textures/
-    - Environment: environment/
-    - Immersion: immersion/
+    - essential/
+    - "*"

@@ -34,15 +34,16 @@
 +[Immersion] Auto Unequip Shield to Back for Skyrim SE - Update Patch 2.2.1
 +[Immersion] Auto Unequip Shield to Back for Skyrim SE - Backshields SE
 -Immersion_separator
-+[Outfits] RUSTIC CLOTHING - Special Edition
-+[Outfits] CBBE Outfits - No Rim Lighting
-+[Outfits] 3BA Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
-+[Outfits] Weapons Armor Clothing and Clutter Fixes - CBBE Patch
-+[Outfits] CBBE RoughSpun Tunic and Prisoner Bloody Fix
-+[Outfits] CBBE AE-CC Outfits
-+[Outfits] Armor and Clothing Extension - SPID Patch
-+[Outfits] Armor and Clothing Extension
--Outfits_separator
++[Clothing] RUSTIC CLOTHING - Special Edition
++[Armor] Daymarr Yokuda - CBBE 3BA
++[Armor] CBBE Outfits - No Rim Lighting
++[Armor] 3BA Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
++[Armor] Weapons Armor Clothing and Clutter Fixes - CBBE Patch
++[Armor] CBBE RoughSpun Tunic and Prisoner Bloody Fix
++[Armor] CBBE AE-CC Outfits
++[Armor] Armor and Clothing Extension - SPID Patch
++[Armor] Armor and Clothing Extension
+-Outfits - Armor & Clothing_separator
 +[Skin] Seamless Males SE
 +[Skin] BnP female skin (Replacer+Player version)
 +[Skin] BnP male skin (Replacer+Player version)
@@ -82,10 +83,15 @@
 +[Overlays] Natureborn Overlays and Spells SE (2k)
 +[Overlays] Koralina's Freckles and Moles - Slordar's Body Freckles (2k)
 +[Overlays] Koralina's Freckles and Moles (2k)
++[Overlays] FRECKLES - Racemenu Overlay Collection ESL - Face and Body Features
++[Overlays] Fantasy Creature Overlay CBBE
++[Overlays] dw's Palm and Sole Overlays 3.01 SE
++[Overlays] Daymarr Yokuda - Tribal Racemenu Tattoos
 +[Overlays] Community Overlays 3 - Main - CBBE and Male
 +[Overlays] Community Overlays 2 - Main - CBBE and Male
 +[Overlays] Community Overlays 1 - Bugfix Patch
 +[Overlays] Community Overlays 1 - Main - CBBE (2k)
++[Overlays] Body Blushing - Racemenu Overlays - CBBE (2k)
 +[Overlays] Barbarian Bodypaints - CBBE
 +[Makeup] Koralina's Makeup Tweaks ESL (2k)
 +[Makeup] Female Makeup Suite - Face - Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
