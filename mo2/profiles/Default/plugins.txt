@@ -6,10 +6,13 @@
 *SmoothCam.esl
 *Backshields.esl
 *Expressive Facegen Morphs.esl
+*High Poly Head.esm
 *ECE Sliders for Racemenu.esl
 *SkyUI_SE.esp
 *RaceMenu.esp
+*Weapons Armor Clothing & Clutter Fixes.esp
 *AI Overhaul.esp
+*waccf_armor and clothing extension.esp
 *point the way.esp
 *Quick Start - SE.esp
 *RaceMenuPlugin.esp
@@ -52,3 +55,5 @@
 *Underwear.esp
 *3BBB.esp
 *SOSPhysicsManager.esp
+*ars metallica.esp
+*waccf_armor and clothing extension_spid.esp

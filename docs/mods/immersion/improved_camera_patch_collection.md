@@ -2,6 +2,7 @@
 tags:
     - camera
     - fixes & patches
+    - fomod
     - immersion
     - nexus
 ---

@@ -10,5 +10,9 @@ nav:
     - Overlays: overlays/
     - Body, Face & Hair: body_face_hair/
     - NPCs: npcs/
+    - Audio: audio/
+    - Clothing & Accessories: clothing_accessories/
+    - Crafting: crafting/
+    - Models & Textures: models_textures/
     - Environment: environment/
     - Immersion: immersion/

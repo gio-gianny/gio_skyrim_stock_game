@@ -34,3 +34,9 @@ downloads:
     Extended – are working correctly. You may need to use a different version of RaceMenu
     depending on your version of the game. To check if XP32 Maximum Skeleton Extended is
     working, verify via the in-game MCM.
+
+## BodySlide
+
+![](../../images/bodyslide_himbo_choose_groups.png)
+
+![](../../images/bodyslide_himbo_choose_output_set.png)

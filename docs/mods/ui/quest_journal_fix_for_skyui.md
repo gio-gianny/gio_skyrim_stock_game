@@ -1,6 +1,7 @@
 ---
 tags:
     - fixes & patches
+    - fomod
     - nexus
     - ui
 ---

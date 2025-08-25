@@ -1,6 +1,7 @@
 ---
 tags:
     - animations
+    - fomod
     - nexus
 ---
 

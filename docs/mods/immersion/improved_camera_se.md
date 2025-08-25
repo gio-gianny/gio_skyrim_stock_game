@@ -2,7 +2,7 @@
 tags:
     - camera
     - immersion
-    - keyboard
+    - keyboard shortcuts
     - nexus
 ---
 

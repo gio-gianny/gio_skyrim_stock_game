@@ -2,7 +2,7 @@
 tags:
     - config
     - fixes & patches
-    - keyboard
+    - keyboard shortcuts
     - nexus
 ---
 

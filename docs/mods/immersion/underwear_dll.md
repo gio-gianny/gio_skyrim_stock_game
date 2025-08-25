@@ -1,5 +1,6 @@
 ---
 tags:
+    - fomod
     - immersion
     - nexus
     - outfits

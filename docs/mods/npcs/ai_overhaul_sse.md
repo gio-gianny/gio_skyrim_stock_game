@@ -2,6 +2,7 @@
 tags:
     - ai
     - fixes & patches
+    - fomod
     - nexus
     - npcs
 ---

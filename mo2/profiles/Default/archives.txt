@@ -90,9 +90,11 @@ cceejsse001-hstead.bsa
 ccbgssse016-umbra.bsa
 ccmtysse002-ve.bsa
 ccbgssse034-mntuni.bsa
-unofficial skyrim special edition patch.bsa
 unofficial skyrim special edition patch - textures.bsa
+unofficial skyrim special edition patch.bsa
 unofficial skyrim creation club content patch.bsa
+Weapons Armor Clothing & Clutter Fixes.bsa
+Weapons Armor Clothing & Clutter Fixes - Textures.bsa
 SkyUI_SE.bsa
 MCMHelper.bsa
 JaxonzMCMKicker.bsa
@@ -103,9 +105,13 @@ RaceMenu Undress.bsa
 ECE Sliders for Racemenu.bsa
 Sunstarved_Tanlines.bsa
 SFO_SkinFeatureOverlays.bsa
+High Poly Head.bsa
 Vanilla hair remake SMP NPCs.bsa
 Vanilla hair remake_Unlocked.bsa
-Backshields - Textures.bsa
+waccf_armor and clothing extension - textures.bsa
+waccf_armor and clothing extension.bsa
 Backshields.bsa
-point the way.bsa
+Backshields - Textures.bsa
 point the way - textures.bsa
+point the way.bsa
+ars metallica.bsa

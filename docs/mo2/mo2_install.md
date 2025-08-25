@@ -24,7 +24,7 @@ downloads:
 * move the `Mod.Organizer-*.7z` to the `downloads`
 * create a `.meta` for it
 
-## MO2 meta example
+## MO2 meta
 
 ```ini
 [General]

@@ -1,6 +1,7 @@
 ---
 tags:
     - body, face, hair
+    - fomod
     - hair
     - physics
     - nexus

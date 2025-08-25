@@ -1,7 +1,9 @@
 ---
 tags:
     - camera
+    - fomod
     - gameplay
+    - keyboard shortcuts
     - nexus
 ---
 

@@ -2,6 +2,7 @@
 tags:
     - body, face, hair
     - body
+    - fomod
     - himbo
     - male
     - nexus

@@ -1,7 +1,7 @@
 ---
 tags:
     - animations
-    - keyboard
+    - keyboard shortcuts
     - nexus
 ---
 

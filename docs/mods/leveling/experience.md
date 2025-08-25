@@ -1,5 +1,6 @@
 ---
 tags:
+    - fomod
     - gameplay
     - leveling
     - mcm
