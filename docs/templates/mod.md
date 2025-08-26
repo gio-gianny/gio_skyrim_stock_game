@@ -1,6 +1,9 @@
 ---
 tags:
+    - community shaders
+    - community shaders official addon
     - nexus
+    - visual and graphics
 ---
 
 #
