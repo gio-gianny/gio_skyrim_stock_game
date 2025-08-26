@@ -23,10 +23,14 @@ requirements:
     - XP32 Maximum Skeleton Special Extended - XPMSSE
 downloads:
     - Daymarr Yokuda - CBBE 3BA
-    - Daymarr Yokuda - Tribal Racemenu Tattoos
 ```
 
 ## Fix Form 43 to Form 44
+
+!!! Optional
+
+    You need this only if you want to download and use
+    ``Daymarr Yokuda - Tribal Racemenu Tattoos``.
 
 [Skyrim SE Converting Form 43 plugins to Form 44](https://www.youtube.com/watch?v=CNnGdLFx0II) (YouTube Tutorial)
 

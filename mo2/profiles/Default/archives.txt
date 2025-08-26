@@ -113,8 +113,8 @@ Fantasy Creature Overlay - Textures.bsa
 Natureborn Body Paints.bsa
 SFO_SkinFeatureOverlays.bsa
 Sunstarved_Tanlines.bsa
-Lupine_ZiovendianBodypaints.bsa
 Lupine_YyvengarBodypaints.bsa
+Lupine_ZiovendianBodypaints.bsa
 High Poly Head.bsa
 Vanilla hair remake SMP NPCs.bsa
 Vanilla hair remake_Unlocked.bsa

@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=20751
+fileID=70357
+url=
+name=Vanilla Warpaints Absolution - FOMOD Installer - All Inclusive
+description="<font style=\"color: #lime;\">FOMOD Installer</font> - This file contains every optional file and installation currently available for this mod. Contains Main Files and Variants as well. Can be extracted for manual installation, and the readme inside should help."
+modName=Vanilla Warpaints Absolution - HD 2K and 4K Vanilla Warpaints - Every Warpaint Adjusted For Every Race and Gender - Special Edition
+version=1.4.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=26
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=true
+uninstalled=false
+paused=false
+removed=true
