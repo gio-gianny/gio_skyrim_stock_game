@@ -17,16 +17,16 @@ tags:
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/53250
 about: High Poly Breton Preset based on kloutto's preset pack.
 requirements:
-    - High Poly Head
-    - RaceMenu
     - Bijin Skin (or any other skin you want)
-    - Vanilla Warpaints Absolution
-    - SG FEMALE EYEBROWS (sorry I'm a dumbass)
-    - KS Hairdos - HDT SMP
-    - Female Makeup Suite
-    - Skin Feature Overlay (For Freckles)
     - Expressive Facegen Morph
+    - Female Makeup Suite
+    - High Poly Head
+    - KS Hairdos - HDT SMP
+    - RaceMenu
+    - SG FEMALE EYEBROWS (sorry I'm a dumbass)
+    - Skin Feature Overlay (For Freckles)
     - The Eyes of Beauty
+    - Vanilla Warpaints Absolution
 downloads:
     - Ari - Breton Preset
 ```
