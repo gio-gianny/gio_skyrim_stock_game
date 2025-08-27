@@ -1,14 +1,15 @@
 ---
 tags:
-    - body, face, hair
-    - breton
-    - face
-    - female
-    - high poly head
-    - nexus
-    - racemenu
-    - racemenu female presets
-    - racemenu presets
+    # - body, face, hair
+    # - breton
+    # - face
+    # - female
+    # - high poly head
+    # - nexus
+    # - racemenu
+    # - racemenu female presets
+    # - racemenu presets
+    - rejected
 ---
 
 # Jeanne - High Poly Character Preset
