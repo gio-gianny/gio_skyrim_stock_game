@@ -2,6 +2,8 @@
 tags:
     - community shaders
     - community shaders official addon
+    - fomod
+    - light
     - nexus
     - visual and graphics
 ---
@@ -21,4 +23,35 @@ requirements:
     - Static Mesh Improvement Mod - SMIM (Optional)
     - Terrain Shadows
 downloads:
+    - CS Particle Patch
+```
+
+## FOMOD settings
+
+```fomod_settings
+pages:
+    - name: Installation Type
+      sections:
+        - name: Type
+          default: Complete
+    - name: Patches
+      sections:
+        - name: "[AUTOMATIC]"
+          options:
+            - name: SMIM
+              default: Yes
+            - name: Realistic Water Two
+              default: No
+            - name: Natural Waterfalls
+              default: No
+            - name: Azurite III
+              default: No
+            - name: Mists of Tamriel
+              default: No
+        - name: "[MANUAL SELECTION ONLY]"
+          options:
+            - name: Enhanced Rocks and Mountains
+              default: No
+            - name: Aspen Ablaze
+              default: No
 ```

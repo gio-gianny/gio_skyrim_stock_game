@@ -1,9 +1,6 @@
 ---
 tags:
-    - community shaders
-    - community shaders official addon
     - nexus
-    - visual and graphics
 ---
 
 #
@@ -14,6 +11,18 @@ about:
 requirements:
 downloads:
 ```
+
+tags:
+    - load order info
+
+## Compatibility
+
+### Load Before (above, overwritten by this mod)
+
+### Load After (bellow, will overwrite this mod)
+
+tags:
+    - fomod
 
 ## FOMOD settings
 
@@ -34,8 +43,29 @@ pages:
                 notes:
 ```
 
+## Launcher
+
+```mo2_launcher
+title:
+binary:
+start_in:
+arguments:
+overwrite_app_id:
+force_load_libraries:
+```
+
 ## RaceMenu Presets
 
 | Preset | Sculpt | Notes |
 |---|---|---|
 | ``.json`` | ``.nif`` | |
+
+
+tags:
+    - keyboard shortcuts
+
+## Keyboard shortcuts
+
+| Shortcut | Effect |
+|---|---|
+| | Open in-game UI |

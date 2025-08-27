@@ -15,3 +15,4 @@ tags:
 | Right Alt | [SmoothCamera](../mods/gameplay/smoothcam.md) | Z axis offset |
 | Right Ctrl | [SmoothCamera](../mods/gameplay/smoothcam.md) | Shoulder swap |
 | End | [Community Shaders](../mods/visual_and_graphics/community_shaders.md) | Open in-game UI |
+| Backspace | [Immersive Equipment Displays](../mods/immersion/immersive_equipment_displays.md) | Open in-game UI |

@@ -2,6 +2,7 @@
 tags:
     - community shaders
     - community shaders official addon
+    - fomod
     - nexus
     - visual and graphics
 ---
@@ -37,4 +38,8 @@ pages:
           options:
             - name: Install Skyrim Particle Patch fix
               default: No
+              selected:
+                value: Yes
+                notes: For some reason, "Skyrim Particle Patch" darkens "gradwhitewater.dds" so it no longer matches the color of the water splash particles on water falls. This is a strange change that singles out this texture for darkening. This fix reverts "gradwhitewater.dds" but maintains the blue tinting "Skyrim Particle Patch" applies to the rest of the gradients.
+
 ```

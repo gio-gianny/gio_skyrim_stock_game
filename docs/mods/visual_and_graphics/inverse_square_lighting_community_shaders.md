@@ -2,6 +2,7 @@
 tags:
     - community shaders
     - community shaders official addon
+    - light
     - nexus
     - visual and graphics
 ---

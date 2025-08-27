@@ -84,22 +84,35 @@ unofficial skyrim creation club content patch.esl
 TrueHUD.esl
 Experience.esl
 SmoothCam.esl
-Backshields.esl
 Expressive Facegen Morphs.esl
 High Poly Head.esm
+Embers XD.esm
+True Light.esm
+Sentinel - Master Plugin.esp
 ECE Sliders for Racemenu.esl
 SkyUI_SE.esp
-RaceMenu.esp
+SMIM-SE-Merged-All.esp
+True Light - Shadows and Ambient.esp
 Weapons Armor Clothing & Clutter Fixes.esp
 AI Overhaul.esp
+Orc Strongholds - All In One.esp
+Embers XD.esp
 waccf_armor and clothing extension.esp
+RaceMenu.esp
 point the way.esp
+AE Quest Disable - Netch Leather.esp
+CCQuest - Experience Patch.esp
+ArteFake.esp
+AE Quest Disable - Alternative Armors.esp
 Quick Start - SE.esp
 RaceMenuPlugin.esp
 RaceMenu Undress.esp
 Sunstarved_Tanlines.esp
 SFO_SkinFeatureOverlays.esp
 AutoShowNote.esp
+ars metallica.esp
+True Light - USSEP Patch.esp
+AE Quest Disable - Dead Man's Dread.esp
 Natureborn Body Paints.esp
 MBW Dragon Souls to Perk Points - v3-2.esp
 Skyshards.esp
@@ -107,7 +120,6 @@ SimpleItemSpawner.esp
 MCMHelper.esp
 Experience Quests Tweak.esp
 Leveling Freedom.esp
-CCQuest - Experience Patch.esp
 Experience Quests.esp
 geometric_stat_growth.esp
 StaticSkillLeveling.esp
@@ -121,7 +133,6 @@ TDM Diagonal Sprinting Fix.esp
 SlipOffSlopes.esp
 SlipOffSlopesMCM.esp
 XPMSE.esp
-BSSE_EnneadShieldsPatch.esp
 FSMPM - The FSMP MCM.esp
 SMP Wind MCM.esp
 KS Hairdo's.esp
@@ -136,7 +147,6 @@ BnP - Skinfix.esp
 Underwear.esp
 3BBB.esp
 SOSPhysicsManager.esp
-ars metallica.esp
 waccf_armor and clothing extension_spid.esp
 TheEyesOfBeauty.esp
 KaliliesBrows.esp
@@ -147,7 +157,6 @@ Koralina's Makeup Tweaks.esp
 Brows.esp
 Brows for High Poly Head.esp
 Realistic Natural Skin Tones.esp
-GMsHair aXing.esp
 Koralina's Eyebrows.esp
 koralinas_freckles_moles.esp
 slordars_body_freckles.esp
@@ -163,11 +172,37 @@ BodyBlushOverlays.esp
 TRE_Freckles.esp
 dwPalmAndSoleOverlays-SE.esp
 Fantasy Creature Overlay.esp
-[Daymarr] Yokuda.esp
 Kyoe_BanginBrows_AltSet1.esp
 Kyoe_BanginBrows_Vanillamatch.esp
 VWA_VanillaWarpaintsAbsolution.esp
 MoonsAndStars.esp
 TerrainHelper.esp
 water mod.esp
+Unlimited Training.esp
+SGEyebrows.esp
+Kalilies Brows for High Poly Head.esp
 nchardak waterfall fix.esp
+HPP - Vaermina's Torpor.esp
+Simplicity of Snow - Dwemer Sanctuary Patch.esp
+Simplicity of Snow.esp
+Shaders of Solstheim.esp
+Diverse Windmill Sails.esp
+Dynamic Things Alternative.esp
+True Light - Creation Club.esp
+Embers XD - Patch - Goldenhills Plantation.esp
+Embers XD - Fire Magick Add-On.esp
+Embers XD - Reduced Actor Flames.esp
+Embers XD - Patch - Remove Snow.esp
+Embers XD - Patch - Survival Mode.esp
+HDR - Interiors.esp
+TL Bulbs ISL.esp
+TL - Default.esp
+Sentinel.esp
+Sentinel - Sailors and Swashbucklers.esp
+Sentinel - Priests and Acolytes.esp
+Sentinel - Backpacks and Bandoliers.esp
+Sentinel - Alternative Armors.esp
+Sentinel - City Guards.esp
+Sentinel - Memories of Morrowind.esp
+MjrK_C.O.C.K.S.ified.esp
+Synthesis.esp

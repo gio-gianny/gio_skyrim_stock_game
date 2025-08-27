@@ -5,6 +5,7 @@
 +[Output] SSEEdit
 +[Output] Pandora
 +[Output] BodySlide
++[Output] Synthesis
 +[Output] My Character Presets
 +[Fixes & Patches] kryptopyr's Automated Patches
 -Output_separator
@@ -17,6 +18,27 @@
 +[Root] (Part 2) Engine Fixes - skse64 Preloader and TBB Lib
 +[Root] Skyrim Script Extender (SKSE64)
 -Root Mods_separator
++[Immersion] Moons And Stars - Sky Overhaul SKSE
++[Immersion] Underwear.dll
++[Immersion] SMP Wind
++[Immersion] Slip Off Slopes MCM
++[Immersion] Slip off Slopes - rag doll damage doesn't depend on difficulty
++[Immersion] Simple Dual Sheath - XPMSSE Left Hand Sheath Rotation Fix
++[Immersion] Simple Dual Sheath (Config)
++[Immersion] Simple Dual Sheath
++[Immersion] Point The Way
++[Immersion] Improved Camera Patch Collection
++[Immersion] Improved Camera SE (Config)
++[Immersion] Improved Camera SE
++[Immersion] Immersive Equipment Displays
+-[Immersion] Auto Unequip Shield to Back - clipping patch for Cloaks of Skyrim
+-[Immersion] Auto Unequip Shield to Back for Skyrim SE - Update Patch 2.2.1
+-[Immersion] Auto Unequip Shield to Back for Skyrim SE - Backshields SE
++[Immersion] Dynamic Things Alternative - Base Object Swapper
++[Immersion] Diverse Windmill Sails - Base Object Swapper
+-Immersion_separator
++[Community Shaders] True Light
++[Community Shaders] CS Lights
 +[Community Shaders] Wetness Effects
 +[Community Shaders] Water Effects
 +[Community Shaders] Terrain Variation
@@ -35,49 +57,52 @@
 -[Community Shaders] Hair Specular
 +[Community Shaders] Grass Collision (keep under Grass Lighting)
 +[Community Shaders] Grass Lighting
++[Community Shaders] First person magic hand light fix
 +[Community Shaders] Extended Translucency
 +[Community Shaders] Cloud Shadows
-+[Community Shaders] Frame Generation - DisplayTweaks settings (CS or ENB)
-+[Community Shaders] Frame Generation
++[Community Shaders] Complex Parallax Materials
 +[Community Shaders] Auto Parallax
 +[Community Shaders] Community Shaders
-+[Utilities] Light Placer
 -Community Shaders_separator
-+[Visuals & Graphics] Simplicity of Sea - Water Mod (4k, Tweaks, No Flow Map)
-+[Visuals & Graphics] Water Effects Brightness and Reflection Fix
++[Visuals & Graphics] CS Particle Patch
++[Visuals & Graphics] Water - Water in Wells - mesh-only animated wells
++[Visuals & Graphics] Water - Water Effects Brightness and Reflection Fix
++[Visuals & Graphics] Water - Animated Forge Water
++[Visuals & Graphics] Simplicity of Snow - Parallax Meshes
++[Visuals & Graphics] Simplicity of Snow
++[Visuals & Graphics] Simplicity of Sea - Water Color and Transparency Tweaks
++[Visuals & Graphics] Simplicity of Sea - Water Mod
++[Visuals & Graphics] Shaders of Solstheim - Ash and Moss
 -Visual & Graphics_separator
--[Environment] Cathedral - Water Overhaul and Bug Fixes
 +[Environment] 4K Stars and Galaxies - Milky Way 4K
 -Environment_separator
-+[Models & Textures] HD Charcoal 2K-SMIM compatible
++[Locations] Orc Strongholds - All In One
+-Locations_separator
++[Textures] Embers XD
++[Textures] HD Charcoal 2K-SMIM compatible
++[Models] Noble Furniture
+-[x][Fixes & Patches] Skyrim Landscape and Water Fixes
++[Models] Static Mesh Improvement Mod Improvement Mod
++[Models] Static Mesh Improvement Mod - SMIM - Quality Addon
++[Models] High Poly Project
++[Models] Static Mesh Improvement Mod - Farming Creation Club Patch
++[Models] Static Mesh Improvement Mod
 -Models & Textures_separator
 +[Crafting] Ars Metallica - Smithing Enhancement
 -Crafting_separator
-+[Immersion] Moons And Stars - Sky Overhaul SKSE
-+[Immersion] Underwear.dll
-+[Immersion] HDT-SMP Force Fields
-+[Immersion] SMP Wind
-+[Immersion] Slip Off Slopes MCM
-+[Immersion] Slip off Slopes - rag doll damage doesn't depend on difficulty
-+[Immersion] Simple Dual Sheath - XPMSSE Left Hand Sheath Rotation Fix
-+[Immersion] Simple Dual Sheath
-+[Immersion] Point The Way
-+[Immersion] Improved Camera Patch Collection
-+[Immersion] Improved Camera SE
-+[Immersion] Auto Unequip Shield to Back - clipping patch for Cloaks of Skyrim
-+[Immersion] Auto Unequip Shield to Back for Skyrim SE - Update Patch 2.2.1
-+[Immersion] Auto Unequip Shield to Back for Skyrim SE - Backshields SE
--Immersion_separator
++[Weapons] ArteFakes - Unique Artifacts Replacer - Updated Plugin
++[Weapons] ArteFakes - Unique Artifacts Replacer
++[Armor & Weapons] Sentinel - An Equipment Overhaul - Required Resources
++[Armor & Weapons] Sentinel - An Equipment Overhaul
 +[Clothing] RUSTIC CLOTHING - Special Edition
-+[Armor] Daymarr Yokuda - CBBE 3BA
 +[Armor] CBBE Outfits - No Rim Lighting
-+[Armor] 3BA Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
++[Armor] Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
 +[Armor] Weapons Armor Clothing and Clutter Fixes - CBBE Patch
 +[Armor] CBBE RoughSpun Tunic and Prisoner Bloody Fix
 +[Armor] CBBE AE-CC Outfits
 +[Armor] Armor and Clothing Extension - SPID Patch
 +[Armor] Armor and Clothing Extension
--Outfits - Armor & Clothing_separator
+-Armor, Clothing, Weapons_separator
 +[Skin] Seamless Males SE
 +[Skin] BnP female skin (Replacer+Player version)
 +[Skin] BnP male skin (Replacer+Player version)
@@ -93,26 +118,24 @@
 +[RaceMenu Character Presets] Nord Female - R246 - Nord 05 Version 4
 +[RaceMenu Character Presets] Nord Female - R246
 +[RaceMenu Character Presets] Breton Male - Theo
-+[RaceMenu Character Presets] Breton Female - Lealette - Preset for LoreRim
 +[RaceMenu Character Presets] Breton Female - Lana
-+[RaceMenu Character Presets] Breton Female - Jeanne
 +[RaceMenu Character Presets] Breton Female - Dovahrel
 +[RaceMenu Character Presets] Breton Female - Ari - eyebrow fix
 +[RaceMenu Character Presets] Breton Female - Ari
 +[RaceMenu Character Presets] Kloutto's Female Preset Pack - Main
-+[Hair] Vanilla hair remake - patches
-+[Hair] Vanilla hair remake unlocked addon - SMP (Physics)
 +[Hair] Vanilla hair - Salt and Wind
++[Hair] Vanilla hair remake - patches
 +[Hair] Vanilla hair remake SMP - NPCs (Physics)
++[Hair] Vanilla hair remake unlocked addon - SMP (Physics)
 +[Hair] Vanilla hair remake
 +[Hair] KS Hairdos - HDT SMP (Physics)
 +[Hair] KS Hairdos SSE
-+[Hair] Great modders' SMP Hair pack and Xing
 +[Face] Expressive Facegen Morphs SE - Face Discoloration Fix
 +[Face] Expressive Facegen Morphs SE
 +[Face] High Poly Head SE
 +[Skin Tones] Realistic Natural Skin Tones
 +[Scars] Wounds Overlays for RaceMenu
++[Scars] Northborn Scars for High Poly Head
 +[Scars] Northborn Scars
 +[Overlays] Ziovendian Bodypaints - Female and Male (CBBE)
 +[Overlays] Yyvengar Bodypaints - Female and Male (CBBE)
@@ -135,11 +158,14 @@
 +[Makeup] Koralina's Makeup Tweaks ESL (2k)
 +[Makeup] Female Makeup Suite - Face - Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
 +[Makeup] Even More Makeup by Koralina - ESL
-+[Brows] Hvergelmir's Aesthetics - Brows
++[Brows] SG Female Eyebrows for High Poly Head
++[Brows] SG Female Eyebrows
 +[Brows] Kyoe's Bang'n Brows - Alternatives (Set One)
 +[Brows] Kyoe's Bang'n Brows - Standalone - Vanillamatch
++[Brows] Kalilies Brows for High Poly Head
 +[Brows] Kalilies Brows
 +[Brows] Brows for High Poly Head
++[Brows] Brows
 -[Eyebrows] Darker Eyebrow Replacers (Optional)
 +[Eyebrows] Koralina's Eyebrows for High Poly Head
 +[Eyes] The Eyes of Beauty Ai - Standalone Textures (1k)
@@ -148,25 +174,25 @@
 +[RaceMenu] ECE Sliders Addon
 +[RaceMenu] Undress
 +[RaceMenu] Race Menu Player Rotation
--[RaceMenu] Player Rotation
 +[RaceMenu] RaceMenu
 -RaceMenu_separator
 +[NPCs] NPC AI Process Position Fix - NG
 +[NPCs] AI Overhaul SSE
 -NPCs_separator
-+[Leveling] Static Skill Leveling Rewritten
-+[Leveling] Skyrim Skill Uncapper for SE and AE - Config
-+[Leveling] Skyrim Skill Uncapper for SE and AE
-+[Leveling] Leveling Freedom - Configure your XP Curve - Settings Loader
-+[Leveling] Leveling Freedom - Configure your XP Curve
-+[Leveling] Geometric Stat Growth - Settings Loader
-+[Leveling] Geometric Stat Growth
-+[Leveling] Experience - Misc Quest to Side Quest
-+[Leveling] Experience - Creation Club Main Quest Patchs
-+[Leveling] Experience Quests Tweak
-+[Leveling] Experience - MCM
-+[Leveling] Experience
--Leveling_separator
++[Skills & Leveling] Skyrim Unlimited Training
++[Skills & Leveling] Static Skill Leveling Rewritten
++[Skills & Leveling] Skyrim Skill Uncapper for SE and AE - Config
++[Skills & Leveling] Skyrim Skill Uncapper for SE and AE
++[Skills & Leveling] Leveling Freedom - Configure your XP Curve - Settings Loader
++[Skills & Leveling] Leveling Freedom - Configure your XP Curve
++[Skills & Leveling] Geometric Stat Growth - Settings Loader
++[Skills & Leveling] Geometric Stat Growth
++[Skills & Leveling] Experience - Misc Quest to Side Quest
++[Skills & Leveling] Experience - Creation Club Main Quest Patchs
++[Skills & Leveling] Experience Quests Tweak
++[Skills & Leveling] Experience - MCM
++[Skills & Leveling] Experience
+-Skills & Leveling_separator
 +[Gameplay] True Directional Movement - Tail Animation Fix
 +[Gameplay] True Directional Movement - Simpler Dragon Targeting
 +[Gameplay] True Directional Movement - First Person Target Locking Fix
@@ -174,15 +200,9 @@
 +[Gameplay] True Directional Movement
 +[Gameplay] Survival Mode Prompt Removed
 +[Gameplay] Stones of Barenziah Quest Markers
--[Gameplay] SmoothCam - Zeus Next Gen preset (Preset 1)
-+[Gameplay] SmoothCam - Vanilla Enhanced 2 (Preset 5)
--[Gameplay] SmoothCam - Vanilla Enhanced Preset (Preset 3)
-+[Gameplay] SmoothCam - Soft Preset - Combat Evolved (Preset 4)
--[Gameplay] SmoothCam - Octavian's Preset (Preset 4-5)
++[Gameplay] SmoothCam - Octavian's Preset (Preset 4-5)
 +[Gameplay] SmoothCam - Modern Camera Preset (Preset 3)
 +[Gameplay] SmoothCam - EasyEase Preset (Preset 1)
--[Gameplay] SmoothCam - Classic Enhanced - Vanilla Plus Preset (Preset 4)
-+[Gameplay] Smoothcam - Toggleable H.O.R.N.I Presets (Preset 0-5)
 +[Gameplay] SmoothCam
 +[Gameplay] Skyshards
 +[Gameplay] Dragon Souls to Perk Points
@@ -190,44 +210,53 @@
 +[Gameplay] Auto Read Notes
 +[Gameplay] Optional Quick Start - SE
 -Gameplay_separator
++[Immersion] HDT-SMP Force Fields
 +[Utilities] Spell Perk Item Distributor
 +[Utilities] Simple Mod Item Spawner
 +[Utilities] Skyrim Priority SE AE - CPU Performance FPS Optimizer
 +[Utilities] SSE Display Tweaks Config File
 +[Utilities] SSE Display Tweaks
++[Utilities] Light Placer
 +[Utilities] Jaxonz MCM Kicker SE
 +[Utilities] Crash Logger SSE AE VR - PDB support
 +[Utilities] BodySlide and Outfit Studio
++[Utilities] Base Object Swapper
 -Utilities_separator
 +[Audio] Sound Record Distributor
 -Audio_separator
-+[UI] Difficulty Persistence Fix (For 219 Ultrawide Support)
-+[UI] Complete Widescreen Fix 219 for Vanilla and SkyUI
-+[UI] Widescreen Scale Removed for 1-6-1130 and higher
-+[UI] TrueHUD - HUD Additions
--[UI] Quest Journal Fixes
--[UI] Constructible Object Custom Keyword System - 21x9 Patch
-+[UI] Constructible Object Custom Keyword System
-+[UI] Clean Menu Plus
-+[UI] MCM Helper
-+[UI] SkyUI
--UI_separator
-+[Animation] CBPC - Physics with Collisions
+-[User Interface] Show Player in Menus
++[User Interface] Difficulty Persistence Fix (For 219 Ultrawide Support)
++[User Interface] Complete Widescreen Fix 219 for Vanilla and SkyUI
++[User Interface] Widescreen Scale Removed for 1-6-1130 and higher
++[User InterfaceI] TrueHUD - HUD Additions
+-[User Interface] Quest Journal Fixes
++[User Interface] Constructible Object Custom Keyword System - C.O.C.K.S.ified
++[User Interface] Constructible Object Custom Keyword System - Separate Weapon and Armor
+-[User Interface] Constructible Object Custom Keyword System - 21x9 Patch
++[User Interface] Constructible Object Custom Keyword System
++[User Interface] Clean Menu Plus
++[User Interface] MCM Helper
++[User Interface] SkyUI
+-User Interface_separator
++[Animations] Weapon Styles - DrawSheathe Animations for IED
 +[Animations] Expressive Facial Animation -Male Edition-
 +[Animations] Expressive Facial Animation -Female Edition-
-+[Animations] Faster HDT-SMP
-+[Animations] Payload Interpreter
 +[Animations] NPC Animation Remix (OAR)
 +[Animations] Lively Children Animations (OAR)
 +[Animations] Lively cart driver animation replacer or OAR
 +[Animations] Gesture Animation Remix (OAR)
 +[Animations] Arm Movement Animations (OAR)
-+[Animations] First Person Animation Teleport Bug Fix
 +[Animations] Dova Jump
 +[Animations] Jump Slide Fix (For Horses)
 +[Animations] Jump Slide Fix (First Person)
 +[Animations] Jump Slide Fix (Consistency)
 +[Animations] Jump Slide Fix OAR
++[Animations] Comprehensive First Person Animation Overhaul - CFPAO
+-Animations_separator
++[Animations] CBPC - Physics with Collisions
++[Animations] Faster HDT-SMP
++[Animations] Payload Interpreter
++[Animations] First Person Animation Teleport Bug Fix
 +[Animations] FNIS Creature Pack SE 7.6
 +[Animations] FNIS Spells SE 7.0
 +[Animations] Open Animation Replacer - IED Conditions
@@ -236,7 +265,7 @@
 +[Animations] Paired Animation Improvements
 +[Animations] Animation Queue Fix
 +[Animations] Pandora Behaviour Engine Plus
--Animations_separator
+-Animation - Essential_separator
 +[Fixes & Patches] WACCF - Weapons Armor Clothing and Clutter Fixes
 +[Fixes & Patches] Sprint Sneak Movement Speed Fix
 +[Fixes & Patches] SMP-NPC crash fix

@@ -93,8 +93,8 @@ ccbgssse034-mntuni.bsa
 unofficial skyrim special edition patch - textures.bsa
 unofficial skyrim special edition patch.bsa
 unofficial skyrim creation club content patch.bsa
-Weapons Armor Clothing & Clutter Fixes.bsa
 Weapons Armor Clothing & Clutter Fixes - Textures.bsa
+Weapons Armor Clothing & Clutter Fixes.bsa
 SkyUI_SE.bsa
 MCMHelper.bsa
 JaxonzMCMKicker.bsa
@@ -116,12 +116,11 @@ Sunstarved_Tanlines.bsa
 Lupine_YyvengarBodypaints.bsa
 Lupine_ZiovendianBodypaints.bsa
 High Poly Head.bsa
-Vanilla hair remake SMP NPCs.bsa
 Vanilla hair remake_Unlocked.bsa
+Vanilla hair remake SMP NPCs.bsa
 waccf_armor and clothing extension - textures.bsa
 waccf_armor and clothing extension.bsa
-Backshields.bsa
-Backshields - Textures.bsa
-point the way.bsa
-point the way - textures.bsa
+ArteFake.bsa
 ars metallica.bsa
+point the way - textures.bsa
+point the way.bsa

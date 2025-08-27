@@ -19,10 +19,6 @@ The [project logo and favicon](https://www.svgrepo.com/svg/307488/dragon-with-wi
 
 * [Skyrim Initial Setup (SSE and AE)](https://www.nexusmods.com/skyrimspecialedition/articles/6528)
 
-### RaceMenu Presets
-
-* [Chloe A High Poly Breton Preset](https://www.nexusmods.com/skyrimspecialedition/mods/157176)
-
 ### Wabbajack
 
 Articles:

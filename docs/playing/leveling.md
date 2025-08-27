@@ -9,39 +9,39 @@ tags:
 
 Leveling is controlled by the mods (and their extensions) listed bellow:
 
-* [Experience][]
-* [Geometric Stat Growth][]
-* [Leveling Freedom][]
-* [Skyrim Skill Uncapper][]
-* [Static Skill Leveling Rewritten][]
+* [Experience](../mods/skills_and_leveling/experience.md)
+* [Geometric Stat Growth](../mods/skills_and_leveling/geometric_stat_growth.md)
+* [Leveling Freedom](../mods/skills_and_leveling/leveling_freedom.md)
+* [Skyrim Skill Uncapper](../mods/skills_and_leveling/skyrim_skill_uncapper.md)
+* [Static Skill Leveling Rewritten](../mods/skills_and_leveling/static_skill_leveling_rewritten.md)
 
 ## MCM settings
 
 ### Experience
 
 {%
-    include-markdown "mods/leveling/experience.md"
+    include-markdown "mods/skills_and_leveling/experience.md"
     start="MCM settings"
 %}
 
 ### Geometric Stat Growth
 
 {%
-    include-markdown "mods/leveling/geometric_stat_growth.md"
+    include-markdown "mods/skills_and_leveling/geometric_stat_growth.md"
     start="MCM settings"
 %}
 
 ### Leveling Freedom
 
 {%
-    include-markdown "mods/leveling/leveling_freedom.md"
+    include-markdown "mods/skills_and_leveling/leveling_freedom.md"
     start="MCM settings"
 %}
 
 ### Static Skill Leveling Rewritten
 
 {%
-    include-markdown "mods/leveling/static_skill_leveling_rewritten.md"
+    include-markdown "mods/skills_and_leveling/static_skill_leveling_rewritten.md"
     start="MCM settings"
 %}
 
@@ -50,12 +50,6 @@ Leveling is controlled by the mods (and their extensions) listed bellow:
 ### Skyrim Skill Uncapper
 
 {%
-    include-markdown "mods/leveling/skyrim_skill_uncapper.md"
+    include-markdown "mods/skills_and_leveling/skyrim_skill_uncapper.md"
     start="INI settings"
 %}
-
-[Experience]: ../mods/leveling/experience.md
-[Geometric Stat Growth]: ../mods/leveling/geometric_stat_growth.md
-[Leveling Freedom]: ../mods/leveling/leveling_freedom.md
-[Skyrim Skill Uncapper]: ../mods/leveling/skyrim_skill_uncapper.md
-[Static Skill Leveling Rewritten]: ../mods/leveling/static_skill_leveling_rewritten.md

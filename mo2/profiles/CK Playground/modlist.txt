@@ -17,7 +17,7 @@
 -Root Mods_separator
 -[Environment] 4K Stars and Galaxies - Milky Way 4K
 -Environment_separator
--[Models & Textures] HD Charcoal 2K-SMIM compatible
+-[Textures] HD Charcoal 2K-SMIM compatible
 -Models & Textures_separator
 -[Crafting] Ars Metallica - Smithing Enhancement
 -Crafting_separator
@@ -37,13 +37,13 @@
 -Immersion_separator
 -[Clothing] RUSTIC CLOTHING - Special Edition
 -[Armor] CBBE Outfits - No Rim Lighting
--[Armor] 3BA Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
+-[Armor] Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
 -[Armor] Weapons Armor Clothing and Clutter Fixes - CBBE Patch
 -[Armor] CBBE RoughSpun Tunic and Prisoner Bloody Fix
 -[Armor] CBBE AE-CC Outfits
 -[Armor] Armor and Clothing Extension - SPID Patch
 -[Armor] Armor and Clothing Extension
--Outfits - Armor & Clothing_separator
+-Armor, Clothing, Weapons_separator
 -[Skin] Seamless Males SE
 -[Skin] BnP female skin (Replacer+Player version)
 -[Skin] BnP male skin (Replacer+Player version)
@@ -95,7 +95,7 @@
 -[Makeup] Koralina's Makeup Tweaks ESL (2k)
 -[Makeup] Female Makeup Suite - Face - Overlays of Eyeliner EyeShadow Contours and Highlights - Special Edition
 -[Makeup] Even More Makeup by Koralina - ESL
--[Brows] Hvergelmir's Aesthetics - Brows
+-[Brows] Brows
 -[Brows] Kalilies Brows
 -[Brows] Brows for High Poly Head
 -[Eyebrows] Darker Eyebrow Replacers (Optional)
@@ -112,19 +112,19 @@
 -[NPCs] NPC AI Process Position Fix - NG
 -[NPCs] AI Overhaul SSE
 -NPCs_separator
--[Leveling] Static Skill Leveling Rewritten
--[Leveling] Skyrim Skill Uncapper for SE and AE - Config
--[Leveling] Skyrim Skill Uncapper for SE and AE
--[Leveling] Leveling Freedom - Configure your XP Curve - Settings Loader
--[Leveling] Leveling Freedom - Configure your XP Curve
--[Leveling] Geometric Stat Growth - Settings Loader
--[Leveling] Geometric Stat Growth
--[Leveling] Experience - Misc Quest to Side Quest
--[Leveling] Experience - Creation Club Main Quest Patchs
--[Leveling] Experience Quests Tweak
--[Leveling] Experience - MCM
--[Leveling] Experience
--Leveling_separator
+-[Skills & Leveling] Static Skill Leveling Rewritten
+-[Skills & Leveling] Skyrim Skill Uncapper for SE and AE - Config
+-[Skills & Leveling] Skyrim Skill Uncapper for SE and AE
+-[Skills & Leveling] Leveling Freedom - Configure your XP Curve - Settings Loader
+-[Skills & Leveling] Leveling Freedom - Configure your XP Curve
+-[Skills & Leveling] Geometric Stat Growth - Settings Loader
+-[Skills & Leveling] Geometric Stat Growth
+-[Skills & Leveling] Experience - Misc Quest to Side Quest
+-[Skills & Leveling] Experience - Creation Club Main Quest Patchs
+-[Skills & Leveling] Experience Quests Tweak
+-[Skills & Leveling] Experience - MCM
+-[Skills & Leveling] Experience
+-Skills & Leveling_separator
 -[Gameplay] True Directional Movement - Tail Animation Fix
 -[Gameplay] True Directional Movement - Simpler Dragon Targeting
 -[Gameplay] True Directional Movement - First Person Target Locking Fix
@@ -159,18 +159,18 @@
 -Utilities_separator
 -[Audio] Sound Record Distributor
 -Audio_separator
--[UI] Difficulty Persistence Fix (For 219 Ultrawide Support)
--[UI] Complete Widescreen Fix 219 for Vanilla and SkyUI
--[UI] Widescreen Scale Removed for 1-6-1130 and higher
--[UI] TrueHUD - HUD Additions
--[UI] Quest Journal Fixes
--[UI] Constructible Object Custom Keyword System - 21x9 Patch
--[UI] Constructible Object Custom Keyword System
--[UI] Clean Menu Plus
--[UI] MCM Helper
--[UI] SkyUI
--UI_separator
--[Animation] CBPC - Physics with Collisions
+-[User Interface] Difficulty Persistence Fix (For 219 Ultrawide Support)
+-[User Interface] Complete Widescreen Fix 219 for Vanilla and SkyUI
+-[User Interface] Widescreen Scale Removed for 1-6-1130 and higher
+-[User InterfaceI] TrueHUD - HUD Additions
+-[User Interface] Quest Journal Fixes
+-[User Interface] Constructible Object Custom Keyword System - 21x9 Patch
+-[User Interface] Constructible Object Custom Keyword System
+-[User Interface] Clean Menu Plus
+-[User Interface] MCM Helper
+-[User Interface] SkyUI
+-User Interface_separator
+-[Animations] CBPC - Physics with Collisions
 -[Animations] Expressive Facial Animation -Male Edition-
 -[Animations] Expressive Facial Animation -Female Edition-
 -[Animations] Faster HDT-SMP
