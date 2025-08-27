@@ -17,6 +17,7 @@ theme:
     - navigation.footer  # include links to the previous and next page
     - content.code.copy  # add copy-to-clipboard to code blocks
     # - navigation.sections  # rendered top-level sections as groups in the sidebar, for viewports above 1220px
+    - navigation.indexes  # attach the index.md to the main section
   palette:
     scheme: slate
     primary: custom
