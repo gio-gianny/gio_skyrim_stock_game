@@ -99,7 +99,7 @@
 *TerrainHelper.esp
 *water mod.esp
 *Unlimited Training.esp
-SGEyebrows.esp
+*SGEyebrows.esp
 *Kalilies Brows for High Poly Head.esp
 *nchardak waterfall fix.esp
 *HPP - Vaermina's Torpor.esp
@@ -116,7 +116,7 @@ SGEyebrows.esp
 *Embers XD - Patch - Survival Mode.esp
 *HDR - Interiors.esp
 *TL Bulbs ISL.esp
-TL - Default.esp
+*TL - Default.esp
 *Sentinel.esp
 *Sentinel - Sailors and Swashbucklers.esp
 *Sentinel - Priests and Acolytes.esp
@@ -125,4 +125,4 @@ TL - Default.esp
 *Sentinel - City Guards.esp
 *Sentinel - Memories of Morrowind.esp
 *MjrK_C.O.C.K.S.ified.esp
-Synthesis.esp
+*Synthesis.esp
