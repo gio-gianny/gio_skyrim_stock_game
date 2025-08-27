@@ -1,12 +1,17 @@
 ---
 tags:
-    - body, face, hair
-    - hair
-    - physics
-    - nexus
-    - racemenu
-    - racemenu presets
+    # - body, face, hair
+    # - hair
+    # - physics
+    # - nexus
+    # - racemenu
+    # - racemenu presets
+    - rejected
 ---
+
+!!! warning "Rejected"
+
+    Not much better than the other hairs.
 
 # Great Moders' HDT-SMP Physics Hair and Xing
 

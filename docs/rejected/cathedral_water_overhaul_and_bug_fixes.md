@@ -1,10 +1,15 @@
 ---
 tags:
-    - environmental
-    - nexus
-    - visual and graphics
-    - water
+    # - environmental
+    # - nexus
+    # - visual and graphics
+    # - water
+    - rejected
 ---
+
+!!! warning "Rejected"
+
+    Use colors from ``Simplicity of Sea``.
 
 # Cathedral - Water Overhaul and Bug Fixes
 

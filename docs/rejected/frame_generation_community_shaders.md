@@ -1,10 +1,16 @@
 ---
 tags:
-    - community shaders
-    - community shaders official addon
-    - nexus
-    - visual and graphics
+    # - community shaders
+    # - community shaders official addon
+    # - nexus
+    # - visual and graphics
+    - rejected
 ---
+
+!!! warning "Rejected"
+
+    My monitor is 75Hz, so this doesn't add anything to it. Instead, my GPU usage jumps
+    to 100% most of the time. Better stick with the default `Display Tweaks`.
 
 # Frame Generation - Community Shaders
 

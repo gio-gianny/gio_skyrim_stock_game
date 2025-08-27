@@ -1,13 +1,18 @@
 ---
 tags:
-    - community shaders
-    - community shaders official addon
-    - nexus
-    - utilities
-    - visual and graphics
+    # - community shaders
+    # - community shaders official addon
+    # - nexus
+    # - utilities
+    # - visual and graphics
+    - rejected
 ---
 
 # DisplayTweaks settings for Frame Generation (CS or ENB)
+
+!!! warning "Rejected"
+
+    Rejected because its dependency ``Frame Generation`` was rejected.
 
 ```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/144637

@@ -1,14 +1,19 @@
 ---
 tags:
-    - armor
-    - body, face, hair
-    - body
-    - cbbe
-    - nexus
-    - racemenu
-    - racemenu overlays
-    - tattoos
+    # - armor
+    # - body, face, hair
+    # - body
+    # - cbbe
+    # - nexus
+    # - racemenu
+    # - racemenu overlays
+    # - tattoos
+    - rejected
 ---
+
+!!! warning "Rejected"
+
+    Armor prices too high compared with the materials.
 
 # Daymarr Yokuda - CBBE-UUNP SE
 
