@@ -29,7 +29,10 @@ downloads:
 
 !!! warning "Important"
 
-    Run [Synthesis](#synthesis-patching) after installing or changing configuration.
+    After installing or changing configuration:
+
+    * run [Synthesis](#synthesis-patching)
+    * check in *MO2*'s ``Plugin`` tag that the new ``.esp`` are enabled
 
 ```fomod_settings
 pages:
@@ -39,9 +42,7 @@ pages:
           default:
             value: Fixed Vanilla
             notes: Personal templates that I use. Just fixed up vanilla, brighter dungeons and interiors and still balanced.
-          selected:
-            value: Default
-            notes: Default template
+          selected: Bright
     - name: Add-Ons and Patches
       sections:
         - name: Add-Ons
@@ -52,6 +53,9 @@ pages:
               default: No
             - name: Dwemer Swap BOS
               default: No
+              selected:
+                value: Yes
+                notes: This Base Object Swapper INI file replaces Dwemer light sources with their 'on' variants.
             - name: FX Glow Remover BOS
               default: No
               selected:

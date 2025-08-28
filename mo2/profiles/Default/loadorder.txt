@@ -89,6 +89,7 @@ High Poly Head.esm
 Embers XD.esm
 True Light.esm
 Sentinel - Master Plugin.esp
+SAS.esl
 ECE Sliders for Racemenu.esl
 SkyUI_SE.esp
 SMIM-SE-Merged-All.esp
@@ -103,6 +104,7 @@ point the way.esp
 AE Quest Disable - Netch Leather.esp
 CCQuest - Experience Patch.esp
 ArteFake.esp
+True Light Exteriors.esp
 AE Quest Disable - Alternative Armors.esp
 Quick Start - SE.esp
 RaceMenuPlugin.esp
@@ -196,7 +198,6 @@ Embers XD - Patch - Remove Snow.esp
 Embers XD - Patch - Survival Mode.esp
 HDR - Interiors.esp
 TL Bulbs ISL.esp
-TL - Default.esp
 Sentinel.esp
 Sentinel - Sailors and Swashbucklers.esp
 Sentinel - Priests and Acolytes.esp
@@ -205,4 +206,6 @@ Sentinel - Alternative Armors.esp
 Sentinel - City Guards.esp
 Sentinel - Memories of Morrowind.esp
 MjrK_C.O.C.K.S.ified.esp
+ShowPlayerInMenus.esp
+TL - Fixed Vanilla.esp
 Synthesis.esp

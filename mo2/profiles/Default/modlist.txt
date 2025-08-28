@@ -224,14 +224,16 @@
 -Utilities_separator
 +[Audio] Sound Record Distributor
 -Audio_separator
--[User Interface] Show Player in Menus
++[User Interface] Show Player in Menus - Config
++[User Interface] Show Player in Menus
++[User Interface] SkyUI AIO Survival (SAS)
++[User Interface] Constructible Object Custom Keyword System - C.O.C.K.S.ified
++[User Interface] Constructible Object Custom Keyword System - Separate Weapon and Armor
 +[User Interface] Difficulty Persistence Fix (For 219 Ultrawide Support)
 +[User Interface] Complete Widescreen Fix 219 for Vanilla and SkyUI
 +[User Interface] Widescreen Scale Removed for 1-6-1130 and higher
 +[User InterfaceI] TrueHUD - HUD Additions
 -[User Interface] Quest Journal Fixes
-+[User Interface] Constructible Object Custom Keyword System - C.O.C.K.S.ified
-+[User Interface] Constructible Object Custom Keyword System - Separate Weapon and Armor
 -[User Interface] Constructible Object Custom Keyword System - 21x9 Patch
 +[User Interface] Constructible Object Custom Keyword System
 +[User Interface] Clean Menu Plus
