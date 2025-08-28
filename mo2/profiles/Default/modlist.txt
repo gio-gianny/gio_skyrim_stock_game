@@ -5,7 +5,7 @@
 +[Output] SSEEdit
 +[Output] Pandora
 +[Output] BodySlide
-+[Output] Synthesis
+-[Output] Synthesis
 +[Output] My Character Presets
 +[Fixes & Patches] kryptopyr's Automated Patches
 -Output_separator
@@ -37,7 +37,7 @@
 +[Immersion] Dynamic Things Alternative - Base Object Swapper
 +[Immersion] Diverse Windmill Sails - Base Object Swapper
 -Immersion_separator
-+[Community Shaders] True Light
+-[Community Shaders] True Light
 +[Community Shaders] CS Lights
 +[Community Shaders] Wetness Effects
 +[Community Shaders] Water Effects
@@ -90,11 +90,17 @@
 -Models & Textures_separator
 +[Crafting] Ars Metallica - Smithing Enhancement
 -Crafting_separator
++[x][Magic] Acquisitive Soul Gems Multithreaded
++[Magic] Sustained Magic - Keep Your Spells Going
+-Magic_separator
 +[Weapons] ArteFakes - Unique Artifacts Replacer - Updated Plugin
 +[Weapons] ArteFakes - Unique Artifacts Replacer
 +[Armor & Weapons] Sentinel - An Equipment Overhaul - Required Resources
 +[Armor & Weapons] Sentinel - An Equipment Overhaul
 +[Clothing] RUSTIC CLOTHING - Special Edition
++[Armor] Steel Plate Armors - Sentinel Addon
++[Armor] Steel Plate Armors
++[Armor] Savage Bikini
 +[Armor] CBBE Outfits - No Rim Lighting
 +[Armor] Weapons Armor Clothing and Clutter Fixes - 3BA WACCF
 +[Armor] Weapons Armor Clothing and Clutter Fixes - CBBE Patch
@@ -227,13 +233,15 @@
 +[User Interface] Show Player in Menus - Config
 +[User Interface] Show Player in Menus
 +[User Interface] SkyUI AIO Survival (SAS)
-+[User Interface] Constructible Object Custom Keyword System - C.O.C.K.S.ified
-+[User Interface] Constructible Object Custom Keyword System - Separate Weapon and Armor
++[x][User Interface] Favorites Menu Effects Description
 +[User Interface] Difficulty Persistence Fix (For 219 Ultrawide Support)
 +[User Interface] Complete Widescreen Fix 219 for Vanilla and SkyUI
 +[User Interface] Widescreen Scale Removed for 1-6-1130 and higher
-+[User InterfaceI] TrueHUD - HUD Additions
++[User Interface] TrueHUD - HUD Additions
++[User Interface] OxygenMeter2
 -[User Interface] Quest Journal Fixes
++[x][User Interface] Constructible Object Custom Keyword System - Light Usability Tweaks
+-[User Interface] Constructible Object Custom Keyword System - Separate Weapon and Armor
 -[User Interface] Constructible Object Custom Keyword System - 21x9 Patch
 +[User Interface] Constructible Object Custom Keyword System
 +[User Interface] Clean Menu Plus
@@ -268,6 +276,7 @@
 +[Animations] Animation Queue Fix
 +[Animations] Pandora Behaviour Engine Plus
 -Animation - Essential_separator
++[x][Fixes & Patches] Persistent Favorites
 +[Fixes & Patches] WACCF - Weapons Armor Clothing and Clutter Fixes
 +[Fixes & Patches] Sprint Sneak Movement Speed Fix
 +[Fixes & Patches] SMP-NPC crash fix

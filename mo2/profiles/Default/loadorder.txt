@@ -87,13 +87,11 @@ SmoothCam.esl
 Expressive Facegen Morphs.esl
 High Poly Head.esm
 Embers XD.esm
-True Light.esm
 Sentinel - Master Plugin.esp
 SAS.esl
 ECE Sliders for Racemenu.esl
 SkyUI_SE.esp
 SMIM-SE-Merged-All.esp
-True Light - Shadows and Ambient.esp
 Weapons Armor Clothing & Clutter Fixes.esp
 AI Overhaul.esp
 Orc Strongholds - All In One.esp
@@ -104,7 +102,6 @@ point the way.esp
 AE Quest Disable - Netch Leather.esp
 CCQuest - Experience Patch.esp
 ArteFake.esp
-True Light Exteriors.esp
 AE Quest Disable - Alternative Armors.esp
 Quick Start - SE.esp
 RaceMenuPlugin.esp
@@ -113,7 +110,6 @@ Sunstarved_Tanlines.esp
 SFO_SkinFeatureOverlays.esp
 AutoShowNote.esp
 ars metallica.esp
-True Light - USSEP Patch.esp
 AE Quest Disable - Dead Man's Dread.esp
 Natureborn Body Paints.esp
 MBW Dragon Souls to Perk Points - v3-2.esp
@@ -190,14 +186,11 @@ Simplicity of Snow.esp
 Shaders of Solstheim.esp
 Diverse Windmill Sails.esp
 Dynamic Things Alternative.esp
-True Light - Creation Club.esp
 Embers XD - Patch - Goldenhills Plantation.esp
 Embers XD - Fire Magick Add-On.esp
 Embers XD - Reduced Actor Flames.esp
 Embers XD - Patch - Remove Snow.esp
 Embers XD - Patch - Survival Mode.esp
-HDR - Interiors.esp
-TL Bulbs ISL.esp
 Sentinel.esp
 Sentinel - Sailors and Swashbucklers.esp
 Sentinel - Priests and Acolytes.esp
@@ -205,7 +198,8 @@ Sentinel - Backpacks and Bandoliers.esp
 Sentinel - Alternative Armors.esp
 Sentinel - City Guards.esp
 Sentinel - Memories of Morrowind.esp
-MjrK_C.O.C.K.S.ified.esp
 ShowPlayerInMenus.esp
-TL - Fixed Vanilla.esp
-Synthesis.esp
+Savage Bikini.esp
+NW_Steel_Plate_Armors.esp
+Sustained Magic.esp
+AcquisitiveSoulGemMultithreaded.esp
