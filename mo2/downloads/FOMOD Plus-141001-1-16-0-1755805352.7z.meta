@@ -1,0 +1,19 @@
+[General]
+gameName=SkyrimSE
+modID=141001
+fileID=657886
+url=
+name=FOMOD Plus for MO2 2.5.2
+description="Extract to your MO2 ROOT directory. Changes are in the changelog and stickied post. Please read them :). Enjoy!\n<br />\n<br />ONLY FOR MO2 2.5.2\n<br />\n<br />Fixes issue with selecting game version. Was a massive headache to build for 2.5.2 with upstream MO2 changes. &lt;3"
+modName=FOMOD Plus - A Mod Installation Overhaul for Mod Organizer 2
+version=1.16.0.0
+newestVersion=0.0.0.0
+fileTime=@DateTime(\0\0\0\x10\0\x80\0\0\0\0\0\0\0\xff\xff\xff\xff\0)
+fileCategory=1
+category=39
+repository=Nexus
+userData=@Variant(\0\0\0\b\0\0\0\0)
+installed=false
+uninstalled=false
+paused=false
+removed=false

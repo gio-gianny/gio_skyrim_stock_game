@@ -1,6 +1,6 @@
 ---
 tags:
-    - essential
+    - "importance: medium"
     - nexus
     - user interface
 ---

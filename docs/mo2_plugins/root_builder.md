@@ -1,5 +1,6 @@
 ---
 tags:
+    - "importance: essential"
     - mo2 plugin
     - nexus
     - root builder
