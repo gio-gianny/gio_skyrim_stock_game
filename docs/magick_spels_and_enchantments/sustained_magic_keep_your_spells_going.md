@@ -1,6 +1,6 @@
 ---
 tags:
-    - important
+    - favorite
     - magic
     - nexus
     - spells

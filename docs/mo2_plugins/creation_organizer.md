@@ -1,6 +1,6 @@
 ---
 tags:
-    - "importance: essential"
+    - essential
     - creation club
     - mo2 plugin
     - nexus

@@ -1,6 +1,6 @@
 ---
 tags:
-    - important
+    - favorite
     - nexus
     - user interface
 ---

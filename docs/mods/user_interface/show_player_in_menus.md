@@ -1,6 +1,6 @@
 ---
 tags:
-    - "importance: medium"
+    - favorite
     - nexus
     - user interface
 ---

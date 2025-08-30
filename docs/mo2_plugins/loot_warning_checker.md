@@ -1,6 +1,6 @@
 ---
 tags:
-    - "importance: essential"
+    - essential
     - mo2 plugin
     - nexus
     - sseedit

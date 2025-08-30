@@ -1,6 +1,6 @@
 ---
 tags:
-    - "importance: essential"
+    - essential
     - fixes & patches
     - root builder
     - nexus

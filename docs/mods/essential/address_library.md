@@ -1,6 +1,6 @@
 ---
 tags:
-    - "importance: essential"
+    - essential
     - nexus
 ---
 

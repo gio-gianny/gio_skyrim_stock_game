@@ -1,7 +1,7 @@
 ---
 tags:
     - fomod
-    - "importance: essential"
+    - essential
     - mo2 plugin
     - nexus
 ---
