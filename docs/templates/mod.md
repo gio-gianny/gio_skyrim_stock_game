@@ -69,3 +69,13 @@ tags:
 | Shortcut | Effect |
 |---|---|
 | | Open in-game UI |
+
+## BodySlide
+
+<!--bodyslide-start-->
+| Setting | Value |
+|---|---|
+| **Filter Groups...** | |
+| **Filter Outfits...** | |
+| **Preset** | |
+<!--bodyslide-end-->
