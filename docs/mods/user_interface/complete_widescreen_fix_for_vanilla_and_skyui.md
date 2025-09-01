@@ -65,7 +65,6 @@ pages:
           default: No
         - name: Constructable Object Custom Keyword System
           default: No
-          selected: Yes
         - name: Playstation 4 Button Icons for SkyUI
           default: No
         - name: Remove QuickSave Button from SkyUI System Menu
@@ -76,6 +75,7 @@ pages:
           default: No
         - name: Forget Spell
           default: No
+          selected: Yes
         - name: Pastel Markers - Vanilla - SkyUI - Anniversary Edition
           default: No
           selected: Yes
