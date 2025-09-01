@@ -2,6 +2,7 @@
 tags:
     - armor
     - bodyslide
+    - fomod
     - himbo
     - models
     - nexus
@@ -22,3 +23,45 @@ requirements:
 downloads:
     - Immersive Armor HIMBO V2
 ```
+
+```fomod_settings
+pages:
+    - name: Boiled Chitin
+      sections:
+        - name: Classic or new
+          selected:
+            value: Classic
+            notes: Based on the version from vanilla IA
+    - name: DragonHide Robes
+      sections:
+        - name: Custom or Classic
+          default: Custom
+          selected: Classic
+    - name: Falkreath Helmet
+      sections:
+        - name: Custom or Steel Plate
+          default: Custom
+    - name: Paladin Armor
+      sections:
+        - name: Cape or No Cape
+          default: Cape
+    - name: Seadog
+      sections:
+        - name: Custom or Classic
+          default: Custom
+          selected: Classic
+    - name: 3BA Patch
+      sections:
+        - name: 3BA or Vanilla
+          default: 3BA
+```
+
+## BodySlide
+
+<!--bodyslide-start-->
+| Setting | Value |
+|---|---|
+| **Filter Groups...** | HIMBO Immersive Armor |
+| **Filter Outfits...** |  |
+| **Preset** | HIMBO Default |
+<!--bodyslide-end-->

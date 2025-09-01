@@ -7,6 +7,7 @@ tags:
     - make
     - nexus
     - sentinel
+    - weapons and armor
 ---
 
 # Steel Plate Armors for HIMBO
@@ -22,8 +23,10 @@ downloads:
 
 ## BodySlide
 
+<!--bodyslide-start-->
 | Setting | Value |
 |---|---|
 | **Filter Groups...** | HIMBO - Steel Plate Armors |
 | **Filter Outfits...** |  |
 | **Preset** | HIMBO Default |
+<!--bodyslide-end-->

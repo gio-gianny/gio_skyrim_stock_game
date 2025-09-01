@@ -21,7 +21,6 @@ tags:
     * window sizes and splitter positions persist between mod installs.
     * **FOMOD installer window won't block the main MO2 window**
 
-
 ```project_info
 homepage: https://www.nexusmods.com/skyrimspecialedition/mods/141001
 about: A total rewrite and overhaul of the FOMOD experience. Show and install previous choices, filter your modlist by FOMOD-installed mods, scan to pre-populate FOMOD content detection, non-blocking, smart-resizing installer window, and more!
@@ -53,3 +52,19 @@ downloads:
 * install a mod
 * when you reinstall (reconfigure) a mod, the choices you've done before will be
     highlighted
+
+## Settings
+
+### FOMOD Plus
+
+!!! info
+
+    The settings are in ``Settings > Plugins > Installer > FOMOD Plus``.
+
+| Option | Description | Default Value |
+| --- | --- | --- |
+| fallback_to_legacy | When hitting cancel, fallback to the legacy installer | false |
+| always_restore_choices | Restore previous choices without clicking the button | false |
+| show_images | Show image previews and the image carousel | true |
+| color_theme | Select the color theme for the installer | "Blue" |
+| show_notifications | Show the notifications panel (WIP) | false |

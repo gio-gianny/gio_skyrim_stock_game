@@ -8,6 +8,7 @@ tags:
     - female
     - nexus
     - sentinel
+    - weapons and armor
 ---
 
 # Steel Plate Armors - CBBE - 3BAv2 - Bodyslides
@@ -23,8 +24,10 @@ downloads:
 
 ## BodySlide
 
+<!--bodyslide-start-->
 | Setting | Value |
 |---|---|
 | **Filter Groups...** | Unassigned |
 | **Filter Outfits...** | NW_ |
 | **Preset** | CBBE Curvy |
+<!--bodyslide-end-->

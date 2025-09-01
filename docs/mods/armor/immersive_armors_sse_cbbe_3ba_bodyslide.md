@@ -23,3 +23,13 @@ downloads:
     - Immersive Armours - SSE CBBE 3BA BodySlide
     - Immersive Armours - CBBE 3BA PATCH
 ```
+
+## BodySlide
+
+<!--bodyslide-start-->
+| Setting | Value |
+|---|---|
+| **Filter Groups...** | Immersive Armours SSE 3BA Physics |
+| **Filter Outfits...** |  |
+| **Preset** | CBBE Curvy |
+<!--bodyslide-end-->
